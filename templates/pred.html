@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>SB Admin V2 - Bootstrap Admin Theme</title>
+    <!-- Data Table -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/t/dt/jq-2.2.0,jszip-2.5.0,pdfmake-0.1.18,dt-1.10.11,af-2.1.1,b-1.1.2,b-colvis-1.1.2,b-flash-1.1.2,b-html5-1.1.2,b-print-1.1.2,cr-1.3.1,fc-3.2.1,fh-3.1.1,kt-2.1.1,r-2.0.2,rr-1.1.1,sc-1.4.1,se-1.1.2/datatables.min.css"/>
+
+    <!-- Prtein Feature Visualization    -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/calipho-sib/feature-viewer/v0.1.44/dist/feature-viewer.min.css">
+
+    <!-- bootstrap Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- MetisMenu CSS -->
+    <link href="static/metisMenu/metisMenu.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="static/dist/css/sb-admin-2.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="static/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+<style>
+
+    div#proteinFeatureConteiner {
+        height: 400px;
+        overflow: auto;
+        scrollbar-base-color:#ffeaff
+    }
+
+    #scrollable-dropdown-menu .tt-dropdown-menu {
+        max-height: 150px;
+        overflow-y: auto;
+    }
+
+    .tt-query, /* UPDATE: newer versions use tt-input instead of tt-query */
+    .tt-hint {
+        width: 396px;
+        height: 30px;
+        padding: 8px 12px;
+        font-size: 14px;
+        line-height: 30px;
+        border: 2px solid #ccc;
+        border-radius: 8px;
+        outline: none;
+    }
+
+    .tt-query { /* UPDATE: newer versions use tt-input instead of tt-query */
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    }
+
+    .tt-hint {
+        color: #999;
+    }
+
+    .tt-menu { /* UPDATE: newer versions use tt-menu instead of tt-dropdown-menu */
+        width: 200px;
+        margin-top: 12px;
+        padding: 8px 0;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+        box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    }
+
+    .tt-suggestion {
+        padding: 3px 20px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .tt-suggestion.tt-is-under-cursor { /* UPDATE: newer versions use .tt-suggestion.tt-cursor */
+        color: #fff;
+        background-color: #0097cf;
+
+    }
+
+    .tt-suggestion p {
+        margin: 0;
+    }
+
+    tr {
+        font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+        font-size: 14px;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        line-height: 20px;
+        word-wrap: break-word;
+
+    }
+
+    #page-wrapper {
+    position: inherit;
+    margin: 0 0 0 0px;
+    padding: 0 30px;
+    border-left: 1px solid #e7e7e7;}
+
+        /* Add a black background color to the top navigation */
+        .topnav {
+        background-color: #333;
+        overflow: hidden;
+    }
+
+    /* Style the links inside the navigation bar */
+    .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    }
+
+    /* Change the color of links on hover */
+    .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    }
+
+    /* Add a color to the active/current link */
+    .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+    }
+
+    /* Right-aligned section inside the top navigation */
+    .topnav-right {
+    float: right;
+
+
+</style>
+
+<nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+    <div class="row">
+            <h1 class="page-header" style="text-align:center;" >Glycosylation Web Server</h1>
+    </div> 
+
+
+    <div class="topnav">
+        <a href="/home">Home</a>
+        <a href="/prediction">Prediction</a>
+        <div class="topnav-right">
+          <a href="#about">About</a>
+        </div>
+      </div>
+
+
+</nav>
+
+        <div id="page-wrapper">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header" >Prediction </h1>
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+
+            <form action= "" method="POST" ></form>
+                <div class="row">
+
+                    <div class="col-md-7">
+                            <div class="accession_input">
+                                    <div class="form-group">
+                                        <textarea class="form-control" rows="12"
+                                                    placeholder="Input a single Protein Sequence in FASTA format"
+                                                    id="text_area" name="area"
+                                                    style="font-family:monospace; white-space: pre-wrap;"></textarea>
+                                    
+                                        <p class="pull-left">&nbsp;Example: Load the FASTA sequence for <a id="link4">Tb927.1.5100 </a> ESAG2</p>
+                                    </div>
+                            </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <p></p>
+                        <p class="pull-left"><a id="popoverData2"
+                                data-content="A single protein sequence in FASTA format is expected to have between 30 < amino acids < 3000 in length."
+                                rel="popover" data-placement="right" data-trigger="hover"><i class="fa fa-info-circle" style="font-size: 110%;"></i></a></p>
+                        
+                        <div class="col-md-1"></div>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-md-12" style="padding-left: 30px;">
+                        <button id="reset_form" type="reset" class="btn btn-default">Clear</button>&nbsp;&nbsp;
+                        <button id="submit_form" type="submit" class="btn btn-primary">Submit</button>&nbsp;&nbsp;
+                    </div>
+                </div>
+            </form>
+            </br>
+
+
+                
+
+
+            <div class='row'>
+                <div class="col-md-7">
+                    <div class="panel panel-default">
+                        
+                        <div class="panel-heading">
+                            Prediction Results
+                            <div class="loader" >
+                                <img src="http://i.stack.imgur.com/FhHRx.gif"/>
+                            </div>
+
+                        </div>
+                        
+                        
+                        <div class="panel-body">
+                            <div id='results' >
+                                <div id='result_table'>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        
+                    </div>
+
+                </div>
+
+            </div>
+            
+
+
+
+
+
+
+        </div>
+        
+
+    
+
+    
+    
+    <!-- /#wrapper -->
+    <!-- Protein Feature Visualization  -->
+    <script src="static/js/feature-viewer.bundle.js"></script>
+
+    <!-- jQuery -->
+    <script src="static/jquery/jquery-3.1.1.min.js"></script>
+
+    <!-- Date Table -->
+    <script type="text/javascript" src="https://cdn.datatables.net/t/dt/jq-2.2.0,jszip-2.5.0,pdfmake-0.1.18,dt-1.10.11,af-2.1.1,b-1.1.2,b-colvis-1.1.2,b-flash-1.1.2,b-html5-1.1.2,b-print-1.1.2,cr-1.3.1,fc-3.2.1,fh-3.1.1,kt-2.1.1,r-2.0.2,rr-1.1.1,sc-1.4.1,se-1.1.2/datatables.min.js"></script>
+
+    <!-- bootstrap     -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <!-- typeahead -->
+    <script src="static/twitter/typeahead/typeahead.bundle.min.js"></script>
+    <script src="static/twitter/typeahead/typeahead.jquery.min.js"></script>
+    <script src="static/twitter/typeahead/bloodhound.min.js"></script>
+
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="static/metisMenu/metisMenu.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="static/dist/js/sb-admin-2.js"></script>
+
+    <script type="text/javascript">
+
+        
+        $(document).ready(function(){
+
+
+        $(".loader").hide();  
+        $("#link4").click(function(){
+            $("#text_area").val(">Tb927.1.5100 ESAG2\nMRYEIVFTVGLFATVLSPSFQGDMVGYKWATESINWSAITRLVGVNDKYHNAGEFETLCR\nIYRITQAEAPQPSFENREKEGEIMNKLEEMVKQTAGAGVNNSSSKSGSSTTAYQEIRKLL\nEKAKKLKEEIEANRTKALYASRSAEDNMLRAVYGDAVDVARNENKTLEQAMRGNKSLLFN\nNVENAGTSCGSYGDKLVGKTLINDFFCLCVGEAKKVQIKKSVAKDEYDPTYDGVYNGFNC\nPCKDEMRRPRSGSWTMMAEFCVSGEDNCNPENIKYNYTEAWDVISKACVYKNIASNVKTL\nKSALAHFDSLVNLEQDKYQVRGILGYANAEENTDHICTGHTAGFTCVSYNHTLENGGIPW\nYNRLTNATEQLQEMDKYAKEADSHLHELEEYQHEAEEIFLEVKLGGDAELWKSSQGKGDG\nEGDNTVVDNDGLTHLNIATGGFTLLVLSLICTL");
+        });
+
+
+
+        
+
+        //$('#text_area').attr('placeholder', 'hello' );
+
+
+
+
+
+
+
+        });
+    
+
+        $('#popoverData2').popover();
+
+        $('#reset_form').on('click', function() {
+            //$('#enter').trigger('keyup');
+            $('#text_area').val("");
+        
+        });
+
+
+        
+
+        function validateFasta(seq){
+
+
+            if (!seq) { 
+
+            alert("No input"); 
+
+            // check there is something first of all
+                return false;
+            }
+
+
+            seq = seq.trim();
+
+            // split on newlines... 
+            var lines = seq.split('\n');
+
+            // check for header
+            if (seq[0] == '>') {
+
+                // remove one line, starting at the first position  
+                lines.splice(0, 1);
+            
+                if (lines[0] ==undefined) {
+                    alert("Please enter amino acid sequence in second line"); 
+                }
+            }
+
+            else { alert("First line should start with '>' and amino-acid sequence in next line. Please refer to example data");  
+                
+                return false;}
+
+            // join the array back into a single string without newlines and 
+            // trailing or leading spaces
+            seq = lines.join('').trim();
+
+            
+            if (seq.search(/[^ACDEFGHIKLMNPQRSTUVWY\s]/i) != -1) { 
+
+                alert("Unspecified amino acid seq");  
+                //The seq string contains non-protein characters
+                return false;
+            }
+
+
+            if ( seq.length > 2000) {
+                alert("Sequence too long ");  
+                return false;
+            }
+
+            return true;
+        }
+
+
+        
+
+        
+        function sendProteinToPredict(fasta){
+
+            //console.log('sending request'); 
+            
+            $('#result_table').html('');
+            $(".loader").show();
+            var request = $.getJSON( "predictProtein/"+fasta, function( data ) {
+
+            
+                var html_table = data['table']
+                
+                //console.log('table-----', html_table)
+
+                $('#result_table').html(html_table )
+
+                var table = $('#html_table').DataTable()
+
+                //console.log('request2', data);  
+
+                $(".loader").hide();
+                
+            });
+
+            
+
+
+        };
+
+
+
+
+        $('#submit_form').on('click', function() {
+            //$('#enter').trigger('keyup');
+            var fasta = $('#text_area').val();
+            
+            var result = validateFasta(fasta);
+            
+
+            if (result) {
+                //console.log('success-----', result);
+
+                //console.log('fasta------',fasta);
+
+                fasta = fasta.replace(/\n/g, '<br/>');
+
+                console.log('sendProteinToPredict');
+                sendProteinToPredict(fasta);
+
+
+            }
+
+
+
+        });
+
+
+
+    </script>
+
+
+
+
+
+
+</body>
+
+</html>

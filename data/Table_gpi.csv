@@ -1,0 +1,172 @@
+,Prot_id,GPI_site,GPI_score,GPI_pval,prot_len,SignalP_score,SignalP_position,Desc
+0,Tb927.1.4720,602,-1.54,2.139981e-03,631,0.0010609999999999999,nan,SET domain containing protein  putative
+1,Tb927.1.4890,431,-1.95,2.279188e-03,454,0.885252,CS pos: 22-23,expression site-associated gene 2 (ESAG2) protein  putative
+2,Tb927.1.5060,327,2.29,1.130246e-03,345,0.790516,CS pos: 22-23,variant surface glycoprotein (VSG)-related  putative
+3,Tb927.1.5100,430,-1.95,2.279188e-03,453,0.909208,CS pos: 22-23,expression site-associated gene 2 (ESAG2) protein  putative
+4,Tb927.1.5220,278,2.24,1.139277e-03,297,0.998474,CS pos: 23-24,expression site-associated gene 9 (ESAG9) protein  putative
+5,Tb927.2.1600,292,1.56,1.283470e-03,310,0.037432,nan,invariant surface glycoprotein  putative
+6,Tb927.3.1640,147,-1.15,2.011715e-03,163,0.0070030000000000005,nan,hypothetical protein
+7,Tb927.3.2540,391,-3.81,3.019586e-03,407,0.981701,CS pos: 17-18,variant surface glycoprotein (VSG)-related  putative
+8,Tb927.3.2540,391,-3.81,3.019586e-03,407,0.021384999999999998,nan,variant surface glycoprotein (VSG)-related  putative
+9,Tb927.3.5680,473,-3.19,2.755308e-03,490,0.9236709999999999,CS pos: 17-18,variant surface glycoprotein (VSG)-related  putative
+10,Tb927.3.5700,333,4.70,7.248872e-04,353,0.9839030000000001,CS pos: 21-22,hypothetical protein  conserved
+11,Tb927.3.570,431,0.07,1.649664e-03,454,0.9668200000000001,CS pos: 22-23,expression site-associated gene 2 (ESAG2) protein  putative
+12,Tb927.3.5710,333,4.70,7.248872e-04,353,0.9839030000000001,CS pos: 21-22,hypothetical protein  conserved
+13,Tb927.3.5720,334,4.70,7.248872e-04,354,0.9839030000000001,CS pos: 21-22,hypothetical protein  conserved
+14,Tb927.3.5730,333,4.70,7.248872e-04,353,0.9839030000000001,CS pos: 21-22,hypothetical protein  conserved
+15,Tb927.3.5760,275,0.02,1.662855e-03,295,0.866192,CS pos: 23-24,hypothetical protein  conserved
+16,Tb927.4.1110,440,-3.48,2.875812e-03,459,0.99513,CS pos: 21-22,hypothetical protein  conserved
+17,Tb927.4.1230,306,9.64,2.590370e-04,331,0.9981209999999999,CS pos: 27-28,hypothetical protein
+18,Tb927.4.2600,1612,-3.22,2.767489e-03,1628,0.002154,nan,SUMO-interacting motif-containing protein
+19,Tb927.4.3190,192,3.26,9.486998e-04,220,0.004496,nan,ubiquitin-conjugating enzyme E2  putative
+20,Tb927.4.3270,348,5.67,6.000377e-04,369,0.9886889999999999,CS pos: 22-23,ESAG11-related protein  putative
+21,Tb927.4.3280,394,-0.80,1.901475e-03,410,0.998267,CS pos: 25-26,expression site-associated gene 2 (ESAG2) protein  putative
+22,Tb927.4.5560,493,-2.36,2.429456e-03,516,0.977879,CS pos: 21-22,variant surface glycoprotein (VSG)  putative
+23,Tb927.5.150,251,5.76,5.896774e-04,271,0.7199800000000001,CS pos: 17-18,hypothetical protein  conserved
+24,Tb927.5.1860,483,0.32,1.583681e-03,509,0.002451,nan,hypothetical protein  conserved
+25,Tb927.5.3990,453,-2.77,2.586417e-03,477,0.995317,CS pos: 23-24,variant surface glycoprotein (VSG  atypical)  putative
+26,Tb927.5.4020,251,6.88,4.707425e-04,272,0.9645969999999999,CS pos: 24-25,hypothetical protein
+27,Tb927.5.4620,276,7.20,4.406903e-04,296,0.9994569999999999,CS pos: 23-24,expression site-associated gene 9 (ESAG9) protein  putative
+28,Tb927.5.4670,481,4.14,8.065276e-04,500,0.8307709999999999,CS pos: 26-27,variant surface glycoprotein (VSG  atypical)  putative
+29,Tb927.5.4690,467,1.77,1.237103e-03,486,0.9004059999999999,CS pos: 25-26,variant surface glycoprotein (VSG  atypical)  putative
+30,Tb927.5.5610,451,8.78,3.139830e-04,475,0.909159,CS pos: 20-21,Variant Surface Glycoprotein  putative
+31,Tb927.6.450,105,4.30,7.830103e-04,127,0.9821850000000001,CS pos: 27-28,procyclin PARP A
+32,Tb927.6.470,433,-3.26,2.783245e-03,457,0.9457260000000001,CS pos: 19-20,gene related to expression site-associated gene 2 (GRESAG2)  putative
+33,Tb927.6.480,101,4.30,7.830103e-04,123,0.981608,CS pos: 27-28,surface protein EP3-2 procyclin precursor
+34,Tb927.6.500,433,-3.26,2.783245e-03,457,0.9457260000000001,CS pos: 19-20,gene related to expression site-associated gene 2 (GRESAG2)  putative
+35,Tb927.6.510,92,4.39,7.697775e-04,114,0.969656,CS pos: 20-21,GPEET procyclin
+36,Tb927.6.520,107,4.30,7.830103e-04,129,0.980049,CS pos: 27-28,EP3-2 procyclin
+37,Tb927.6.540,430,-1.64,2.171406e-03,454,0.980182,CS pos: 20-21,gene related to expression site-associated gene 2 (GRESAG2)  putative
+38,Tb927.6.710,210,3.28,9.460359e-04,241,0.02157,nan,dephospho-CoA kinase  putative
+39,Tb927.7.1140,157,0.62,1.506502e-03,176,0.003425,nan,trypanothione/tryparedoxin dependent peroxidase 3
+40,Tb927.7.1260,207,4.56,7.442926e-04,233,0.000884,nan,hypothetical protein  conserved
+41,Tb927.7.1280,209,7.20,4.404427e-04,233,0.000884,nan,hypothetical protein  conserved
+42,Tb927.7.170,241,8.19,3.567826e-04,260,0.8329290000000001,CS pos: 16-17,expression site-associated gene 9 (ESAG9) protein  putative
+43,Tb927.7.3250,375,2.22,1.143853e-03,397,0.9922280000000001,CS pos: 17-18,expression site-associated gene 6 (ESAG6) protein  putative
+44,Tb927.7.360,355,-2.77,2.584609e-03,382,0.994799,CS pos: 17-18,Salivary gland epimastigote 1
+45,Tb927.7.380,329,-1.16,2.015258e-03,356,0.994799,CS pos: 17-18,hypothetical protein  conserved
+46,Tb927.7.400,276,-1.16,2.015258e-03,303,0.96115,CS pos: 24-25,hypothetical protein  conserved
+47,Tb927.7.420,276,-2.77,2.584609e-03,303,0.9379379999999999,CS pos: 24-25,hypothetical protein  conserved
+48,Tb927.7.440,303,-1.16,2.015258e-03,330,0.995033,CS pos: 17-18,hypothetical protein  conserved
+49,Tb927.7.640,315,4.85,7.040101e-04,334,0.0015119999999999999,nan,hypothetical protein  conserved
+50,Tb927.8.1610,531,12.37,1.349560e-04,554,0.7841229999999999,CS pos: 31-32,MSP-B  putative
+51,Tb927.8.1620,531,12.37,1.349560e-04,554,0.7841229999999999,CS pos: 31-32,MSP-B  putative
+52,Tb927.8.1630,531,12.37,1.349560e-04,554,0.7841229999999999,CS pos: 31-32,MSP-B  putative
+53,Tb927.8.1640,531,12.37,1.349560e-04,554,0.836224,CS pos: 31-32,MSP-B  putative
+54,Tb927.8.1820,393,4.20,7.972241e-04,409,0.000947,nan,sterol carrier protein  putative
+55,Tb927.8.2890,406,0.22,1.610159e-03,422,0.009798999999999999,nan,hypothetical protein  conserved
+56,Tb927.8.7340,725,5.63,6.058607e-04,748,0.991864,CS pos: 23-24,trans-sialidase  putative
+57,Tb927.8.7350,725,5.63,6.058607e-04,748,0.991864,CS pos: 23-24,trans-sialidase  putative
+58,Tb927.8.930,445,3.66,8.826281e-04,470,0.990403,CS pos: 20-21,hypothetical protein
+59,Tb927.8.950,445,3.66,8.826281e-04,470,0.990403,CS pos: 20-21,hypothetical protein
+60,Tb927.9.1050,483,-3.05,2.698686e-03,501,0.660784,CS pos: 38-39,variant surface glycoprotein (VSG)  putative
+61,Tb927.9.1110,466,3.07,9.825504e-04,486,0.62531,CS pos: 26-27,variant surface glycoprotein (VSG  atypical)  putative
+62,Tb927.9.13200,168,-0.34,1.763712e-03,189,0.9751190000000001,CS pos: 22-23,hypothetical protein
+63,Tb927.9.15510,274,5.18,6.608895e-04,296,0.968878,CS pos: 22-23,BARP protein
+64,Tb927.9.15520,239,4.75,7.188846e-04,260,0.996318,CS pos: 22-23,BARP protein
+65,Tb927.9.15530,238,-4.23,3.211794e-03,260,0.996713,CS pos: 22-23,BARP protein
+66,Tb927.9.15540,268,-3.82,3.024028e-03,290,0.992432,CS pos: 22-23,BARP protein
+67,Tb927.9.15550,268,-3.82,3.024028e-03,290,0.990168,CS pos: 22-23,BARP protein
+68,Tb927.9.15560,233,5.48,6.238319e-04,255,0.996318,CS pos: 22-23,BARP protein
+69,Tb927.9.15570,256,-3.95,3.082249e-03,278,0.987533,CS pos: 22-23,BARP protein
+70,Tb927.9.15580,233,4.39,7.691282e-04,255,0.996034,CS pos: 22-23,BARP protein
+71,Tb927.9.15600,238,-3.97,3.090875e-03,260,0.990131,CS pos: 22-23,BARP protein
+72,Tb927.9.15610,238,5.36,6.379883e-04,260,0.993158,CS pos: 22-23,BARP protein
+73,Tb927.9.15620,232,4.18,8.005977e-04,254,0.996712,CS pos: 22-23,BARP protein
+74,Tb927.9.15630,239,5.91,5.722904e-04,261,0.9918290000000001,CS pos: 22-23,BARP protein
+75,Tb927.9.15640,238,-3.36,2.827595e-03,260,0.996043,CS pos: 22-23,BARP protein
+76,Tb927.9.15650,329,1.89,1.211932e-03,346,0.980951,CS pos: 24-25,hypothetical protein
+77,Tb927.9.16250,485,-3.27,2.788193e-03,505,0.8243520000000001,CS pos: 25-26,variant surface glycoprotein (VSG  atypical)  putative
+78,Tb927.9.16490,527,-3.28,2.793130e-03,550,0.616196,CS pos: 50-51,variant surface glycoprotein (VSG)  putative
+79,Tb927.9.16640,503,-0.72,1.878145e-03,526,0.993792,CS pos: 23-24,variant surface glycoprotein (VSG)  putative
+80,Tb927.9.17600,513,-0.79,1.897840e-03,536,0.940533,CS pos: 25-26,variant surface glycoprotein (VSG)  putative
+81,Tb927.9.190,476,0.40,1.561585e-03,499,0.992125,CS pos: 21-22,variant surface glycoprotein (VSG)  putative
+82,Tb927.9.580,509,-2.87,2.626192e-03,532,0.895018,CS pos: 24-25,variant surface glycoprotein (VSG)  putative
+83,Tb927.9.730,97,3.30,9.420139e-04,117,0.00132,nan,hypothetical protein  conserved
+84,Tb927.9.7330,448,2.57,1.075114e-03,472,0.972707,CS pos: 22-23,expression site-associated gene 2 (ESAG2) protein  putative
+85,Tb927.9.7370,238,9.37,2.753256e-04,258,0.9974200000000001,CS pos: 23-24,expression site-associated gene 9 (ESAG9) protein  putative
+86,Tb927.9.7410,448,2.57,1.075114e-03,472,0.972707,CS pos: 22-23,expression site-associated gene 2 (ESAG2) protein  putative
+87,Tb927.9.7420,242,2.82,1.028249e-03,261,0.998232,CS pos: 21-22,expression site-associated gene 9 (ESAG9) protein  putative
+88,Tb927.10.10210,352,-1.91,2.265382e-03,373,0.911842,CS pos: 24-25,procyclin-associated gene 4 (PAG4) protein
+89,Tb927.10.10240,386,-4.57,3.377026e-03,405,0.502513,CS pos: 39-40,procyclin-associated gene 1 (PAG1) protein
+90,Tb927.10.10250,107,4.30,7.830103e-04,129,0.9678459999999999,CS pos: 27-28,EP2 procyclin
+91,Tb927.10.10,440,-4.02,3.116907e-03,458,0.6441979999999999,CS pos: 22-23,variant surface glycoprotein VSG 10.1
+92,Tb927.10.12450,172,0.66,1.495088e-03,205,0.043407999999999995,nan,SNARE domain-containing protein  putative
+93,Tb927.10.14920,1160,-1.80,2.228221e-03,1180,0.000858,nan,hypothetical protein  conserved
+94,Tb927.10.16560,466,-4.39,3.289038e-03,483,0.092205,nan,variant surface glycoprotein (VSG)  putative
+95,Tb927.10.2340,75,-0.37,1.772402e-03,97,0.000365,nan,SNARE domain containing protein  putative
+96,Tb927.10.3620,286,-2.24,2.383355e-03,308,0.874455,CS pos: 23-24,Laminin-like protein  putative
+97,Tb927.10.6380,194,-0.50,1.811522e-03,219,0.0031969999999999998,nan,ring finger containing protein
+98,Tb927.10.6780,572,3.17,9.644854e-04,589,0.002389,nan,vacuolar protein sorting-associated protein 45  putative
+99,Tb927.10.9620,87,-3.64,2.945350e-03,110,0.015099000000000001,nan,NADH-ubiquinone oxidoreductase c
+100,Tb11.01.6240,432,-1.40,2.090982e-03,455,0.9566469999999999,CS pos: 22-23,expression site-associated gene 2 (ESAG2) protein  putative
+101,Tb11.1451.1,468,9.80,2.497035e-04,485,0.933457,CS pos: 21-22,variant surface glycoprotein (VSG)  putative
+102,Tb927.11.13080,502,2.11,1.165371e-03,526,0.002734,nan,hypothetical protein  conserved
+103,Tb927.11.17770,462,-0.34,1.765014e-03,485,0.492016,nan,variant surface glycoprotein (VSG  atypical)  putative
+104,Tb927.11.6640,107,6.57,5.016058e-04,133,0.001267,nan,cytochrome b5  putative
+105,Tb927.11.7820,529,1.41,1.316275e-03,547,0.0015949999999999998,nan,endonuclease/exonuclease/phosphatase  putative
+106,Tb927.11.8720,504,0.95,1.423630e-03,526,0.982352,CS pos: 24-25,Leishmanolysin-like peptidase  putative
+107,Tb927.11.18740,573,2.69,1.051134e-03,596,0.0010949999999999998,nan,variant surface protein (VSG)  putative
+108,Tb927.11.18900,527,2.75,1.039834e-03,548,0.025556,nan,variant surface protein (VSG)  putative
+109,Tb927.11.19180,454,3.48,9.116234e-04,474,0.959633,CS pos: 23-24,variant surface glycoprotein (VSG  atypical)  putative
+110,Tb927.11.20190,455,-2.69,2.555322e-03,474,0.228456,nan,variant surface glycoprotein (VSG)  putative
+111,Tb927.11.20240,464,6.04,5.581091e-04,484,0.9631850000000001,CS pos: 24-25,variant surface glycoprotein (VSG  atypical)  putative
+112,Tb927.11.20300,463,6.17,5.441232e-04,482,0.802675,CS pos: 19-20,variant surface glycoprotein (VSG)  putative
+113,Tb927.11.20490,491,-2.56,2.504728e-03,514,0.8107850000000001,CS pos: 23-24,variant surface glycoprotein (VSG)  putative
+114,Tb927.11.20660,490,-0.55,1.826861e-03,513,0.979349,CS pos: 25-26,variant surface glycoprotein (VSG)  putative
+115,Tb11.01.6241,432,-1.40,2.090982e-03,455,0.9566469999999999,CS pos: 22-23,expression site-associated gene (ESAG) protein  putative
+116,Tb11.01.6251,348,10.53,2.107672e-04,368,0.795338,CS pos: 21-22,expression site-associated gene 11 (ESAG11) protein  putative
+117,Tb11.1450.1,468,9.80,2.497035e-04,485,0.933457,CS pos: 21-22,variant surface glycoprotein (VSG)  putative
+118,Tb11.v5.0284,481,4.14,8.065276e-04,500,0.8307709999999999,CS pos: 26-27,variant surface protein  atypical (VSG)  putative
+119,Tb11.v5.0286,467,1.77,1.237103e-03,486,0.9004059999999999,CS pos: 25-26,variant surface protein  atypical (VSG)  putative
+120,Tb11.v5.0297,527,2.75,1.039834e-03,548,0.025556,nan,variant surface protein  putative
+121,Tb11.v5.0298,178,0.37,1.570150e-03,195,0.002821,nan,variant surface protein  putative
+122,Tb11.v5.0344,239,5.91,5.722904e-04,261,0.9918290000000001,CS pos: 22-23,BarP protein  putative
+123,Tb11.v5.0345,232,4.18,8.005977e-04,254,0.996712,CS pos: 22-23,BarP protein  putative
+124,Tb11.v5.0346,268,-3.82,3.024028e-03,290,0.9956879999999999,CS pos: 22-23,BarP protein  putative
+125,Tb11.v5.0389,361,1.25,1.353312e-03,383,0.004163,nan,variant surface glycoprotein (VSG  atypical)  putative
+126,Tb11.v5.0413,276,7.20,4.406903e-04,296,0.9994569999999999,CS pos: 23-24,expression site-associated gene 9 (ESAG9) protein
+127,Tb11.v5.0447,474,-4.31,3.249229e-03,491,0.7387050000000001,CS pos: 23-24,Variant Surface Glycoprotein  putative
+128,Tb11.v5.0601,564,12.37,1.349560e-04,587,0.11190599999999999,nan,major surface protease gp63  putative
+129,Tb11.v5.0630,542,-3.22,2.767489e-03,558,0.000739,nan,SUMO-interacting motif-containing protein
+130,Tb11.v5.0676,285,-1.40,2.090982e-03,308,0.002141,nan,expression site-associated gene 2 (ESAG2) protein  putative
+131,Tb11.v5.0677,348,10.53,2.107672e-04,368,0.793375,CS pos: 21-22,expression site-associated gene 11 (ESAG11) protein  putative
+132,Tb11.v5.0754,351,-1.99,2.295119e-03,381,0.061501,nan,variant surface glycoprotein (VSG)  putative
+133,Tb11.v5.0755,142,-3.12,2.726416e-03,160,0.001598,nan,variant surface glycoprotein (VSG)  putative
+134,Tb11.v5.0875,578,-3.39,2.839102e-03,595,0.001697,nan,hypothetical protein  conserved
+135,Tb11.v5.0939,105,-0.09,1.694388e-03,126,0.003564,nan,variant surface glycoprotein (VSG)  putative
+136,Tb11.v5.0953,451,8.78,3.139830e-04,475,0.909159,CS pos: 20-21,variant surface glycoprotein (VSG  atypical)  putative
+137,Tb11.v5.0984,251,5.76,5.896774e-04,271,0.7199800000000001,CS pos: 17-18,hypothetical protein  conserved
+138,Tb11.v5.1018,451,11.19,1.803964e-04,475,0.542167,CS pos: 20-21,variant surface glycoprotein (VSG)  putative
+139,Tb11.v5.1028,112,-3.79,3.014170e-03,130,0.0018789999999999998,nan,variant surface glycoprotein (VSG)  putative
+140,Tb11.v5.1029,318,0.37,1.570150e-03,335,0.00209,nan,variant surface glycoprotein (VSG)  putative
+141,Tb08.27P2.220,483,-1.90,2.263083e-03,504,0.030394,nan,variant surface glycoprotein (VSG  atypical)  putative
+142,Tb08.27P2.260,486,-0.22,1.731225e-03,509,0.956619,CS pos: 28-29,variant surface glycoprotein (VSG  atypical)  putative
+143,Tb08.27P2.460,472,-2.45,2.462172e-03,489,0.9922350000000001,CS pos: 21-22,variant surface glycoprotein (VSG)  putative
+144,Tb08.27P2.670,510,1.18,1.369211e-03,541,0.655004,CS pos: 38-39,variant surface glycoprotein (VSG  atypical)  putative
+145,Tb09.v4.0136,490,1.82,1.226814e-03,513,0.678474,CS pos: 44-45,variant surface glycoprotein (VSG  atypical)  putative
+146,Tb09.v4.0151,246,2.22,1.142946e-03,266,0.6463979999999999,CS pos: 25-26,hypothetical protein
+147,Tb09.v4.0202,467,1.51,1.294360e-03,484,0.9935649999999999,CS pos: 23-24,variant surface glycoprotein (VSG)  putative
+148,Tb10.v4.0070,487,-3.25,2.781395e-03,510,0.804967,CS pos: 29-30,variant surface glycoprotein (VSG)  putative
+149,Tb10.v4.0088,478,-3.27,2.789229e-03,497,0.286219,nan,variant surface glycoprotein (VSG)  putative
+150,Tb10.v4.0095,462,-3.12,2.726416e-03,480,0.001216,nan,variant surface glycoprotein (VSG)  putative
+151,Tb10.v4.0107,480,-2.37,2.431625e-03,497,0.796067,CS pos: 36-37,variant surface glycoprotein (VSG  atypical)  putative
+152,Tb10.v4.0145,474,-4.31,3.249229e-03,491,0.7387050000000001,CS pos: 23-24,variant surface glycoprotein (VSG  atypical)  putative
+153,Tb10.v4.0257,472,-4.06,3.133331e-03,490,0.990448,CS pos: 21-22,variant surface glycoprotein (VSG)  putative
+154,Tb11.0710,491,-2.56,2.504728e-03,514,0.8107850000000001,CS pos: 23-24,variant surface glycoprotein (VSG)  putative
+155,Tb11.0910,527,2.75,1.039834e-03,548,0.025556,nan,variant surface glycoprotein (VSG)  putative
+156,CAQ57294.1-BES1,459,21.58,1.195641e-07,476,,,
+157,CAQ57308.1-BES2,504,24.12,1.221284e-08,527,,,
+158,CAQ57319.1-BES3,506,28.86,6.584722e-11,529,,,
+159,CAQ57331.1-BES3,506,28.86,6.584722e-11,529,,,
+160,CAQ57371.1-BES5,503,28.78,7.251244e-11,526,,,
+161,CAQ57384.1-BES7,486,28.31,1.298438e-10,509,,,
+162,CAQ57398.1-BES7,486,28.31,1.298438e-10,509,,,
+163,CAQ57400.1-BES8,471,18.22,1.500141e-06,488,,,
+164,CAQ57406.1-BES10,514,26.23,1.417281e-09,537,,,
+165,CAQ57417.1-BES11,464,21.39,1.395466e-07,482,,,
+166,CAQ57426.1-BES12,443,29.96,1.576284e-11,466,,,
+167,CAQ57439.1-BES13,486,16.56,4.390572e-06,504,,,
+168,CAQ57450.1-BES14,472,18.70,1.078123e-06,489,,,
+169,CAQ57477.1-BES17,476,14.39,1.524690e-05,499,,,
+170,CAQ57489.1-BES17,476,14.39,1.524690e-05,499,,,

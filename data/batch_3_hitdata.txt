@@ -1,0 +1,1334 @@
+Q#1 - >Tb11.v5.0785	superfamily	150302	34	122	0.000150639	38.749	cl12365	Env-gp36 superfamily	NC	 - 
+Q#3 - >Tb11.v5.0736	specific	270871	98	354	1.73799e-102	305.565	cd13969	ADCK1-like	 - 	cl21453
+Q#3 - >Tb11.v5.0736	multi-dom	223733	53	393	1.44618e-70	232.201	COG0661	AarF	C	 - 
+Q#4 - >Tb11.v5.0807	specific	282683	4	487	9.93974e-53	182.583	pfam04857	CAF1	 - 	cl23804
+Q#5 - >Tb11.v5.0827	multi-dom	274008	60	458	7.0586e-12	67.389	TIGR02168	SMC_prok_B	N	 - 
+Q#6 - >Tb11.v5.0195	specific	285686	18	115	1.09706e-26	103.779	pfam08514	STAG	 - 	cl24209
+Q#6 - >Tb11.v5.0195	superfamily	301604	147	216	0.00504612	36.7946	cl15368	RNase_Ire1_like superfamily	C	 - 
+Q#7 - >Tb11.1610	specific	289949	57	302	1.5256e-29	113.794	pfam13206	VSG_B	N	cl20486
+Q#9 - >Tb11.v5.0210	specific	273352	16	463	4.68981e-151	435.686	TIGR00939	2a57	 - 	cl15430
+Q#10 - >Tb11.v5.0200	specific	239730	107	294	5.9333e-133	373.888	cd03761	proteasome_beta_type_5	 - 	cl00467
+Q#11 - >Tb11.v5.0806	superfamily	295179	411	480	0.000111904	40.2769	cl02111	PCI superfamily	C	 - 
+Q#12 - >Tb11.v5.0939	specific	287612	32	125	1.59469e-12	57.805	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#13 - >Tb11.v5.0157	superfamily	295646	73	109	0.00507198	35.6595	cl03075	GrpE superfamily	C	 - 
+Q#15 - >Tb11.v5.0838	superfamily	187754	26	98	0.00155406	39.2328	cl23706	AMN1 superfamily	N	 - 
+Q#15 - >Tb11.v5.0838	superfamily	187754	83	244	0.00292782	38.4624	cl23706	AMN1 superfamily	 - 	 - 
+Q#15 - >Tb11.v5.0838	multi-dom	227223	475	666	0.00573081	38.0254	COG4886	LRR	NC	 - 
+Q#16 - >Tb11.v5.0551	superfamily	187754	858	1014	1.05446e-10	61.5744	cl23706	AMN1 superfamily	 - 	 - 
+Q#16 - >Tb11.v5.0551	superfamily	187754	183	370	0.000275166	42.3144	cl23706	AMN1 superfamily	 - 	 - 
+Q#16 - >Tb11.v5.0551	superfamily	238064	336	606	0.00109205	41.187	cl23707	LRR_RI superfamily	 - 	 - 
+Q#16 - >Tb11.v5.0551	superfamily	187754	87	276	0.00202337	39.618	cl23706	AMN1 superfamily	 - 	 - 
+Q#16 - >Tb11.v5.0551	multi-dom	227223	780	1006	0.000761487	41.8774	COG4886	LRR	NC	 - 
+Q#17 - >Tb11.v5.0199	specific	278525	71	88	0.00584871	32.1117	pfam00098	zf-CCHC	 - 	cl23330
+Q#17 - >Tb11.v5.0199	specific	278525	103	120	0.00584871	32.1117	pfam00098	zf-CCHC	 - 	cl23330
+Q#17 - >Tb11.v5.0199	specific	278525	135	151	0.0087508	31.3413	pfam00098	zf-CCHC	 - 	cl23330
+Q#17 - >Tb11.v5.0199	multi-dom	173561	45	213	1.13215e-39	131.853	PTZ00368	PTZ00368	 - 	 - 
+Q#18 - >Tb11.v5.0680	superfamily	304366	457	481	0.0048332	34.2561	cl21463	UBA_like_SF superfamily	C	 - 
+Q#21 - >Tb11.v5.0331	specific	119392	116	496	1.96805e-21	94.3028	cd06174	MFS	 - 	cl21472
+Q#21 - >Tb11.v5.0331	multi-dom	273317	32	508	3.43845e-123	368.59	TIGR00879	SP	 - 	 - 
+Q#22 - >Tb11.v5.0300	superfamily	279282	45	260	0.000167476	42.0125	cl03014	Trypan_glycop superfamily	N	 - 
+Q#23 - >Tb11.v5.0194	multi-dom	223065	369	506	0.000152442	45.058	PHA03378	PHA03378	NC	 - 
+Q#24 - >Tb11.v5.0353	superfamily	302859	8	694	0	1412.09	cl19421	RHSP superfamily	 - 	 - 
+Q#25 - >Tb11.v5.0595	specific	289949	30	358	4.90422e-55	184.285	pfam13206	VSG_B	 - 	cl20486
+Q#26 - >Tb11.v5.0558	superfamily	304453	80	457	1.19003e-33	130.969	cl21590	PMT_2 superfamily	 - 	 - 
+Q#29 - >Tb11.v5.0668	specific	273454	354	454	1.59609e-46	155.909	TIGR01126	pdi_dom	 - 	cl00388
+Q#29 - >Tb11.v5.0668	specific	278513	22	122	4.07823e-39	136.204	pfam00085	Thioredoxin	 - 	cl00388
+Q#29 - >Tb11.v5.0668	specific	239280	228	328	8.7406e-14	66.141	cd02982	PDI_b'_family	 - 	cl00388
+Q#29 - >Tb11.v5.0668	specific	239279	131	218	1.95636e-12	61.9698	cd02981	PDI_b_family	 - 	cl00388
+Q#29 - >Tb11.v5.0668	multi-dom	273457	22	456	3.0989e-96	297.356	TIGR01130	ER_PDI_fam	 - 	 - 
+Q#30 - >Tb11.v5.0295	superfamily	302859	6	368	3.56157e-115	352.209	cl19421	RHSP superfamily	N	 - 
+Q#31 - >Tb11.v5.0819	superfamily	277568	6	231	1.60905e-37	133.149	cl22853	Motor_domain superfamily	C	 - 
+Q#32 - >Tb11.v5.0387	specific	270823	21	322	2.92101e-148	416.883	cd07829	STKc_CDK_like	 - 	cl21453
+Q#32 - >Tb11.v5.0387	multi-dom	177649	21	323	2.84702e-91	272.847	PLN00009	PLN00009	 - 	 - 
+Q#33 - >Tb11.v5.0182	specific	185443	3	177	1.37993e-66	203.383	PTZ00097	PTZ00097	 - 	cl00232
+Q#34 - >Tb11.v5.0113	specific	289949	8	338	3.87582e-31	120.342	pfam13206	VSG_B	 - 	cl20486
+Q#35 - >Tb11.1410	specific	290367	149	189	7.35754e-11	55.1773	pfam13639	zf-RING_2	 - 	cl17238
+Q#35 - >Tb11.1410	multi-dom	289448	143	189	2.67872e-11	57.4145	pfam12678	zf-rbx1	 - 	 - 
+Q#37 - >Tb11.v5.0605	specific	238178	1	457	0	780.343	cd00288	Pyruvate_Kinase	 - 	cl23794
+Q#37 - >Tb11.v5.0605	multi-dom	140321	5	456	0	811.589	PTZ00300	PTZ00300	 - 	 - 
+Q#38 - >Tb11.v5.0531	specific	240231	20	372	0	692.221	PTZ00019	PTZ00019	 - 	cl21457
+Q#39 - >Tb11.v5.0511	superfamily	302875	1	387	4.06676e-118	355.7	cl19482	Peptidase_M8 superfamily	N	 - 
+Q#40 - >Tb11.v5.0788	specific	289949	9	214	4.58274e-28	109.557	pfam13206	VSG_B	N	cl20486
+Q#41 - >Tb11.v5.0727	multi-dom	274008	153	458	5.83477e-07	51.5959	TIGR02168	SMC_prok_B	N	 - 
+Q#42 - >Tb11.v5.0546	specific	278633	865	1077	3.43807e-57	194.385	pfam00211	Guanylate_cyc	 - 	cl11967
+Q#42 - >Tb11.v5.0546	superfamily	299141	85	419	1.87301e-17	83.7851	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	 - 	 - 
+Q#42 - >Tb11.v5.0546	multi-dom	214485	850	1048	7.737e-35	130.455	smart00044	CYCc	 - 	 - 
+Q#43 - >Tb11.v5.0528	superfamily	304367	92	171	0.00651238	36.5649	cl21464	cupin_like superfamily	C	 - 
+Q#45 - >Tb11.v5.0357	superfamily	304616	28	430	1.72782e-43	153.089	cl22882	S-methyl_trans superfamily	 - 	 - 
+Q#47 - >Tb11.v5.0274	specific	281851	423	533	7.90955e-19	82.2018	pfam03914	CBF	N	cl20259
+Q#47 - >Tb11.v5.0274	multi-dom	227447	48	529	1.30625e-28	119.742	COG5117	NOC3	N	 - 
+Q#49 - >Tb11.v5.0111	specific	289949	24	223	1.39823e-20	89.9116	pfam13206	VSG_B	N	cl20486
+Q#50 - >Tb11.v5.0390	specific	290247	255	301	0.00197063	35.0453	pfam13513	HEAT_EZ	 - 	cl22454
+Q#50 - >Tb11.v5.0390	multi-dom	290374	204	300	0.00256468	35.7645	pfam13646	HEAT_2	 - 	 - 
+Q#51 - >Tb11.v5.0619	superfamily	298019	1	94	5.17018e-19	87.3791	cl07072	COG4 superfamily	N	 - 
+Q#51 - >Tb11.v5.0619	superfamily	298019	124	169	0.00260804	39.0815	cl07072	COG4 superfamily	N	 - 
+Q#52 - >Tb11.v5.0676	superfamily	289949	1	242	2.77961e-17	79.8964	cl20486	VSG_B superfamily	N	 - 
+Q#53 - >Tb11.v5.0308	specific	119392	112	495	2.02484e-18	85.4433	cd06174	MFS	 - 	cl21472
+Q#53 - >Tb11.v5.0308	multi-dom	278511	39	500	3.27522e-112	339.245	pfam00083	Sugar_tr	 - 	 - 
+Q#54 - >Tb11.v5.0406	superfamily	294479	306	506	2.48604e-18	86.2411	cl00738	MBOAT superfamily	N	 - 
+Q#57 - >Tb11.v5.0970	specific	99751	18	62	1.32316e-11	57.5553	cd06257	DnaJ	 - 	cl02542
+Q#58 - >Tb11.v5.0326	superfamily	302859	5	273	2.13325e-95	296.355	cl19421	RHSP superfamily	N	 - 
+Q#59 - >Tb11.v5.0533	superfamily	302859	1	323	1.83705e-174	500.896	cl19421	RHSP superfamily	C	 - 
+Q#61 - >Tb11.v5.0529	superfamily	304359	33	128	2.76224e-09	54.5479	cl21455	P-loop_NTPase superfamily	N	 - 
+Q#61 - >Tb11.v5.0529	multi-dom	214692	34	140	1.77004e-09	55.5758	smart00487	DEXDc	N	 - 
+Q#62 - >Tb11.v5.0384	superfamily	304358	68	104	5.82617e-06	47.7058	cl21454	NADB_Rossmann superfamily	C	 - 
+Q#62 - >Tb11.v5.0384	superfamily	293506	547	598	9.12355e-05	40.9422	cl25187	DAO_C superfamily	N	 - 
+Q#62 - >Tb11.v5.0384	multi-dom	215257	7	610	2.03053e-31	127.975	PLN02464	PLN02464	 - 	 - 
+Q#63 - >Tb11.1810b	superfamily	302859	1	222	2.74302e-103	315.23	cl19421	RHSP superfamily	N	 - 
+Q#64 - >Tb11.v5.0360	superfamily	304515	1	213	7.22043e-89	267.875	cl21720	Peptidase_M17 superfamily	N	 - 
+Q#65 - >Tb11.v5.0955	superfamily	289949	22	196	9.07365e-18	79.126	cl20486	VSG_B superfamily	C	 - 
+Q#66 - >Tb11.v5.0281	superfamily	299850	893	1098	7.67258e-41	147.391	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#66 - >Tb11.v5.0281	superfamily	299141	104	391	7.54633e-08	54.51	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	N	 - 
+Q#67 - >Tb11.v5.0371	specific	143392	28	148	6.01984e-19	80.6791	cd05402	NT_PAP_TUTase	 - 	cl11966
+Q#69 - >Tb11.v5.0847	superfamily	289949	4	67	4.66809e-06	44.0728	cl20486	VSG_B superfamily	NC	 - 
+Q#71 - >Tb11.v5.0940	superfamily	304462	18	176	1.36442e-45	152.355	cl21608	Galactosyl_T superfamily	C	 - 
+Q#72 - >Tb11.v5.0872	specific	289949	62	405	1.146e-40	147.306	pfam13206	VSG_B	 - 	cl20486
+Q#73 - >Tb11.v5.0421	superfamily	303080	44	270	2.48473e-12	65.9113	cl19916	ISG65-75 superfamily	 - 	 - 
+Q#74 - >Tb11.v5.0839	superfamily	302859	1	115	2.27359e-49	166.928	cl19421	RHSP superfamily	N	 - 
+Q#75 - >Tb11.v5.0767	superfamily	277559	18	371	3.26899e-84	261.757	cl21719	Pumilio superfamily	 - 	 - 
+Q#76 - >Tb11.v5.0742	specific	239731	55	240	9.66313e-112	319.17	cd03762	proteasome_beta_type_6	 - 	cl00467
+Q#76 - >Tb11.v5.0742	multi-dom	223711	32	228	6.96874e-46	153.222	COG0638	PRE1	 - 	 - 
+Q#78 - >Tb11.v5.0239	specific	197617	911	967	6.49174e-13	63.0225	smart00271	DnaJ	 - 	cl02542
+Q#78 - >Tb11.v5.0239	specific	285020	479	510	0.00104004	35.9653	pfam07719	TPR_2	 - 	cl22897
+Q#78 - >Tb11.v5.0239	specific	197478	722	749	0.00123732	35.8852	smart00028	TPR	 - 	cl22897
+Q#78 - >Tb11.v5.0239	specific	278916	754	784	0.00622415	33.9305	pfam00515	TPR_1	 - 	cl22897
+Q#78 - >Tb11.v5.0239	multi-dom	290150	754	828	3.69606e-06	43.8546	pfam13414	TPR_11	 - 	 - 
+Q#78 - >Tb11.v5.0239	multi-dom	289650	490	571	2.86357e-05	41.8621	pfam12895	ANAPC3	 - 	 - 
+Q#78 - >Tb11.v5.0239	multi-dom	290150	720	784	3.0662e-11	58.4922	pfam13414	TPR_11	 - 	 - 
+Q#79 - >Tb11.v5.0436	specific	289563	64	104	0.000218354	37.2447	pfam12799	LRR_4	 - 	cl19302
+Q#79 - >Tb11.v5.0436	specific	289563	227	266	0.00123636	35.3187	pfam12799	LRR_4	 - 	cl19302
+Q#79 - >Tb11.v5.0436	multi-dom	290566	229	284	9.38328e-07	44.4407	pfam13855	LRR_8	 - 	 - 
+Q#81 - >Tb11.1430	specific	289949	32	320	6.64059e-34	128.817	pfam13206	VSG_B	 - 	cl20486
+Q#82 - >Tb11.v5.0508	multi-dom	225317	37	168	4.49907e-06	44.9769	COG2519	Gcd14	N	 - 
+Q#83 - >Tb11.v5.0842	specific	238034	503	612	1.70639e-08	52.6253	cd00079	HELICc	 - 	cl21455
+Q#83 - >Tb11.v5.0842	superfamily	288541	784	863	0.000413057	40.5631	cl13199	Folliculin superfamily	C	 - 
+Q#83 - >Tb11.v5.0842	superfamily	304359	232	283	0.000637664	40.5458	cl21455	P-loop_NTPase superfamily	C	 - 
+Q#83 - >Tb11.v5.0842	multi-dom	214692	253	395	0.000106984	42.8642	smart00487	DEXDc	C	 - 
+Q#85 - >Tb11.v5.0694	superfamily	299143	78	540	6.2498e-46	166.635	cl10013	Glycosyltransferase_GTB_type superfamily	 - 	 - 
+Q#86 - >Tb11.v5.0153	multi-dom	293336	31	216	6.56625e-05	41.5651	pfam16731	GARP	 - 	 - 
+Q#87 - >Tb11.v5.0837	specific	197981	22	104	5.44593e-07	45.6973	smart00913	IBN_N	 - 	cl04271
+Q#87 - >Tb11.v5.0837	specific	290247	375	430	5.19207e-06	42.7493	pfam13513	HEAT_EZ	 - 	cl22454
+Q#87 - >Tb11.v5.0837	multi-dom	227540	13	523	1.70966e-64	225.203	COG5215	KAP95	C	 - 
+Q#88 - >Tb11.v5.0366	superfamily	275320	471	599	1.35706e-05	46.6285	cl24124	mycoplas_twoTM superfamily	C	 - 
+Q#88 - >Tb11.v5.0366	superfamily	275320	398	493	8.0081e-05	43.9321	cl24124	mycoplas_twoTM superfamily	NC	 - 
+Q#88 - >Tb11.v5.0366	superfamily	275320	175	280	0.000135203	43.5469	cl24124	mycoplas_twoTM superfamily	NC	 - 
+Q#88 - >Tb11.v5.0366	superfamily	275320	89	200	0.000214157	42.7765	cl24124	mycoplas_twoTM superfamily	NC	 - 
+Q#88 - >Tb11.v5.0366	superfamily	285135	229	336	0.00159591	40.6483	cl12353	TMPIT superfamily	C	 - 
+Q#88 - >Tb11.v5.0366	superfamily	275320	588	686	0.00331307	38.9246	cl24124	mycoplas_twoTM superfamily	C	 - 
+Q#88 - >Tb11.v5.0366	multi-dom	293650	208	470	4.66271e-05	45.173	pfam17045	CEP63	 - 	 - 
+Q#88 - >Tb11.v5.0366	multi-dom	224259	417	712	0.00204001	40.0496	COG1340	COG1340	 - 	 - 
+Q#91 - >Tb11.v5.0643	superfamily	304379	10	64	5.67448e-14	67.2865	cl21483	PTPc superfamily	N	 - 
+Q#93 - >Tb11.v5.0932	specific	279282	7	377	5.84907e-55	186.848	pfam00913	Trypan_glycop	 - 	cl03014
+Q#93 - >Tb11.v5.0932	superfamily	287612	413	468	1.427e-05	42.7822	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#94 - >Tb11.v5.0534	superfamily	304357	257	516	1.36131e-86	269.005	cl21453	PKc_like superfamily	 - 	 - 
+Q#94 - >Tb11.v5.0534	multi-dom	214567	258	521	2.17666e-77	245.132	smart00220	S_TKc	 - 	 - 
+Q#96 - >Tb11.v5.0660	specific	212518	76	573	2.01326e-81	257.041	cd09992	HDAC_classII	 - 	cl17011
+Q#97 - >Tb11.v5.0644	superfamily	304357	60	341	6.97564e-56	181.562	cl21453	PKc_like superfamily	 - 	 - 
+Q#97 - >Tb11.v5.0644	multi-dom	214567	73	342	1.03362e-53	175.796	smart00220	S_TKc	 - 	 - 
+Q#98 - >Tb11.v5.1057	specific	270828	21	346	7.80109e-175	489.729	cd07834	STKc_MAPK	 - 	cl21453
+Q#98 - >Tb11.v5.1057	multi-dom	214567	22	310	1.47178e-90	272.866	smart00220	S_TKc	 - 	 - 
+Q#100 - >Tb11.v5.0590	specific	279228	358	397	2.10957e-10	56.3433	pfam00856	SET	N	cl02566
+Q#103 - >Tb11.v5.0792	specific	197757	353	427	5.20143e-16	72.2445	smart00490	HELICc	 - 	cl21455
+Q#103 - >Tb11.v5.0792	specific	278688	66	224	4.01533e-14	69.5707	pfam00270	DEAD	 - 	cl21455
+Q#103 - >Tb11.v5.0792	multi-dom	214692	56	239	1.91954e-13	68.6726	smart00487	DEXDc	 - 	 - 
+Q#104 - >Tb11.v5.0556	superfamily	304357	102	356	2.01434e-80	245.123	cl21453	PKc_like superfamily	 - 	 - 
+Q#104 - >Tb11.v5.0556	multi-dom	214567	102	358	3.46725e-70	218.938	smart00220	S_TKc	 - 	 - 
+Q#105 - >Tb11.v5.0649	specific	178101	29	511	0	565.928	PLN02483	PLN02483	 - 	cl18945
+Q#105 - >Tb11.v5.0649	multi-dom	223234	71	492	6.51099e-115	343.466	COG0156	BioF	 - 	 - 
+Q#107 - >Tb11.v5.0230	superfamily	303080	44	266	2.09647e-05	45.1105	cl19916	ISG65-75 superfamily	 - 	 - 
+Q#108 - >Tb11.v5.0577	specific	270918	33	301	4.40059e-129	369.864	cd14016	STKc_CK1	 - 	cl21453
+Q#109 - >Tb11.v5.1013	specific	279565	272	298	6.86672e-05	38.5215	pfam01239	PPTA	 - 	cl03138
+Q#109 - >Tb11.v5.1013	multi-dom	227823	1	358	6.60525e-17	80.299	COG5536	BET4	C	 - 
+Q#110 - >Tb11.v5.0744	superfamily	304357	174	352	1.65561e-87	264.345	cl21453	PKc_like superfamily	C	 - 
+Q#110 - >Tb11.v5.0744	specific	285924	35	132	1.29675e-39	134.619	pfam08771	Rapamycin_bind	 - 	cl07398
+Q#111 - >Tb11.v5.1063	multi-dom	274808	223	294	0.00138133	39.4122	TIGR03835	termin_org_DnaJ	C	 - 
+Q#114 - >Tb11.v5.0849	superfamily	277568	1	126	7.80498e-52	183.708	cl22853	Motor_domain superfamily	N	 - 
+Q#114 - >Tb11.v5.0849	superfamily	292801	123	155	0.00149338	39.0544	cl24686	Kinesin_assoc superfamily	C	 - 
+Q#114 - >Tb11.v5.0849	superfamily	304365	377	413	0.00513421	34.8402	cl21462	bZIP superfamily	N	 - 
+Q#115 - >Tb11.v5.0271	multi-dom	290562	218	417	1.27273e-47	161.228	pfam13851	GAS	 - 	 - 
+Q#116 - >Tb11.v5.0465	superfamily	294089	244	562	1.50869e-37	137.99	cl00130	PseudoU_synth superfamily	 - 	 - 
+Q#116 - >Tb11.v5.0465	multi-dom	234577	244	562	2.52824e-34	129.106	PRK00021	truA	 - 	 - 
+Q#117 - >Tb11.v5.1056	specific	176459	171	386	3.29154e-89	272.087	cd03586	PolY_Pol_IV_kappa	C	cl12025
+Q#119 - >Tb11.v5.0265	superfamily	294274	40	146	7.07896e-07	44.6212	cl00388	Thioredoxin_like superfamily	 - 	 - 
+Q#119 - >Tb11.v5.0265	multi-dom	278975	17	149	0.00270166	35.2757	pfam00578	AhpC-TSA	 - 	 - 
+Q#120 - >Tb11.v5.0957	specific	289949	27	355	4.34757e-35	132.669	pfam13206	VSG_B	 - 	cl20486
+Q#120 - >Tb11.v5.0957	specific	287612	390	487	1.22373e-16	73.9834	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#122 - >Tb11.v5.1044	superfamily	301621	18	435	6.85606e-61	203.026	cl15430	Nucleoside_tran superfamily	 - 	 - 
+Q#124 - >Tb11.v5.0879	superfamily	279282	3	317	1.52434e-37	136.386	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#126 - >Tb11.v5.0217	superfamily	299850	160	372	6.91901e-46	157.791	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#127 - >Tb11.v5.0537	specific	176398	153	228	2.3263e-44	151.176	cd01803	Ubiquitin	 - 	cl00155
+Q#127 - >Tb11.v5.0537	specific	176398	229	304	2.3263e-44	151.176	cd01803	Ubiquitin	 - 	cl00155
+Q#127 - >Tb11.v5.0537	specific	176398	305	380	2.3263e-44	151.176	cd01803	Ubiquitin	 - 	cl00155
+Q#127 - >Tb11.v5.0537	specific	176398	457	532	2.3263e-44	151.176	cd01803	Ubiquitin	 - 	cl00155
+Q#127 - >Tb11.v5.0537	specific	176398	1	76	2.3263e-44	151.176	cd01803	Ubiquitin	 - 	cl00155
+Q#127 - >Tb11.v5.0537	specific	176398	381	456	1.2882e-43	149.25	cd01803	Ubiquitin	 - 	cl00155
+Q#127 - >Tb11.v5.0537	specific	176398	77	152	3.00732e-42	145.398	cd01803	Ubiquitin	 - 	cl00155
+Q#127 - >Tb11.v5.0537	superfamily	294102	534	579	1.38697e-15	70.6694	cl00155	UBQ superfamily	C	 - 
+Q#127 - >Tb11.v5.0537	multi-dom	214563	1	72	5.09042e-29	108.5	smart00213	UBQ	 - 	 - 
+Q#127 - >Tb11.v5.0537	multi-dom	214563	153	224	5.09042e-29	108.5	smart00213	UBQ	 - 	 - 
+Q#127 - >Tb11.v5.0537	multi-dom	214563	229	300	5.09042e-29	108.5	smart00213	UBQ	 - 	 - 
+Q#127 - >Tb11.v5.0537	multi-dom	214563	305	376	5.09042e-29	108.5	smart00213	UBQ	 - 	 - 
+Q#127 - >Tb11.v5.0537	multi-dom	214563	457	528	5.09042e-29	108.5	smart00213	UBQ	 - 	 - 
+Q#127 - >Tb11.v5.0537	multi-dom	214563	381	452	2.02989e-28	106.96	smart00213	UBQ	 - 	 - 
+Q#127 - >Tb11.v5.0537	multi-dom	214563	77	148	3.21375e-27	103.493	smart00213	UBQ	 - 	 - 
+Q#129 - >Tb11.v5.0208	superfamily	303080	10	254	5.00275e-27	107.898	cl19916	ISG65-75 superfamily	 - 	 - 
+Q#129 - >Tb11.v5.0208	superfamily	293103	277	338	0.00115394	37.6467	cl24909	Na_Ca_ex_C superfamily	C	 - 
+Q#130 - >Tb11.v5.0447	specific	289949	23	360	3.22642e-45	160.403	pfam13206	VSG_B	 - 	cl20486
+Q#130 - >Tb11.v5.0447	superfamily	287612	414	469	0.000308912	38.9302	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#131 - >Tb11.v5.0342	specific	278647	205	269	1.33583e-24	92.5315	pfam00226	DnaJ	 - 	cl02542
+Q#132 - >Tb11.v5.0389	specific	287612	282	381	5.39976e-18	77.4502	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#132 - >Tb11.v5.0389	superfamily	279282	1	245	7.95556e-10	58.5761	cl03014	Trypan_glycop superfamily	N	 - 
+Q#133 - >Tb11.v5.0918	specific	279282	20	386	7.53832e-58	192.626	pfam00913	Trypan_glycop	 - 	cl03014
+Q#136 - >Tb11.v5.0609	superfamily	302765	1	374	0	646.528	cl19114	RNAP_largest_subunit_N superfamily	NC	 - 
+Q#137 - >Tb11.v5.0313	superfamily	289949	2	362	2.95134e-16	77.9704	cl20486	VSG_B superfamily	 - 	 - 
+Q#138 - >Tb11.v5.0231	superfamily	303080	139	267	3.77608e-07	50.5033	cl19916	ISG65-75 superfamily	N	 - 
+Q#138 - >Tb11.v5.0231	multi-dom	274303	327	425	0.00860301	37.1323	TIGR02794	tolA_full	NC	 - 
+Q#139 - >Tb11.v5.0162	specific	239726	45	258	2.45188e-126	355.798	cd03757	proteasome_beta_type_1	 - 	cl00467
+Q#139 - >Tb11.v5.0162	multi-dom	223711	47	252	1.08621e-33	120.866	COG0638	PRE1	 - 	 - 
+Q#140 - >Tb11.v5.0858	superfamily	295369	24	122	0.00153555	38.47	cl02567	WD40 superfamily	N	 - 
+Q#141 - >Tb11.v5.0853	specific	280383	357	475	1.05814e-34	125.02	pfam02204	VPS9	 - 	cl19569
+Q#142 - >Tb11.v5.0781	superfamily	302633	104	154	1.58007e-07	46.4669	cl17238	RING superfamily	 - 	 - 
+Q#143 - >Tb11.v5.1021	specific	119392	54	235	1.27132e-10	61.1757	cd06174	MFS	C	cl21472
+Q#143 - >Tb11.v5.1021	multi-dom	284993	56	234	1.4469e-09	57.811	pfam07690	MFS_1	C	 - 
+Q#144 - >Tb11.v5.0297	specific	287612	451	547	3.93887e-17	75.5242	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#146 - >Tb11.v5.0269	superfamily	302625	37	443	3.62817e-75	238.401	cl17182	NAT_SF superfamily	 - 	 - 
+Q#146 - >Tb11.v5.0269	specific	288553	4	58	0.000296667	37.1693	pfam11717	Tudor-knot	 - 	cl17459
+Q#146 - >Tb11.v5.0269	multi-dom	280097	226	402	1.29115e-90	271.978	pfam01853	MOZ_SAS	 - 	 - 
+Q#147 - >Tb11.v5.0833	specific	290574	595	678	1.40551e-06	46.3778	pfam13863	DUF4200	 - 	cl23765
+Q#148 - >Tb11.v5.0979	specific	289949	30	346	3.34666e-44	154.24	pfam13206	VSG_B	 - 	cl20486
+Q#149 - >Tb11.v5.0246	specific	185471	1	248	9.90631e-165	454.192	PTZ00136	PTZ00136	 - 	cl00241
+Q#150 - >Tb11.v5.1062	specific	278647	5	64	1.38667e-21	85.5979	pfam00226	DnaJ	 - 	cl02542
+Q#152 - >Tb11.v5.0592	specific	289949	38	348	1.42776e-41	148.462	pfam13206	VSG_B	 - 	cl20486
+Q#154 - >Tb11.v5.0500	specific	238958	75	372	6.29609e-120	349.102	cd02000	TPP_E1_PDC_ADC_BCADC	 - 	cl01629
+Q#155 - >Tb11.v5.0147	superfamily	294029	389	432	0.00209674	37.3108	cl00030	CH superfamily	C	 - 
+Q#156 - >Tb11.v5.0116	superfamily	304462	25	238	2.3747e-64	203.586	cl21608	Galactosyl_T superfamily	C	 - 
+Q#157 - >Tb11.v5.0224	specific	288563	7	287	9.4632e-90	270.452	pfam11727	ISG65-75	 - 	cl19916
+Q#158 - >Tb11.v5.0907	specific	279282	8	370	1.15205e-81	256.184	pfam00913	Trypan_glycop	 - 	cl03014
+Q#160 - >Tb11.v5.0854	specific	281081	50	203	1.04592e-33	116.94	pfam03031	NIF	 - 	cl21460
+Q#162 - >Tb11.v5.0857	specific	289949	28	340	5.88605e-43	150.773	pfam13206	VSG_B	 - 	cl20486
+Q#164 - >Tb11.v5.0188	superfamily	294771	496	704	3.43034e-37	138.028	cl01255	DAGK_cat superfamily	 - 	 - 
+Q#165 - >Tb11.v5.0491	specific	281892	10	225	2.08678e-54	181.322	pfam03959	FSH1	 - 	cl21494
+Q#165 - >Tb11.v5.0491	superfamily	304359	459	528	1.38249e-25	105.773	cl21455	P-loop_NTPase superfamily	C	 - 
+Q#165 - >Tb11.v5.0491	specific	283440	251	314	2.96699e-06	44.99	pfam05773	RWD	C	cl02687
+Q#165 - >Tb11.v5.0491	multi-dom	223999	82	231	0.000309891	41.6194	COG1073	FrsA	N	 - 
+Q#166 - >Tb11.v5.0766	superfamily	304372	61	371	1.11995e-92	284.753	cl21472	MFS superfamily	N	 - 
+Q#167 - >Tb11.v5.0163	specific	238032	59	189	6.5112e-14	67.7497	cd00077	HDc	 - 	cl21469
+Q#167 - >Tb11.v5.0163	multi-dom	224004	17	380	1.62693e-53	183.742	COG1078	YdhJ	 - 	 - 
+Q#168 - >Tb11.v5.0327	specific	289949	35	369	5.29138e-46	162.329	pfam13206	VSG_B	 - 	cl20486
+Q#168 - >Tb11.v5.0327	specific	287612	415	476	4.98011e-13	63.9682	pfam10659	Trypan_glycop_C	C	cl11264
+Q#169 - >Tb11.v5.0723	specific	259844	42	705	0	810.645	cd01435	RNAP_I_RPA1_N	 - 	cl19114
+Q#169 - >Tb11.v5.0723	multi-dom	214767	43	357	5.95915e-104	319.464	smart00663	RPOLA_N	 - 	 - 
+Q#170 - >Tb11.v5.0248	specific	238005	187	346	2.56766e-20	86.6224	cd00046	DEXDc	 - 	cl21455
+Q#170 - >Tb11.v5.0248	specific	214852	591	676	1.7822e-18	79.2345	smart00847	HA2	 - 	cl04503
+Q#170 - >Tb11.v5.0248	specific	197757	430	520	1.15577e-12	62.9997	smart00490	HELICc	 - 	cl21455
+Q#170 - >Tb11.v5.0248	superfamily	285018	712	861	8.02351e-09	53.1064	cl06657	OB_NTP_bind superfamily	 - 	 - 
+Q#170 - >Tb11.v5.0248	multi-dom	214692	172	369	1.6136e-21	92.1698	smart00487	DEXDc	 - 	 - 
+Q#171 - >Tb11.v5.0604	multi-dom	173412	568	873	9.87981e-05	45.1319	PTZ00121	PTZ00121	NC	 - 
+Q#172 - >Tb11.v5.0498	specific	286360	74	146	1.21807e-25	99.5004	pfam09261	Alpha-mann_mid	 - 	cl08536
+Q#172 - >Tb11.v5.0498	superfamily	303346	302	689	3.73386e-20	91.721	cl20343	Glyco_hydro_38C superfamily	 - 	 - 
+Q#172 - >Tb11.v5.0498	superfamily	301698	1	28	1.19578e-09	58.3776	cl15692	CE4_SF superfamily	N	 - 
+Q#173 - >Tb11.v5.1036	superfamily	282045	204	337	9.58988e-13	67.4553	cl14957	Spc97_Spc98 superfamily	C	 - 
+Q#174 - >Tb11.v5.0307	specific	119392	112	495	2.26218e-18	85.0581	cd06174	MFS	 - 	cl21472
+Q#174 - >Tb11.v5.0307	multi-dom	278511	39	500	2.42121e-112	339.63	pfam00083	Sugar_tr	 - 	 - 
+Q#175 - >Tb11.v5.0213	specific	289949	70	259	1.51449e-20	89.5264	pfam13206	VSG_B	N	cl20486
+Q#176 - >Tb11.1380	superfamily	292665	296	385	0.00742654	36.5689	cl24571	FAM76 superfamily	N	 - 
+Q#177 - >Tb11.v5.0710	superfamily	302875	31	518	2.9947e-142	420.414	cl19482	Peptidase_M8 superfamily	 - 	 - 
+Q#178 - >Tb11.v5.0306	specific	280018	316	419	5.53952e-26	101.946	pfam01764	Lipase_3	N	cl21494
+Q#178 - >Tb11.v5.0306	specific	277249	24	67	2.22555e-05	40.5932	cd00065	FYVE_like_SF	 - 	cl22851
+Q#179 - >Tb11.v5.0530	specific	128990	275	319	7.65738e-08	47.5679	smart00751	BSD	 - 	cl02772
+Q#181 - >Tb11.v5.0935	superfamily	279282	23	379	1.35986e-33	127.142	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#182 - >Tb11.v5.1047	specific	289949	1	381	8.51556e-24	101.468	pfam13206	VSG_B	 - 	cl20486
+Q#182 - >Tb11.v5.1047	specific	287612	419	524	1.92356e-20	85.1541	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#183 - >Tb11.v5.0975	superfamily	304462	1	159	3.6879e-26	101.894	cl21608	Galactosyl_T superfamily	N	 - 
+Q#185 - >Tb11.v5.1024	specific	289949	33	403	8.04749e-22	95.6895	pfam13206	VSG_B	 - 	cl20486
+Q#186 - >Tb11.v5.1026	superfamily	279282	20	352	8.25591e-19	85.9253	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#188 - >Tb11.v5.0552	superfamily	303080	44	270	5.92015e-12	64.7557	cl19916	ISG65-75 superfamily	 - 	 - 
+Q#189 - >Tb11.v5.0608	superfamily	302765	1	157	4.06166e-105	332.591	cl19114	RNAP_largest_subunit_N superfamily	N	 - 
+Q#189 - >Tb11.v5.0608	superfamily	277468	397	526	1.32112e-60	200.907	cl11429	RNAP_largest_subunit_C superfamily	C	 - 
+Q#189 - >Tb11.v5.0608	multi-dom	282807	107	502	6.78203e-65	219.195	pfam04998	RNA_pol_Rpb1_5	C	 - 
+Q#190 - >Tb11.v5.0810	superfamily	294020	84	226	4.72923e-80	247.165	cl00015	nt_trans superfamily	N	 - 
+Q#190 - >Tb11.v5.0810	specific	281883	225	401	3.68933e-41	143.548	pfam03950	tRNA-synt_1c_C	 - 	cl04341
+Q#192 - >Tb11.v5.0311	superfamily	279282	31	147	2.93276e-19	80.9177	cl03014	Trypan_glycop superfamily	C	 - 
+Q#194 - >Tb11.v5.0386	specific	289949	2	270	5.65636e-28	110.327	pfam13206	VSG_B	N	cl20486
+Q#195 - >Tb11.v5.0800	superfamily	302859	27	181	4.0074e-42	148.823	cl19421	RHSP superfamily	C	 - 
+Q#196 - >Tb11.v5.0120	specific	289949	16	342	7.63075e-32	123.039	pfam13206	VSG_B	 - 	cl20486
+Q#196 - >Tb11.v5.0120	superfamily	287612	378	422	4.43883e-07	46.6342	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#198 - >Tb11.v5.0212	specific	240303	17	246	4.65727e-128	360.455	PTZ00170	PTZ00170	 - 	cl21457
+Q#200 - >Tb11.v5.0207	specific	280327	1785	2061	2.36675e-161	497.362	pfam02138	Beach	 - 	cl10511
+Q#200 - >Tb11.v5.0207	superfamily	302622	1654	1753	2.25851e-14	69.5634	cl17171	PH-like superfamily	 - 	 - 
+Q#200 - >Tb11.v5.0207	superfamily	295369	2232	2485	2.58731e-09	59.656	cl02567	WD40 superfamily	 - 	 - 
+Q#200 - >Tb11.v5.0207	superfamily	304605	406	559	9.19171e-09	55.065	cl22861	LamG superfamily	 - 	 - 
+Q#200 - >Tb11.v5.0207	multi-dom	225201	2230	2439	0.00122817	42.3831	COG2319	WD40	N	 - 
+Q#201 - >Tb11.v5.0124	superfamily	279282	79	213	0.00330032	36.6197	cl03014	Trypan_glycop superfamily	C	 - 
+Q#202 - >Tb11.v5.0971	specific	176475	473	872	1.79375e-115	355.766	cd08638	DNA_pol_A_theta	 - 	cl02626
+Q#203 - >Tb11.v5.0476	specific	289949	16	343	3.06764e-63	204.316	pfam13206	VSG_B	 - 	cl20486
+Q#204 - >Tb11.1400	superfamily	275543	216	616	5.48734e-32	124.406	cl00348	GCD2 superfamily	 - 	 - 
+Q#205 - >Tb11.v5.0243	specific	185469	1	153	6.9095e-94	267.28	PTZ00134	PTZ00134	 - 	cl00331
+Q#205 - >Tb11.v5.0243	multi-dom	223177	13	153	1.12501e-36	121.093	COG0099	RpsM	 - 	 - 
+Q#207 - >Tb11.v5.0661	superfamily	299870	1	82	1.52354e-08	51.368	cl12025	PolY superfamily	N	 - 
+Q#208 - >Tb11.v5.0883	multi-dom	237150	2	104	0.00331351	34.676	PRK12608	PRK12608	NC	 - 
+Q#209 - >Tb11.v5.0174	specific	260012	123	297	2.74329e-51	164.661	cd09280	RNase_HI_eukaryote_like	 - 	cl14782
+Q#209 - >Tb11.v5.0174	specific	279957	7	48	2.27382e-22	86.3393	pfam01693	Cauli_VI	 - 	cl03316
+Q#211 - >Tb11.v5.0746	specific	238635	11	325	1.82342e-68	213.204	cd01310	TatD_DNAse	 - 	cl00281
+Q#212 - >Tb11.v5.0403	multi-dom	293336	39	212	4.46524e-47	155.969	pfam16731	GARP	 - 	 - 
+Q#214 - >Tb11.v5.0411	specific	278674	47	137	6.24419e-43	144.645	pfam00254	FKBP_C	 - 	cl19519
+Q#214 - >Tb11.v5.0411	specific	278916	331	361	7.39603e-05	38.1676	pfam00515	TPR_1	 - 	cl22897
+Q#214 - >Tb11.v5.0411	specific	285020	362	395	0.00136354	34.8097	pfam07719	TPR_2	 - 	cl22897
+Q#214 - >Tb11.v5.0411	superfamily	302890	170	256	0.00466121	34.8632	cl19519	FKBP_C superfamily	 - 	 - 
+Q#214 - >Tb11.v5.0411	multi-dom	290150	330	393	5.41149e-10	53.8698	pfam13414	TPR_11	 - 	 - 
+Q#214 - >Tb11.v5.0411	multi-dom	290150	275	359	1.63139e-08	49.6326	pfam13414	TPR_11	 - 	 - 
+Q#214 - >Tb11.v5.0411	multi-dom	291240	374	414	0.00837764	33.7302	pfam14559	TPR_19	C	 - 
+Q#216 - >Tb11.v5.0797	specific	238008	10	71	8.84166e-12	57.9429	cd00051	EFh	 - 	cl08302
+Q#216 - >Tb11.v5.0797	specific	238008	199	260	2.5695e-11	56.7873	cd00051	EFh	 - 	cl08302
+Q#216 - >Tb11.v5.0797	multi-dom	290234	14	68	6.2508e-06	41.8794	pfam13499	EF-hand_7	 - 	 - 
+Q#216 - >Tb11.v5.0797	multi-dom	290234	203	257	8.73642e-06	41.4942	pfam13499	EF-hand_7	 - 	 - 
+Q#217 - >Tb11.v5.0525	multi-dom	224117	2	256	6.46855e-07	50.4832	COG1196	Smc	N	 - 
+Q#218 - >Tb11.v5.0624	superfamily	302859	49	542	0	694.651	cl19421	RHSP superfamily	C	 - 
+Q#219 - >Tb11.v5.0860	superfamily	294067	4	168	9.60095e-50	161.76	cl00089	NUC superfamily	N	 - 
+Q#219 - >Tb11.v5.0860	multi-dom	240335	1	264	3.00528e-114	333.752	PTZ00259	PTZ00259	N	 - 
+Q#222 - >Tb11.v5.0559	multi-dom	224206	106	285	2.27554e-12	66.6943	COG1287	Stt3	N	 - 
+Q#223 - >Tb11.v5.0122	specific	289949	27	273	6.72508e-32	122.654	pfam13206	VSG_B	 - 	cl20486
+Q#223 - >Tb11.v5.0122	superfamily	287612	341	385	0.000762033	37.3894	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#224 - >Tb11.v5.0152	specific	240215	106	198	1.18486e-35	123.043	cd05789	S1_Rrp4	 - 	cl09927
+Q#224 - >Tb11.v5.0152	specific	292607	202	241	0.000212788	37.1231	pfam15985	KH_6	 - 	cl00098
+Q#225 - >Tb11.v5.0469	specific	276956	2	426	0	856.48	cd02187	beta_tubulin	 - 	cl10017
+Q#225 - >Tb11.v5.0469	multi-dom	240228	1	430	0	933.037	PTZ00010	PTZ00010	 - 	 - 
+Q#226 - >Tb11.v5.0986	specific	119392	22	340	5.51737e-05	43.4565	cd06174	MFS	N	cl21472
+Q#227 - >Tb11.02.5070b	specific	100051	68	213	8.6219e-44	145.247	cd04645	LbH_gamma_CA_like	 - 	cl00160
+Q#227 - >Tb11.02.5070b	superfamily	283923	223	275	0.00645771	35.0667	cl05724	BLVR superfamily	C	 - 
+Q#227 - >Tb11.02.5070b	multi-dom	223735	60	225	2.99011e-36	126.549	COG0663	PaaY	 - 	 - 
+Q#229 - >Tb11.v5.0354	multi-dom	290150	22	101	3.81918e-06	41.1582	pfam13414	TPR_11	 - 	 - 
+Q#229 - >Tb11.v5.0354	multi-dom	290150	73	134	0.00145287	34.2246	pfam13414	TPR_11	 - 	 - 
+Q#230 - >Tb11.v5.0474	specific	270622	193	456	2.33671e-53	177.077	cd00180	PKc	 - 	cl21453
+Q#230 - >Tb11.v5.0474	multi-dom	214567	192	456	1.87224e-49	168.477	smart00220	S_TKc	 - 	 - 
+Q#232 - >Tb11.v5.0125	specific	289949	28	375	1.19112e-45	160.788	pfam13206	VSG_B	 - 	cl20486
+Q#233 - >Tb11.v5.0229	superfamily	303080	41	268	2.70286e-12	65.9113	cl19916	ISG65-75 superfamily	 - 	 - 
+Q#233 - >Tb11.v5.0229	superfamily	299883	320	417	0.00194325	36.7975	cl12057	Seryl_tRNA_N superfamily	 - 	 - 
+Q#234 - >Tb11.15.0005b	superfamily	304462	11	242	1.46819e-68	214.757	cl21608	Galactosyl_T superfamily	C	 - 
+Q#236 - >Tb11.v5.0276	specific	281681	221	287	6.83082e-09	50.7889	pfam03719	Ribosomal_S5_C	 - 	cl04231
+Q#236 - >Tb11.v5.0276	specific	278748	149	204	0.000957889	36.1771	pfam00333	Ribosomal_S5	 - 	cl02842
+Q#237 - >Tb11.15.0006b	specific	289949	139	368	1.93234e-29	117.261	pfam13206	VSG_B	N	cl20486
+Q#237 - >Tb11.15.0006b	specific	287612	409	507	3.79161e-23	92.4729	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#238 - >Tb11.v5.0634	superfamily	294487	72	259	1.26836e-09	55.2122	cl00751	DUF155 superfamily	 - 	 - 
+Q#240 - >Tb11.v5.0448	superfamily	187754	907	1063	1.20584e-10	61.5744	cl23706	AMN1 superfamily	 - 	 - 
+Q#240 - >Tb11.v5.0448	superfamily	187754	456	610	0.000512048	41.544	cl23706	AMN1 superfamily	C	 - 
+Q#240 - >Tb11.v5.0448	multi-dom	227223	873	1032	2.59505e-05	46.4998	COG4886	LRR	NC	 - 
+Q#240 - >Tb11.v5.0448	multi-dom	227223	450	655	0.001544	40.7218	COG4886	LRR	NC	 - 
+Q#241 - >Tb11.v5.0304	superfamily	279834	14	207	1.11756e-10	58.8005	cl24014	Cation_efflux superfamily	N	 - 
+Q#245 - >Tb11.v5.0216	superfamily	303080	10	267	2.00864e-24	100.194	cl19916	ISG65-75 superfamily	 - 	 - 
+Q#246 - >Tb11.v5.1022	superfamily	304357	473	671	6.51524e-29	115.343	cl21453	PKc_like superfamily	N	 - 
+Q#246 - >Tb11.v5.1022	multi-dom	214567	279	671	3.0069e-36	136.12	smart00220	S_TKc	 - 	 - 
+Q#247 - >Tb11.v5.0563	specific	238121	353	668	1.67154e-42	155.571	cd00200	WD40	 - 	cl02567
+Q#247 - >Tb11.v5.0563	specific	281932	822	920	1.63078e-08	51.7349	pfam04003	Utp12	 - 	cl23538
+Q#247 - >Tb11.v5.0563	superfamily	295369	18	204	3.91977e-08	54.2632	cl02567	WD40 superfamily	C	 - 
+Q#247 - >Tb11.v5.0563	multi-dom	225201	22	494	1.46411e-11	66.2655	COG2319	WD40	 - 	 - 
+Q#247 - >Tb11.v5.0563	multi-dom	225201	401	687	9.58269e-23	101.319	COG2319	WD40	C	 - 
+Q#248 - >Tb11.v5.0585	superfamily	302800	61	483	4.44948e-39	145.774	cl19248	CHAT superfamily	 - 	 - 
+Q#250 - >Tb11.v5.0762	multi-dom	274008	34	306	0.000129342	44.2771	TIGR02168	SMC_prok_B	N	 - 
+Q#251 - >Tb11.v5.0442	superfamily	302859	1	387	1.56746e-164	478.554	cl19421	RHSP superfamily	C	 - 
+Q#252 - >Tb11.v5.0251	specific	238073	269	404	5.51814e-45	151.222	cd00127	DSPc	 - 	cl21483
+Q#252 - >Tb11.v5.0251	multi-dom	290566	95	155	5.50062e-07	45.2111	pfam13855	LRR_8	 - 	 - 
+Q#252 - >Tb11.v5.0251	multi-dom	290566	144	207	0.000356687	37.1219	pfam13855	LRR_8	 - 	 - 
+Q#252 - >Tb11.v5.0251	multi-dom	225297	298	408	2.61179e-16	75.1804	COG2453	CDC14	N	 - 
+Q#253 - >Tb11.v5.0840	superfamily	279282	23	104	7.6752e-14	65.8949	cl03014	Trypan_glycop superfamily	C	 - 
+Q#254 - >Tb11.v5.0895	multi-dom	290234	479	540	0.000310566	38.0274	pfam13499	EF-hand_7	 - 	 - 
+Q#255 - >Tb11.v4.0044	superfamily	279282	32	310	1.42739e-11	64.3541	cl03014	Trypan_glycop superfamily	C	 - 
+Q#256 - >Tb11.v5.0783	superfamily	294199	13	167	5.74115e-75	224.822	cl00279	APP_MetAP superfamily	N	 - 
+Q#257 - >Tb11.v5.0697	specific	238518	316	543	1.88662e-128	375.361	cd01085	APP	 - 	cl00279
+Q#257 - >Tb11.v5.0697	specific	292807	158	313	3.55782e-52	174.564	pfam16189	Creatinase_N_2	 - 	cl23800
+Q#257 - >Tb11.v5.0697	specific	292806	544	589	1.75354e-21	86.6256	pfam16188	Peptidase_M24_C	C	cl24689
+Q#257 - >Tb11.v5.0697	superfamily	304957	9	142	1.57684e-08	51.9119	cl23800	Creatinase_N superfamily	 - 	 - 
+Q#257 - >Tb11.v5.0697	multi-dom	223085	175	564	7.31345e-64	213.827	COG0006	PepP	 - 	 - 
+Q#258 - >Tb11.v5.1038	multi-dom	173412	227	1061	3.82422e-07	53.9915	PTZ00121	PTZ00121	N	 - 
+Q#258 - >Tb11.v5.1038	multi-dom	274009	24	398	0.001994	41.5919	TIGR02169	SMC_prok_A	N	 - 
+Q#258 - >Tb11.v5.1038	multi-dom	274009	1168	1418	0.00391812	40.4363	TIGR02169	SMC_prok_A	N	 - 
+Q#259 - >Tb11.02.5120b	specific	279828	839	862	0.000682817	36.6943	pfam01535	PPR	C	cl03252
+Q#259 - >Tb11.02.5120b	multi-dom	289786	765	814	0.000199249	38.5388	pfam13041	PPR_2	 - 	 - 
+Q#260 - >Tb11.v5.0409	superfamily	294200	69	507	2.49461e-145	421.663	cl00281	metallo-dependent_hydrolases superfamily	 - 	 - 
+Q#261 - >Tb11.v5.0364	superfamily	302697	138	275	4.45398e-05	44.617	cl18310	NHL superfamily	C	 - 
+Q#262 - >Tb11.v5.0287	specific	289949	18	338	8.80745e-33	125.35	pfam13206	VSG_B	 - 	cl20486
+Q#263 - >Tb11.v5.0193	superfamily	296150	70	178	0.000280797	39.7081	cl03951	CDC37_N superfamily	N	 - 
+Q#263 - >Tb11.v5.0193	multi-dom	289257	40	174	0.000542617	38.7008	pfam12474	PKK	 - 	 - 
+Q#265 - >Tb11.v5.0927	specific	289949	1	298	1.55829e-28	113.794	pfam13206	VSG_B	 - 	cl20486
+Q#265 - >Tb11.v5.0927	specific	287612	340	430	2.81758e-16	72.8278	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#267 - >Tb11.v4.0043	superfamily	279282	37	402	7.11501e-20	89.7773	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#268 - >Tb11.v5.0774	specific	278621	1	197	6.97753e-78	230.501	pfam00198	2-oxoacid_dh	 - 	cl02008
+Q#269 - >Tb11.v5.0687	superfamily	284208	1	173	2.24595e-65	213.268	cl05998	Pescadillo_N superfamily	N	 - 
+Q#269 - >Tb11.v5.0687	specific	293197	228	307	1.17096e-11	59.5264	pfam16589	BRCT_2	 - 	cl00038
+Q#270 - >Tb11.v5.0789	specific	289949	51	397	1.36863e-20	90.682	pfam13206	VSG_B	 - 	cl20486
+Q#273 - >Tb11.v5.1008	superfamily	279282	83	192	0.000511426	39.7013	cl03014	Trypan_glycop superfamily	N	 - 
+Q#275 - >Tb11.v5.0631	superfamily	295369	176	511	2.60651e-30	119.362	cl02567	WD40 superfamily	 - 	 - 
+Q#275 - >Tb11.v5.0631	specific	285951	15	42	9.51662e-09	49.6058	pfam08799	PRP4	 - 	cl02632
+Q#275 - >Tb11.v5.0631	multi-dom	225201	176	478	3.27646e-24	104.785	COG2319	WD40	N	 - 
+Q#276 - >Tb11.v5.0936	superfamily	279282	1	196	2.85458e-09	55.4945	cl03014	Trypan_glycop superfamily	N	 - 
+Q#277 - >Tb11.v5.0965	specific	238005	567	709	7.30639e-20	86.2372	cd00046	DEXDc	 - 	cl21455
+Q#277 - >Tb11.v5.0965	specific	214852	1029	1112	6.39936e-16	72.6861	smart00847	HA2	 - 	cl04503
+Q#277 - >Tb11.v5.0965	specific	278689	815	901	6.18229e-08	51.0773	pfam00271	Helicase_C	 - 	cl21455
+Q#277 - >Tb11.v5.0965	specific	278464	287	330	6.6524e-06	43.7851	pfam00035	dsrm	N	cl00054
+Q#277 - >Tb11.v5.0965	superfamily	285018	1146	1218	3.80456e-05	43.0912	cl06657	OB_NTP_bind superfamily	C	 - 
+Q#277 - >Tb11.v5.0965	multi-dom	224557	547	1139	3.82318e-125	409.017	COG1643	HrpA	C	 - 
+Q#278 - >Tb11.v5.0356	specific	283956	27	295	8.76942e-161	458.322	pfam06418	CTP_synth_N	 - 	cl21455
+Q#278 - >Tb11.v5.0356	specific	153217	325	567	1.05793e-115	342.226	cd01746	GATase1_CTP_Synthase	 - 	cl00020
+Q#278 - >Tb11.v5.0356	multi-dom	235437	27	573	0	734.904	PRK05380	pyrG	 - 	 - 
+Q#279 - >Tb11.v5.0471	specific	290565	398	423	2.20771e-05	40.6419	pfam13854	Kelch_5	C	cl02701
+Q#279 - >Tb11.v5.0471	specific	290154	127	166	0.00141764	36.0388	pfam13418	Kelch_4	 - 	cl02701
+Q#279 - >Tb11.v5.0471	specific	290565	299	323	0.00796953	33.7083	pfam13854	Kelch_5	C	cl02701
+Q#282 - >Tb11.v5.0924	specific	289949	22	368	2.09836e-57	193.915	pfam13206	VSG_B	 - 	cl20486
+Q#282 - >Tb11.v5.0924	specific	287612	407	521	9.67311e-30	111.348	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#283 - >Tb11.01.1680.v5	specific	176398	77	152	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	1	76	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	989	1064	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	913	988	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	837	912	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	761	836	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	685	760	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	533	608	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	457	532	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	381	456	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	305	380	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	153	228	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	609	684	3.77225e-43	150.02	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	specific	176398	1065	1140	3.83857e-42	147.324	cd01803	Ubiquitin	 - 	cl00155
+Q#283 - >Tb11.01.1680.v5	superfamily	294102	1141	1216	2.52399e-41	144.628	cl00155	UBQ superfamily	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	superfamily	294102	229	304	1.53579e-40	142.702	cl00155	UBQ superfamily	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	superfamily	294102	1217	1260	9.03853e-19	80.6846	cl00155	UBQ superfamily	C	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	1065	1136	1.66968e-28	108.115	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	1	72	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	77	148	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	153	224	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	305	376	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	381	452	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	457	528	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	533	604	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	609	680	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	685	756	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	761	832	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	837	908	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	913	984	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	989	1060	2.71498e-28	107.345	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	1141	1212	2.52275e-26	101.952	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	229	300	1.66498e-25	99.6409	smart00213	UBQ	 - 	 - 
+Q#283 - >Tb11.01.1680.v5	multi-dom	214563	1217	1260	6.73214e-11	58.0393	smart00213	UBQ	C	 - 
+Q#286 - >Tb11.v5.0343	multi-dom	293336	39	182	4.70163e-41	136.324	pfam16731	GARP	C	 - 
+Q#287 - >Tb11.v5.0249	specific	132954	59	320	3.26111e-134	382.71	cd06623	PKc_MAPKK_plant_like	 - 	cl21453
+Q#287 - >Tb11.v5.0249	multi-dom	214567	60	315	9.08093e-76	233.576	smart00220	S_TKc	 - 	 - 
+Q#288 - >Tb11.v5.0729	specific	236858	9	273	0	507.485	PRK11142	PRK11142	 - 	cl00192
+Q#289 - >Tb11.v5.0946	superfamily	289949	68	180	1.98259e-15	72.1924	cl20486	VSG_B superfamily	C	 - 
+Q#290 - >Tb11.v5.0578	specific	282384	171	456	2.76232e-72	230.505	pfam04515	Choline_transpo	 - 	cl04558
+Q#292 - >Tb11.v5.0728	specific	107270	58	326	1.44728e-177	490.628	cd06275	PBP1_PurR	 - 	cl10011
+Q#292 - >Tb11.v5.0728	specific	197675	1	68	8.43725e-33	114.992	smart00354	HTH_LACI	 - 	cl22854
+Q#292 - >Tb11.v5.0728	multi-dom	182448	1	327	0	743.827	PRK10423	PRK10423	 - 	 - 
+Q#294 - >Tb11.v5.0173	multi-dom	274166	5	75	0.00143933	40.1178	TIGR02500	type_III_yscD	C	 - 
+Q#295 - >Tb11.v5.0734	superfamily	304359	246	434	8.70783e-63	207.707	cl21455	P-loop_NTPase superfamily	 - 	 - 
+Q#295 - >Tb11.v5.0734	superfamily	294371	569	735	1.70213e-20	90.7823	cl00549	ABC_membrane superfamily	C	 - 
+Q#295 - >Tb11.v5.0734	superfamily	294371	2	114	2.53963e-05	45.3287	cl00549	ABC_membrane superfamily	N	 - 
+Q#295 - >Tb11.v5.0734	multi-dom	130234	255	426	1.32653e-07	51.2698	TIGR01166	cbiO	 - 	 - 
+Q#295 - >Tb11.v5.0734	multi-dom	224055	548	735	2.87561e-15	78.2394	COG1132	MdlB	C	 - 
+Q#296 - >Tb11.v5.0365	superfamily	275320	242	326	2.46594e-05	45.0877	cl24124	mycoplas_twoTM superfamily	NC	 - 
+Q#296 - >Tb11.v5.0365	superfamily	298833	171	295	0.000267296	39.9835	cl09111	Prefoldin superfamily	 - 	 - 
+Q#296 - >Tb11.v5.0365	multi-dom	287450	196	331	6.62084e-06	44.9817	pfam10473	CENP-F_leu_zip	 - 	 - 
+Q#297 - >Tb11.02.5380b	specific	279157	491	822	3.60015e-109	338.051	pfam00773	RNB	 - 	cl19762
+Q#297 - >Tb11.02.5380b	superfamily	301351	26	203	4.69527e-37	136.242	cl14812	PIN_SF superfamily	 - 	 - 
+Q#297 - >Tb11.02.5380b	multi-dom	223631	287	939	1.39118e-133	417.177	COG0557	VacB	 - 	 - 
+Q#298 - >Tb11.v5.0906	specific	287612	406	499	1.13836e-12	62.8126	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#299 - >Tb11.v5.0133	specific	289949	22	337	5.45229e-36	134.595	pfam13206	VSG_B	 - 	cl20486
+Q#299 - >Tb11.v5.0133	superfamily	287612	378	438	0.000128923	39.7006	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#301 - >Tb11.v5.0186	superfamily	301621	25	420	2.89792e-34	130.667	cl15430	Nucleoside_tran superfamily	 - 	 - 
+Q#305 - >Tb11.v5.0496	specific	285671	287	351	1.89688e-27	101.357	pfam08498	Sterol_MT_C	 - 	cl07208
+Q#305 - >Tb11.v5.0496	specific	285453	109	207	2.63042e-16	72.307	pfam08241	Methyltransf_11	 - 	cl17173
+Q#307 - >Tb11.v5.0535	specific	99707	94	268	2.28658e-09	54.8447	cd00009	AAA	 - 	cl21455
+Q#307 - >Tb11.v5.0535	multi-dom	278895	71	390	8.75994e-116	342.2	pfam00493	MCM	 - 	 - 
+Q#308 - >Tb11.v5.1034	multi-dom	240227	1	164	6.15477e-106	316.736	PTZ00009	PTZ00009	N	 - 
+Q#312 - >Tb11.v5.0184	multi-dom	223496	379	579	9.34635e-08	53.9959	COG0419	SbcC	C	 - 
+Q#313 - >Tb11.v5.0730	superfamily	277559	1	235	5.1197e-61	195.118	cl21719	Pumilio superfamily	C	 - 
+Q#314 - >Tb11.v5.0383	superfamily	299146	2	372	4.54225e-91	280.306	cl10017	Tubulin_FtsZ_Cetz-like superfamily	C	 - 
+Q#314 - >Tb11.v5.0383	multi-dom	278518	3	247	1.92251e-29	111.928	pfam00091	Tubulin	 - 	 - 
+Q#315 - >Tb11.v5.0914	specific	289949	21	371	9.40195e-33	126.12	pfam13206	VSG_B	 - 	cl20486
+Q#316 - >Tb11.v5.0181	specific	185443	3	177	1.37993e-66	203.383	PTZ00097	PTZ00097	 - 	cl00232
+Q#317 - >Tb11.v5.0784	superfamily	299141	129	237	3.21008e-05	43.4122	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	NC	 - 
+Q#319 - >Tb11.v5.0416	specific	287612	414	511	1.89467e-23	93.6285	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#319 - >Tb11.v5.0416	superfamily	279282	8	374	4.89911e-15	75.1397	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#320 - >Tb11.v5.0923	superfamily	279282	13	385	5.25751e-26	107.111	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#320 - >Tb11.v5.0923	superfamily	287612	423	462	0.00891116	34.693	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#321 - >Tb11.v5.0401	superfamily	279282	38	383	1.43649e-20	91.3181	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#322 - >Tb11.v5.1060	specific	185469	1	153	6.9095e-94	267.28	PTZ00134	PTZ00134	 - 	cl00331
+Q#322 - >Tb11.v5.1060	multi-dom	223177	13	153	1.12501e-36	121.093	COG0099	RpsM	 - 	 - 
+Q#323 - >Tb11.v5.0963	specific	280714	17	146	7.93998e-15	63.9609	pfam02594	DUF167	 - 	cl00811
+Q#325 - >Tb11.v5.0612	specific	280009	316	360	3.95469e-14	64.7367	pfam01753	zf-MYND	 - 	cl20224
+Q#326 - >Tb11.v5.0294	superfamily	302859	1	258	1.98685e-102	311.96	cl19421	RHSP superfamily	C	 - 
+Q#327 - >Tb11.v5.0532	superfamily	302859	30	468	0	524.778	cl19421	RHSP superfamily	N	 - 
+Q#329 - >Tb11.v5.0568	superfamily	283054	240	292	0.00136979	35.8104	cl19425	Pox_A3L superfamily	N	 - 
+Q#331 - >Tb11.v5.0560	superfamily	187754	35	140	0.000442699	40.3884	cl23706	AMN1 superfamily	NC	 - 
+Q#332 - >Tb11.v5.0452	specific	214540	148	318	2.11585e-47	157.854	smart00164	TBC	C	cl02495
+Q#334 - >Tb11.v5.0917	specific	289949	3	126	7.29378e-26	98.0007	pfam13206	VSG_B	N	cl20486
+Q#335 - >Tb11.v5.1029	specific	289949	11	280	7.63344e-30	115.335	pfam13206	VSG_B	N	cl20486
+Q#336 - >Tb11.v5.0695	superfamily	279282	13	376	3.78584e-17	80.9177	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#337 - >Tb11.v5.0897	multi-dom	289786	426	472	0.00578111	33.9164	pfam13041	PPR_2	 - 	 - 
+Q#339 - >Tb11.v5.0209	superfamily	299850	861	1073	3.41548e-45	160.102	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#339 - >Tb11.v5.0209	superfamily	299141	104	391	1.70652e-07	53.3544	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	N	 - 
+Q#339 - >Tb11.v5.0209	superfamily	299141	500	727	1.38778e-05	47.0307	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	 - 	 - 
+Q#341 - >Tb11.v5.0579	superfamily	238064	312	512	6.66415e-13	68.5361	cl23707	LRR_RI superfamily	N	 - 
+Q#341 - >Tb11.v5.0579	superfamily	238064	24	217	0.000582243	40.8018	cl23707	LRR_RI superfamily	C	 - 
+Q#341 - >Tb11.v5.0579	multi-dom	290566	358	426	0.00889254	33.6551	pfam13855	LRR_8	 - 	 - 
+Q#343 - >Tb11.v5.0633	superfamily	304357	527	730	3.78734e-26	108.786	cl21453	PKc_like superfamily	C	 - 
+Q#344 - >Tb11.v5.0154	specific	238121	406	694	5.42435e-81	257.649	cd00200	WD40	 - 	cl02567
+Q#344 - >Tb11.v5.0154	multi-dom	225201	404	696	2.90446e-49	178.359	COG2319	WD40	N	 - 
+Q#345 - >Tb11.v5.0894	specific	287612	315	410	1.02217e-18	79.7614	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#345 - >Tb11.v5.0894	superfamily	279282	3	281	1.73876e-18	84.7697	cl03014	Trypan_glycop superfamily	N	 - 
+Q#346 - >Tb11.v5.0584	multi-dom	223039	191	517	0.00118568	40.5397	PHA03307	PHA03307	C	 - 
+Q#347 - >Tb11.v5.0798	specific	238008	134	195	6.59552e-12	57.5577	cd00051	EFh	 - 	cl08302
+Q#347 - >Tb11.v5.0798	multi-dom	290234	138	192	1.99474e-06	42.6498	pfam13499	EF-hand_7	 - 	 - 
+Q#352 - >Tb11.v5.0351	superfamily	279282	31	404	1.60826e-28	115.2	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#353 - >Tb11.v5.0118	specific	289949	25	375	1.64959e-53	183.13	pfam13206	VSG_B	 - 	cl20486
+Q#354 - >Tb11.v5.0909	specific	289949	19	203	9.90243e-23	93.7635	pfam13206	VSG_B	C	cl20486
+Q#355 - >Tb11.v5.0911	superfamily	287612	312	363	0.00865237	34.3078	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#356 - >Tb11.v5.0656	superfamily	294155	72	200	0.00731554	36.4047	cl00224	PLPDE_IV superfamily	C	 - 
+Q#357 - >Tb11.v5.0394	specific	290634	26	78	0.00457013	35.2057	pfam13923	zf-C3HC4_2	 - 	cl17238
+Q#358 - >Tb11.v5.0114	superfamily	289949	58	186	3.15707e-07	49.0804	cl20486	VSG_B superfamily	N	 - 
+Q#361 - >Tb11.v5.0493	superfamily	277568	1	187	4.63202e-75	252.659	cl22853	Motor_domain superfamily	N	 - 
+Q#361 - >Tb11.v5.0493	multi-dom	279860	341	1298	2.19807e-13	74.0057	pfam01576	Myosin_tail_1	 - 	 - 
+Q#364 - >Tb11.v5.0654	superfamily	299141	115	413	1.79273e-19	88.7927	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	 - 	 - 
+Q#365 - >Tb11.02.5090b	superfamily	302624	62	186	1.21678e-34	120.875	cl17173	AdoMet_MTases superfamily	C	 - 
+Q#366 - >Tb11.v5.1009	specific	289949	28	337	4.75239e-33	124.965	pfam13206	VSG_B	 - 	cl20486
+Q#367 - >Tb11.v5.0202	superfamily	287332	194	498	5.4713e-12	64.817	cl11011	Q_salvage superfamily	 - 	 - 
+Q#369 - >Tb11.02.5420b	specific	99801	244	629	0	547.241	cd06204	CYPOR	 - 	cl06868
+Q#369 - >Tb11.02.5420b	specific	278677	55	191	3.08742e-33	122.864	pfam00258	Flavodoxin_1	 - 	cl00438
+Q#369 - >Tb11.02.5420b	multi-dom	223446	2	629	2.14482e-150	445.709	COG0369	CysJ	 - 	 - 
+Q#370 - >Tb11.v5.0791	specific	213188	134	353	1.90064e-52	175.715	cd03221	ABCF_EF-3	 - 	cl21455
+Q#370 - >Tb11.v5.0791	specific	289608	347	430	2.60636e-35	126.544	pfam12848	ABC_tran_Xtn	 - 	cl14896
+Q#370 - >Tb11.v5.0791	superfamily	304359	443	513	1.34391e-18	81.3408	cl21455	P-loop_NTPase superfamily	C	 - 
+Q#370 - >Tb11.v5.0791	superfamily	304359	164	263	0.00449276	36.5467	cl21455	P-loop_NTPase superfamily	C	 - 
+Q#370 - >Tb11.v5.0791	multi-dom	273372	134	383	2.17173e-20	89.6616	TIGR00972	3a0107s01c2	 - 	 - 
+Q#371 - >Tb11.v5.0977	specific	289949	24	372	9.44551e-36	134.98	pfam13206	VSG_B	 - 	cl20486
+Q#371 - >Tb11.v5.0977	specific	287612	413	509	1.95096e-19	82.0725	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#372 - >Tb11.v5.0435	superfamily	304359	2	602	0	908.275	cl21455	P-loop_NTPase superfamily	 - 	 - 
+Q#374 - >Tb11.v5.0725	multi-dom	183857	536	625	1.01619e-07	52.6123	PRK13057	PRK13057	N	 - 
+Q#375 - >Tb11.v5.0945	specific	289949	13	359	4.10953e-65	212.79	pfam13206	VSG_B	 - 	cl20486
+Q#375 - >Tb11.v5.0945	superfamily	287612	401	459	7.09035e-05	40.471	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#379 - >Tb11.v5.0214	superfamily	302859	58	800	0	919.608	cl19421	RHSP superfamily	 - 	 - 
+Q#381 - >Tb11.v5.0969	multi-dom	274009	96	215	0.00216945	38.1251	TIGR02169	SMC_prok_A	NC	 - 
+Q#382 - >Tb11.v5.0232	multi-dom	223021	400	474	0.00336131	39.1513	PHA03247	PHA03247	N	 - 
+Q#384 - >Tb11.v5.0429	superfamily	299850	920	1132	4.6956e-49	170.888	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#384 - >Tb11.v5.0429	superfamily	299141	151	378	1.48218e-08	56.8212	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	C	 - 
+Q#384 - >Tb11.v5.0429	superfamily	299141	530	787	0.000257888	43.1788	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	 - 	 - 
+Q#384 - >Tb11.v5.0429	multi-dom	225025	876	1130	3.04801e-25	104.16	COG2114	AcyC	 - 	 - 
+Q#385 - >Tb11.v5.0219	multi-dom	223971	310	424	1.77961e-16	80.5039	COG1041	Trm11	NC	 - 
+Q#386 - >Tb11.v5.1035	specific	212675	6	384	0	847.011	cd10233	HSPA1-2_6-8-like_NBD	 - 	cl17037
+Q#386 - >Tb11.v5.1035	multi-dom	240227	1	615	0	1272.42	PTZ00009	PTZ00009	 - 	 - 
+Q#387 - >Tb11.v5.0796	multi-dom	114219	156	275	0.00734593	36.2381	pfam05483	SCP-1	N	 - 
+Q#388 - >Tb11.v5.0775	specific	285453	70	203	2.15335e-14	65.7586	pfam08241	Methyltransf_11	 - 	cl17173
+Q#389 - >Tb11.v5.0825	superfamily	302604	123	284	3.42279e-45	158.864	cl17068	AFD_class_I superfamily	C	 - 
+Q#390 - >Tb11.v5.0655	superfamily	302859	48	354	2.4314e-153	451.205	cl19421	RHSP superfamily	C	 - 
+Q#391 - >Tb11.v5.0332	specific	119392	116	496	3.54789e-21	93.5324	cd06174	MFS	 - 	cl21472
+Q#391 - >Tb11.v5.0332	multi-dom	273317	32	508	2.48521e-122	366.279	TIGR00879	SP	 - 	 - 
+Q#393 - >Tb11.v5.0146	specific	197617	466	526	2.64596e-10	54.9333	smart00271	DnaJ	 - 	cl02542
+Q#394 - >Tb11.v5.0254	specific	281610	1060	1458	2.52931e-120	378.006	pfam03630	Fumble	 - 	cl17037
+Q#394 - >Tb11.v5.0254	superfamily	302604	480	1023	4.57873e-31	128.433	cl17068	AFD_class_I superfamily	 - 	 - 
+Q#394 - >Tb11.v5.0254	superfamily	294334	35	336	1.10634e-22	98.5683	cl00490	EEP superfamily	 - 	 - 
+Q#394 - >Tb11.v5.0254	multi-dom	140318	25	1467	0	2752.8	PTZ00297	PTZ00297	 - 	 - 
+Q#396 - >Tb11.v5.0328	superfamily	304462	4	291	6.79938e-76	235.173	cl21608	Galactosyl_T superfamily	N	 - 
+Q#397 - >Tb11.v5.0794	superfamily	304600	31	125	4.15218e-11	57.2096	cl22851	PHD_SF superfamily	N	 - 
+Q#398 - >Tb11.v5.0468	superfamily	299146	1	233	0	509.772	cl10017	Tubulin_FtsZ_Cetz-like superfamily	N	 - 
+Q#399 - >Tb11.v5.0544	superfamily	294280	78	307	8.86974e-37	135.263	cl00395	FMT_core superfamily	 - 	 - 
+Q#401 - >Tb11.v5.0659	superfamily	295415	2	104	5.09198e-12	63.5338	cl02652	MIF4G superfamily	N	 - 
+Q#403 - >Tb11.1790	superfamily	302859	1	535	1.40649e-171	503.592	cl19421	RHSP superfamily	N	 - 
+Q#404 - >Tb11.v5.0168	specific	278899	33	139	1.63736e-12	60.6552	pfam00498	FHA	 - 	cl00062
+Q#404 - >Tb11.v5.0168	multi-dom	224630	24	160	2.63168e-07	48.7986	COG1716	FHA	N	 - 
+Q#405 - >Tb11.v5.0620	superfamily	298019	310	495	5.07042e-47	165.96	cl07072	COG4 superfamily	C	 - 
+Q#406 - >Tb11.v5.0176	specific	187552	64	408	8.94553e-168	473.071	cd05241	3b-HSD-like_SDR_e	 - 	cl21454
+Q#406 - >Tb11.v5.0176	multi-dom	279420	66	324	5.92971e-43	151.354	pfam01073	3Beta_HSD	 - 	 - 
+Q#407 - >Tb11.v5.0514	superfamily	294300	81	393	9.11067e-45	156.012	cl00437	Zip superfamily	 - 	 - 
+Q#408 - >Tb11.v5.0309	specific	119392	112	495	5.24773e-19	86.9841	cd06174	MFS	 - 	cl21472
+Q#408 - >Tb11.v5.0309	multi-dom	278511	39	500	1.49556e-113	342.712	pfam00083	Sugar_tr	 - 	 - 
+Q#409 - >Tb11.v5.0693	superfamily	302859	2	229	2.52517e-52	179.254	cl19421	RHSP superfamily	N	 - 
+Q#410 - >Tb11.v5.1020	superfamily	302859	27	340	1.33552e-128	392.655	cl19421	RHSP superfamily	C	 - 
+Q#411 - >Tb11.v5.0594	superfamily	302859	1	580	0	884.94	cl19421	RHSP superfamily	N	 - 
+Q#412 - >Tb11.v5.1032	specific	289949	30	373	5.47551e-54	181.589	pfam13206	VSG_B	 - 	cl20486
+Q#413 - >Tb11.v5.0753	superfamily	282625	222	333	0.00458269	38.7384	cl04754	LMBR1 superfamily	NC	 - 
+Q#414 - >Tb11.v5.0905	superfamily	302573	9	174	1.50144e-09	57.086	cl16914	O-FucT_like superfamily	C	 - 
+Q#416 - >Tb11.v5.0711	specific	176459	136	444	5.31156e-92	280.562	cd03586	PolY_Pol_IV_kappa	 - 	cl12025
+Q#417 - >Tb11.v5.0226	specific	288563	12	281	7.61029e-83	253.118	pfam11727	ISG65-75	 - 	cl19916
+Q#418 - >Tb11.v5.0419	superfamily	304359	283	425	3.26387e-26	102.362	cl21455	P-loop_NTPase superfamily	 - 	 - 
+Q#418 - >Tb11.v5.0419	superfamily	304359	1	123	2.37816e-19	83.1019	cl21455	P-loop_NTPase superfamily	 - 	 - 
+Q#418 - >Tb11.v5.0419	multi-dom	214640	280	425	7.5834e-08	50.4497	smart00382	AAA	 - 	 - 
+Q#419 - >Tb11.v5.0288	specific	240315	6	337	0	669.168	PTZ00211	PTZ00211	 - 	cl00264
+Q#420 - >Tb11.v5.0388	specific	276995	104	148	5.25349e-12	59.1535	cd15520	PHD3_Lid2p_like	 - 	cl22851
+Q#420 - >Tb11.v5.0388	specific	290367	8	53	1.41114e-08	49.3993	pfam13639	zf-RING_2	 - 	cl17238
+Q#421 - >Tb11.v5.0786	superfamily	279282	1	282	8.32878e-24	100.178	cl03014	Trypan_glycop superfamily	N	 - 
+Q#421 - >Tb11.v5.0786	superfamily	287612	312	356	0.00339136	35.4634	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#422 - >Tb11.v5.0625	superfamily	277568	48	352	1.20185e-132	380.786	cl22853	Motor_domain superfamily	 - 	 - 
+Q#422 - >Tb11.v5.0625	multi-dom	278646	46	350	2.00601e-113	331.839	pfam00225	Kinesin	 - 	 - 
+Q#424 - >Tb11.v5.0275	specific	259807	527	678	3.12612e-75	240.591	cd08825	MVP_shoulder	 - 	cl19107
+Q#424 - >Tb11.v5.0275	specific	279802	117	156	1.05829e-11	58.5492	pfam01505	Vault	 - 	cl03238
+Q#424 - >Tb11.v5.0275	specific	279802	326	367	3.99848e-11	57.0084	pfam01505	Vault	 - 	cl03238
+Q#424 - >Tb11.v5.0275	specific	279802	171	209	8.51574e-09	50.46	pfam01505	Vault	 - 	cl03238
+Q#424 - >Tb11.v5.0275	specific	279802	223	259	0.000288895	37.7484	pfam01505	Vault	 - 	cl03238
+Q#424 - >Tb11.v5.0275	multi-dom	240439	5	862	0	1264.55	PTZ00491	PTZ00491	 - 	 - 
+Q#425 - >Tb11.v5.0749	superfamily	304359	263	357	1.59332e-62	197.904	cl21455	P-loop_NTPase superfamily	N	 - 
+Q#426 - >Tb11.v5.0462	specific	287612	181	281	1.52095e-10	55.879	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#426 - >Tb11.v5.0462	superfamily	289949	2	132	0.000117531	41.7616	cl20486	VSG_B superfamily	N	 - 
+Q#428 - >Tb11.v5.0820	specific	238798	33	328	2.84722e-129	369.602	cd01557	BCAT_beta_family	 - 	cl00224
+Q#428 - >Tb11.v5.0820	multi-dom	237363	2	339	1.10064e-129	373.329	PRK13357	PRK13357	 - 	 - 
+Q#430 - >Tb11.v5.0811	specific	214944	140	260	3.0723e-20	85.7455	smart00968	SMC_hinge	 - 	cl05797
+Q#430 - >Tb11.v5.0811	superfamily	304359	687	730	3.48424e-08	53.841	cl21455	P-loop_NTPase superfamily	NC	 - 
+Q#430 - >Tb11.v5.0811	multi-dom	224117	47	730	1.30251e-58	215.734	COG1196	Smc	N	 - 
+Q#432 - >Tb11.v5.1015	superfamily	299850	446	658	1.4062e-44	157.021	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#433 - >Tb11.v5.0301	superfamily	294479	1	78	2.15388e-11	59.765	cl00738	MBOAT superfamily	N	 - 
+Q#434 - >Tb11.v5.0870	superfamily	279282	2	206	3.27165e-07	49.3313	cl03014	Trypan_glycop superfamily	N	 - 
+Q#435 - >Tb11.v5.0958	specific	289949	24	378	4.09988e-40	146.921	pfam13206	VSG_B	 - 	cl20486
+Q#435 - >Tb11.v5.0958	specific	287612	413	461	1.85444e-11	59.3458	pfam10659	Trypan_glycop_C	C	cl11264
+Q#436 - >Tb11.v5.0582	specific	293430	61	231	8.00007e-92	273.836	pfam16825	DUF5075	 - 	cl25136
+Q#436 - >Tb11.v5.0582	superfamily	294098	247	318	9.67734e-05	43.1498	cl00146	TFIIS_I superfamily	C	 - 
+Q#437 - >Tb11.v5.0933	specific	289949	16	362	4.6058e-38	139.987	pfam13206	VSG_B	 - 	cl20486
+Q#437 - >Tb11.v5.0933	superfamily	287612	398	436	0.00157514	36.619	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#438 - >Tb11.v5.0236	superfamily	296357	143	443	6.34392e-23	99.9815	cl04289	Tfb2 superfamily	N	 - 
+Q#440 - >Tb11.02.5050b	specific	270898	269	658	1.14148e-85	274.555	cd13996	STKc_EIF2AK	 - 	cl21453
+Q#440 - >Tb11.02.5050b	specific	283440	30	139	2.53297e-06	45.7604	pfam05773	RWD	 - 	cl02687
+Q#440 - >Tb11.02.5050b	multi-dom	214567	275	656	1.88386e-43	156.921	smart00220	S_TKc	 - 	 - 
+Q#443 - >Tb11.v5.0489	superfamily	302859	27	573	0	665.376	cl19421	RHSP superfamily	C	 - 
+Q#446 - >Tb11.v5.0117	superfamily	279282	210	396	0.00154923	39.3161	cl03014	Trypan_glycop superfamily	N	 - 
+Q#447 - >Tb11.v5.0622	specific	279282	183	445	1.07722e-47	169.899	pfam00913	Trypan_glycop	N	cl03014
+Q#447 - >Tb11.v5.0622	specific	287612	478	597	3.78521e-22	90.1617	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#448 - >Tb11.v5.0270	specific	239115	4	350	4.96599e-121	350.02	cd02649	nuc_hydro_CeIAG	 - 	cl00226
+Q#449 - >Tb11.v5.0310	specific	119392	112	495	1.06026e-18	86.2137	cd06174	MFS	 - 	cl21472
+Q#449 - >Tb11.v5.0310	multi-dom	278511	39	500	2.7372e-113	341.941	pfam00083	Sugar_tr	 - 	 - 
+Q#450 - >Tb11.02.5105b	superfamily	291068	42	77	0.00145122	33.6631	cl16833	Topo_C_assoc superfamily	 - 	 - 
+Q#451 - >Tb11.v5.0830	superfamily	299141	18	226	1.21449e-07	52.584	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	N	 - 
+Q#452 - >Tb11.02.5410b	superfamily	304554	1	290	3.86288e-31	116.311	cl22428	E1_enzyme_family superfamily	 - 	 - 
+Q#454 - >Tb11.v5.0881	multi-dom	274008	5	607	8.77113e-17	83.1822	TIGR02168	SMC_prok_B	C	 - 
+Q#456 - >Tb11.v5.0242	specific	285579	910	1315	2.20134e-138	437.802	pfam08393	DHC_N2	 - 	cl20357
+Q#456 - >Tb11.v5.0242	specific	289547	3082	3296	1.46741e-104	332.82	pfam12781	AAA_9	 - 	cl15086
+Q#456 - >Tb11.v5.0242	superfamily	304359	1441	1671	6.9996e-89	288.509	cl21455	P-loop_NTPase superfamily	 - 	 - 
+Q#456 - >Tb11.v5.0242	superfamily	304359	2433	2693	1.2075e-64	220.585	cl21455	P-loop_NTPase superfamily	 - 	 - 
+Q#456 - >Tb11.v5.0242	superfamily	289543	2705	3049	2.04515e-46	170.596	cl15084	MT superfamily	 - 	 - 
+Q#456 - >Tb11.v5.0242	superfamily	304359	2081	2343	6.43067e-41	152.401	cl21455	P-loop_NTPase superfamily	 - 	 - 
+Q#456 - >Tb11.v5.0242	superfamily	304359	1757	1898	5.1426e-06	47.2784	cl21455	P-loop_NTPase superfamily	 - 	 - 
+Q#458 - >Tb11.15.0007b	specific	289949	19	346	3.88302e-43	155.01	pfam13206	VSG_B	 - 	cl20486
+Q#458 - >Tb11.15.0007b	specific	287612	383	487	5.05845e-19	80.9169	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#460 - >Tb11.v5.0875	superfamily	301351	376	592	2.44226e-23	97.2721	cl14812	PIN_SF superfamily	 - 	 - 
+Q#461 - >Tb11.v5.0616	multi-dom	282940	377	664	2.94842e-118	353.966	pfam05149	Flagellar_rod	 - 	 - 
+Q#462 - >Tb11.v5.0329	specific	289949	21	217	2.50835e-34	129.587	pfam13206	VSG_B	C	cl20486
+Q#463 - >Tb11.v5.0877	superfamily	283193	36	486	5.32256e-13	69.7895	cl20295	eIF-3c_N superfamily	 - 	 - 
+Q#464 - >Tb11.v5.0999	specific	283862	6	95	2.37492e-32	119.452	pfam06294	CH_2	 - 	cl00030
+Q#465 - >Tb11.v5.0402	multi-dom	293336	39	212	3.62665e-45	150.962	pfam16731	GARP	 - 	 - 
+Q#466 - >Tb11.v5.0540	superfamily	294310	76	489	0	532.521	cl00456	SLC5-6-like_sbd superfamily	 - 	 - 
+Q#466 - >Tb11.v5.0540	multi-dom	223884	75	477	5.85983e-26	108.122	COG0814	SdaC	 - 	 - 
+Q#467 - >Tb11.v5.0136	specific	289949	30	369	5.22091e-49	170.418	pfam13206	VSG_B	 - 	cl20486
+Q#467 - >Tb11.v5.0136	superfamily	287612	417	475	0.00698103	35.0782	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#469 - >Tb11.v5.0831	specific	276812	10	337	1.53295e-103	314.193	cd00106	KISc	 - 	cl22853
+Q#469 - >Tb11.v5.0831	multi-dom	214526	10	347	4.96645e-113	338.778	smart00129	KISc	 - 	 - 
+Q#470 - >Tb11.v5.0565	superfamily	301352	1	530	7.65393e-121	367.284	cl14813	GluZincin superfamily	 - 	 - 
+Q#471 - >Tb11.v5.0950	specific	289949	25	379	7.48969e-53	181.589	pfam13206	VSG_B	 - 	cl20486
+Q#471 - >Tb11.v5.0950	specific	287612	416	517	3.63466e-16	72.8278	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#474 - >Tb11.v5.0198	specific	128594	701	824	2.25863e-17	78.0847	smart00299	CLH	 - 	cl23054
+Q#474 - >Tb11.v5.0198	specific	290550	366	422	3.79228e-17	74.5035	pfam13838	Clathrin_H_link	 - 	cl16430
+Q#474 - >Tb11.v5.0198	superfamily	128594	545	690	3.18263e-10	57.6691	cl23054	CLH superfamily	 - 	 - 
+Q#474 - >Tb11.v5.0198	specific	286367	333	354	6.13517e-07	44.7114	pfam09268	Clathrin-link	 - 	cl07778
+Q#474 - >Tb11.v5.0198	multi-dom	279031	548	693	5.68042e-11	59.5499	pfam00637	Clathrin	 - 	 - 
+Q#474 - >Tb11.v5.0198	multi-dom	279031	705	824	4.0134e-19	83.0471	pfam00637	Clathrin	 - 	 - 
+Q#475 - >Tb11.v5.0151	superfamily	294421	88	197	1.69143e-05	42.6859	cl00630	YdcF-like superfamily	C	 - 
+Q#476 - >Tb11.v5.0434	superfamily	277568	62	571	6.03074e-109	342.795	cl22853	Motor_domain superfamily	 - 	 - 
+Q#476 - >Tb11.v5.0434	multi-dom	214526	64	571	1.59232e-105	332.615	smart00129	KISc	 - 	 - 
+Q#478 - >Tb11.v5.0707	superfamily	302622	216	328	2.63085e-09	52.9846	cl17171	PH-like superfamily	 - 	 - 
+Q#479 - >Tb11.02.5110b	multi-dom	224391	36	403	1.8106e-13	70.0721	COG1474	CDC6	 - 	 - 
+Q#480 - >Tb11.v5.0731	specific	240314	1	427	0	743.326	PTZ00208	PTZ00208	 - 	cl19916
+Q#481 - >Tb11.v5.0674	multi-dom	227498	96	456	9.67414e-25	105.882	COG5170	CDC55	C	 - 
+Q#482 - >Tb11.v5.0650	specific	239429	5	416	0	735.058	cd03313	enolase	 - 	cl21457
+Q#482 - >Tb11.v5.0650	multi-dom	240259	1	427	0	862.818	PTZ00081	PTZ00081	 - 	 - 
+Q#483 - >Tb11.v5.0574	specific	287197	18	187	1.51167e-75	231.319	pfam10188	Oscp1	 - 	cl10882
+Q#484 - >Tb11.v5.0816	specific	289949	52	376	6.72932e-22	94.5339	pfam13206	VSG_B	 - 	cl20486
+Q#485 - >Tb11.v5.1054	superfamily	301621	5	173	2.88804e-22	90.9326	cl15430	Nucleoside_tran superfamily	N	 - 
+Q#486 - >Tb11.v5.0974	specific	289949	23	377	9.75958e-56	189.293	pfam13206	VSG_B	 - 	cl20486
+Q#486 - >Tb11.v5.0974	specific	287612	417	505	1.61816e-19	82.4577	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#487 - >Tb11.v5.0513	specific	281081	213	432	9.37929e-37	131.192	pfam03031	NIF	 - 	cl21460
+Q#489 - >Tb11.v5.0410	multi-dom	274008	927	1713	1.18843e-19	94.7382	TIGR02168	SMC_prok_B	 - 	 - 
+Q#489 - >Tb11.v5.0410	multi-dom	274008	5	692	1.54504e-19	94.353	TIGR02168	SMC_prok_B	 - 	 - 
+Q#490 - >Tb11.v5.0512	superfamily	282088	41	162	6.47754e-05	39.8414	cl04436	RPAP2_Rtr1 superfamily	 - 	 - 
+Q#491 - >Tb11.v5.0337	superfamily	295369	48	279	1.8801e-17	82.768	cl02567	WD40 superfamily	 - 	 - 
+Q#491 - >Tb11.v5.0337	multi-dom	225201	48	283	7.88063e-17	83.5995	COG2319	WD40	C	 - 
+Q#492 - >Tb11.v5.0653	superfamily	304978	276	472	1.82174e-42	154.443	cl23821	GSP_synth superfamily	C	 - 
+Q#492 - >Tb11.v5.0653	specific	283032	52	146	5.18166e-07	46.2249	pfam05257	CHAP	 - 	cl21534
+Q#493 - >Tb11.v5.0588	specific	129021	251	325	3.32793e-26	100.323	smart00785	AARP2CN	 - 	cl06950
+Q#493 - >Tb11.v5.0588	superfamily	304359	102	286	3.18593e-09	55.8081	cl21455	P-loop_NTPase superfamily	N	 - 
+Q#493 - >Tb11.v5.0588	superfamily	282764	469	490	0.0011505	39.3521	cl20282	RIBIOP_C superfamily	C	 - 
+Q#493 - >Tb11.v5.0588	multi-dom	227504	5	490	2.92267e-30	123.653	COG5177	COG5177	C	 - 
+Q#495 - >Tb11.v5.0636	superfamily	277568	487	809	3.17935e-153	449.737	cl22853	Motor_domain superfamily	 - 	 - 
+Q#495 - >Tb11.v5.0636	superfamily	295355	13	115	3.14204e-05	43.0532	cl02544	VHS_ENTH_ANTH superfamily	 - 	 - 
+Q#495 - >Tb11.v5.0636	multi-dom	278646	495	811	1.29401e-150	442.776	pfam00225	Kinesin	 - 	 - 
+Q#496 - >Tb11.v5.0346	multi-dom	293336	39	212	1.06205e-46	154.043	pfam16731	GARP	 - 	 - 
+Q#497 - >Tb11.v5.0197	superfamily	128594	2	125	9.93458e-16	73.4623	cl23054	CLH superfamily	 - 	 - 
+Q#497 - >Tb11.v5.0197	superfamily	128594	289	427	2.16983e-13	66.9139	cl23054	CLH superfamily	 - 	 - 
+Q#497 - >Tb11.v5.0197	superfamily	128594	141	277	8.86593e-12	62.2915	cl23054	CLH superfamily	 - 	 - 
+Q#497 - >Tb11.v5.0197	superfamily	128594	593	739	1.70057e-10	58.4395	cl23054	CLH superfamily	 - 	 - 
+Q#497 - >Tb11.v5.0197	superfamily	128594	444	544	3.15811e-08	51.8911	cl23054	CLH superfamily	C	 - 
+Q#497 - >Tb11.v5.0197	multi-dom	279031	293	430	1.64142e-26	104.233	pfam00637	Clathrin	 - 	 - 
+Q#497 - >Tb11.v5.0197	multi-dom	279031	1	132	4.1364e-25	100.381	pfam00637	Clathrin	 - 	 - 
+Q#497 - >Tb11.v5.0197	multi-dom	279031	593	720	9.49065e-23	93.4475	pfam00637	Clathrin	 - 	 - 
+Q#497 - >Tb11.v5.0197	multi-dom	279031	147	283	7.76817e-22	90.7511	pfam00637	Clathrin	 - 	 - 
+Q#497 - >Tb11.v5.0197	multi-dom	279031	444	581	2.08941e-16	75.3431	pfam00637	Clathrin	 - 	 - 
+Q#498 - >Tb11.v5.0968	superfamily	299850	850	941	0.00088663	40.2551	cl11967	Nucleotidyl_cyc_III superfamily	C	 - 
+Q#498 - >Tb11.v5.0968	multi-dom	285778	29	172	2.16605e-06	48.3992	pfam08614	ATG16	C	 - 
+Q#499 - >Tb11.v5.0486	specific	278434	1	119	3.58133e-44	143.505	pfam00004	AAA	 - 	cl21455
+Q#499 - >Tb11.v5.0486	superfamily	286426	180	230	8.97557e-11	54.4143	cl07827	Vps4_C superfamily	 - 	 - 
+Q#499 - >Tb11.v5.0486	multi-dom	223540	1	221	4.13209e-65	208.139	COG0464	SpoVK	N	 - 
+Q#500 - >Tb11.v5.0683	specific	278985	560	703	9.83334e-29	110.306	pfam00588	SpoU_methylase	 - 	cl21505
+Q#502 - >Tb11.v5.0277	specific	238167	42	245	3.03288e-84	257.798	cd00268	DEADc	 - 	cl21455
+Q#502 - >Tb11.v5.0277	specific	238034	256	384	8.255e-33	120.42	cd00079	HELICc	 - 	cl21455
+Q#502 - >Tb11.v5.0277	multi-dom	223587	14	485	7.63862e-126	376.053	COG0513	SrmB	 - 	 - 
+Q#503 - >Tb11.v5.1014	superfamily	304914	120	161	0.000656769	34.9527	cl23757	OCRE superfamily	 - 	 - 
+Q#504 - >Tb11.v5.0422	specific	279228	311	415	1.36534e-16	74.4477	pfam00856	SET	 - 	cl02566
+Q#505 - >Tb11.v5.0494	superfamily	279002	287	484	8.38876e-33	123.735	cl02908	Gag_p24 superfamily	 - 	 - 
+Q#505 - >Tb11.v5.0494	superfamily	291453	535	562	0.000408813	36.7961	cl20708	zf-CCHC_5 superfamily	 - 	 - 
+Q#505 - >Tb11.v5.0494	specific	278525	508	523	0.00135307	35.1933	pfam00098	zf-CCHC	 - 	cl23330
+Q#507 - >Tb11.v5.0688	superfamily	294089	730	818	2.44846e-11	64.9406	cl00130	PseudoU_synth superfamily	NC	 - 
+Q#508 - >Tb11.v5.0859	specific	279562	35	209	1.46498e-85	255.092	pfam01233	NMT	 - 	cl03135
+Q#508 - >Tb11.v5.0859	superfamily	280893	225	312	9.573e-38	132.545	cl03719	NMT_C superfamily	C	 - 
+Q#510 - >Tb11.v5.0931	superfamily	279282	21	393	7.54152e-34	129.838	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#510 - >Tb11.v5.0931	superfamily	287612	421	489	0.00196816	36.619	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#511 - >Tb11.v5.0721	multi-dom	224117	138	478	3.69512e-06	48.9424	COG1196	Smc	N	 - 
+Q#513 - >Tb11.v5.0258	specific	291438	42	127	4.90892e-14	66.4584	pfam14772	NYD-SP28	 - 	cl20695
+Q#513 - >Tb11.v5.0258	specific	291441	410	451	3.40436e-07	45.9983	pfam14775	NYD-SP28_assoc	N	cl20698
+Q#514 - >Tb11.v5.0718	specific	271039	19	313	2.46224e-178	494.714	cd14137	STKc_GSK3	 - 	cl21453
+Q#514 - >Tb11.v5.0718	multi-dom	214567	20	310	6.2886e-78	238.198	smart00220	S_TKc	 - 	 - 
+Q#515 - >Tb11.v5.0445	superfamily	291977	13	74	0.000716124	34.8271	cl21175	LIME1 superfamily	C	 - 
+Q#516 - >Tb11.v5.0776	superfamily	289949	12	375	3.47699e-15	75.274	cl20486	VSG_B superfamily	 - 	 - 
+Q#518 - >Tb11.v5.0662	specific	289949	28	371	1.85082e-36	134.21	pfam13206	VSG_B	 - 	cl20486
+Q#519 - >Tb11.v5.0738	superfamily	302627	131	288	7.70391e-32	117.386	cl17190	NK superfamily	C	 - 
+Q#519 - >Tb11.v5.0738	multi-dom	223203	131	345	8.08782e-27	103.909	COG0125	Tmk	 - 	 - 
+Q#520 - >Tb11.1620	superfamily	279282	1	230	3.02528e-15	72.8285	cl03014	Trypan_glycop superfamily	C	 - 
+Q#521 - >Tb11.v5.0664	superfamily	304359	121	150	5.91918e-06	45.1939	cl21455	P-loop_NTPase superfamily	C	 - 
+Q#522 - >Tb11.v5.0912	superfamily	289949	21	207	1.49626e-09	55.6288	cl20486	VSG_B superfamily	N	 - 
+Q#523 - >Tb11.v5.0247	specific	223766	127	210	8.16391e-31	108.924	COG0694	NifU	 - 	cl00484
+Q#523 - >Tb11.v5.0247	specific	214919	14	105	1.07649e-24	92.9727	smart00932	Nfu_N	 - 	cl07364
+Q#524 - >Tb11.v5.0754	specific	287612	283	372	2.49435e-14	67.0498	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#524 - >Tb11.v5.0754	superfamily	279282	2	272	4.41757e-05	43.5533	cl03014	Trypan_glycop superfamily	N	 - 
+Q#525 - >Tb11.v5.0396	superfamily	295341	46	133	2.40564e-12	61.0702	cl02518	BTB superfamily	 - 	 - 
+Q#525 - >Tb11.v5.0396	multi-dom	197585	45	117	4.64898e-08	48.8412	smart00225	BTB	C	 - 
+Q#530 - >Tb11.v5.0397	specific	278434	144	276	9.58657e-48	161.609	pfam00004	AAA	 - 	cl21455
+Q#530 - >Tb11.v5.0397	superfamily	279742	359	541	1.658e-35	130.414	cl03209	Peptidase_M41 superfamily	 - 	 - 
+Q#530 - >Tb11.v5.0397	multi-dom	273520	77	543	8.97299e-141	415.916	TIGR01241	FtsH_fam	 - 	 - 
+Q#532 - >Tb11.v5.0334	superfamily	289949	101	359	7.95354e-14	70.2664	cl20486	VSG_B superfamily	N	 - 
+Q#533 - >Tb11.v5.0628	superfamily	285260	276	378	2.56471e-11	59.5332	cl24204	TBCC superfamily	 - 	 - 
+Q#533 - >Tb11.v5.0628	superfamily	285260	30	120	6.36354e-08	49.9032	cl24204	TBCC superfamily	 - 	 - 
+Q#534 - >Tb11.v5.0501	specific	279367	20	223	4.11922e-73	220.026	pfam01015	Ribosomal_S3Ae	 - 	cl00821
+Q#535 - >Tb11.v5.0285	superfamily	279282	2	191	3.68248e-09	54.7241	cl03014	Trypan_glycop superfamily	C	 - 
+Q#536 - >Tb11.v5.0171	specific	281193	1	227	3.7493e-137	418.414	pfam03159	XRN_N	 - 	cl03915
+Q#536 - >Tb11.v5.0171	multi-dom	227382	1	584	0	601.143	COG5049	XRN1	C	 - 
+Q#537 - >Tb11.v5.0404	specific	199889	22	79	1.05439e-10	56.8385	cd02859	E_set_AMPKbeta_like_N	C	cl09101
+Q#537 - >Tb11.v5.0404	superfamily	294589	608	681	0.000682888	39.1622	cl00909	Ribosomal_L24e_L24 superfamily	N	 - 
+Q#539 - >Tb11.02.5390b	superfamily	294350	810	994	0.00980221	38.2027	cl00516	Restriction_endonuclease_like superfamily	C	 - 
+Q#540 - >Tb11.v5.0670	superfamily	302859	1	264	2.61681e-118	355.676	cl19421	RHSP superfamily	N	 - 
+Q#541 - >Tb11.v5.0777	multi-dom	282940	4	281	1.57333e-102	299.653	pfam05149	Flagellar_rod	 - 	 - 
+Q#542 - >Tb11.v5.0808	superfamily	279676	111	176	0.00343367	37.894	cl03182	RYDR_ITPR superfamily	N	 - 
+Q#543 - >Tb11.v5.0340	specific	260002	68	282	3.77231e-86	258.218	cd07181	RNase_HII_eukaryota_like	 - 	cl14782
+Q#544 - >Tb11.v5.0701	superfamily	271592	161	290	1.16071e-20	90.4467	cl02553	Peptidase_C19 superfamily	C	 - 
+Q#545 - >Tb11.v5.0836	specific	279834	72	157	1.70485e-19	81.9125	pfam01545	Cation_efflux	C	cl24014
+Q#545 - >Tb11.v5.0836	multi-dom	224151	59	154	2.80268e-21	88.9087	COG1230	CzcD	C	 - 
+Q#546 - >Tb11.v5.0185	multi-dom	290160	83	154	2.51389e-07	47.7945	pfam13424	TPR_12	 - 	 - 
+Q#547 - >Tb11.v5.0844	specific	214852	99	182	4.59992e-17	71.5305	smart00847	HA2	 - 	cl04503
+Q#552 - >Tb11.02.5400b	specific	107204	17	313	1.13436e-134	384.558	cd01561	CBS_like	 - 	cl00342
+Q#552 - >Tb11.02.5400b	multi-dom	166206	4	313	2.62975e-63	203.617	PLN02565	PLN02565	 - 	 - 
+Q#554 - >Tb11.v5.0760	specific	286777	204	449	1.92641e-30	119.248	pfam09734	Tau95	 - 	cl10719
+Q#555 - >Tb11.v5.0944	specific	289949	95	338	7.58187e-21	90.682	pfam13206	VSG_B	 - 	cl20486
+Q#556 - >Tb11.v5.0961	superfamily	187754	218	330	3.2547e-08	52.3296	cl23706	AMN1 superfamily	NC	 - 
+Q#556 - >Tb11.v5.0961	superfamily	238064	104	320	1.0612e-07	51.5874	cl23707	LRR_RI superfamily	 - 	 - 
+Q#557 - >Tb11.v5.0234	superfamily	304359	40	153	3.4608e-57	176.044	cl21455	P-loop_NTPase superfamily	N	 - 
+Q#559 - >Tb11.v5.0596	specific	270725	85	443	0	515.297	cd05573	STKc_ROCK_NDR_like	 - 	cl21453
+Q#559 - >Tb11.v5.0596	multi-dom	214567	87	382	4.69985e-93	280.956	smart00220	S_TKc	 - 	 - 
+Q#562 - >Tb11.v5.0756	superfamily	299870	1	182	1.34191e-28	107.992	cl12025	PolY superfamily	N	 - 
+Q#563 - >Tb11.v5.0673	specific	289949	21	361	2.36634e-27	110.327	pfam13206	VSG_B	 - 	cl20486
+Q#564 - >Tb11.v5.0222	specific	279808	80	249	1.0275e-58	189.643	pfam01512	Complex1_51K	 - 	cl20216
+Q#564 - >Tb11.v5.0222	specific	287548	367	443	1.3331e-33	120.635	pfam10589	NADH_4Fe-4S	 - 	cl11211
+Q#564 - >Tb11.v5.0222	specific	287499	276	328	1.45336e-05	41.1503	pfam10531	SLBB	 - 	cl22925
+Q#564 - >Tb11.v5.0222	multi-dom	185547	1	474	0	976.958	PTZ00304	PTZ00304	 - 	 - 
+Q#565 - >Tb11.v5.0916	specific	289949	33	351	2.4079e-48	169.648	pfam13206	VSG_B	 - 	cl20486
+Q#565 - >Tb11.v5.0916	specific	287612	418	531	1.32086e-21	88.2357	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#567 - >Tb11.v5.0702	superfamily	286503	358	487	0.000945055	39.9126	cl09664	Nop16 superfamily	N	 - 
+Q#568 - >Tb11.v5.0278	specific	286805	35	214	1.36206e-75	224.374	pfam09764	Nt_Gln_amidase	 - 	cl20145
+Q#570 - >Tb11.v5.0699	superfamily	289949	71	277	1.46809e-06	47.9248	cl20486	VSG_B superfamily	N	 - 
+Q#572 - >Tb11.v5.0583	superfamily	284870	74	538	1.10104e-13	73.7145	cl06529	DRIM superfamily	N	 - 
+Q#573 - >Tb11.v5.0976	superfamily	287612	103	195	5.27559e-09	50.8714	cl11264	Trypan_glycop_C superfamily	 - 	 - 
+Q#575 - >Tb11.v5.0720	superfamily	301624	26	142	0.00877242	37.3196	cl15442	DUF2381 superfamily	NC	 - 
+Q#577 - >Tb11.v5.0459	specific	279282	11	240	1.46903e-48	162.195	pfam00913	Trypan_glycop	C	cl03014
+Q#578 - >Tb11.v5.0920	superfamily	279282	57	418	6.1942e-24	101.718	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#580 - >Tb11.v5.0919	superfamily	289949	1	206	4.56933e-15	71.0368	cl20486	VSG_B superfamily	C	 - 
+Q#581 - >Tb11.v5.0425	specific	278633	202	414	3.74297e-60	195.926	pfam00211	Guanylate_cyc	 - 	cl11967
+Q#583 - >Tb11.v5.0866	specific	259807	247	395	4.37218e-93	278.725	cd08825	MVP_shoulder	 - 	cl19107
+Q#583 - >Tb11.v5.0866	specific	279802	72	110	2.40019e-14	65.4828	pfam01505	Vault	 - 	cl03238
+Q#583 - >Tb11.v5.0866	multi-dom	240439	1	503	0	863.942	PTZ00491	PTZ00491	N	 - 
+Q#584 - >Tb11.v5.0415	superfamily	302624	67	456	1.36771e-19	86.8903	cl17173	AdoMet_MTases superfamily	 - 	 - 
+Q#586 - >Tb11.v5.0264	multi-dom	290581	202	359	1.03981e-24	98.4349	pfam13870	DUF4201	 - 	 - 
+Q#587 - >Tb11.v5.0948	specific	289949	21	372	5.76574e-68	219.724	pfam13206	VSG_B	 - 	cl20486
+Q#587 - >Tb11.v5.0948	superfamily	287612	414	465	8.72503e-08	48.9454	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#588 - >Tb11.v5.0765	specific	99970	5	411	0	711.289	cd03796	GT1_PIG-A_like	 - 	cl10013
+Q#588 - >Tb11.v5.0765	multi-dom	223515	5	382	1.42232e-43	155.491	COG0438	RfaB	 - 	 - 
+Q#589 - >Tb11.v5.0640	specific	291233	16	147	3.33157e-15	69.9615	pfam14551	MCM_N	 - 	cl20563
+Q#589 - >Tb11.v5.0640	superfamily	299125	99	199	0.0031898	36.2459	cl09930	RPA_2b-aaRSs_OBF_like superfamily	C	 - 
+Q#589 - >Tb11.v5.0640	multi-dom	224162	81	403	7.38107e-72	236.859	COG1241	Mcm2	C	 - 
+Q#590 - >Tb11.v5.0333	specific	119392	116	273	2.59611e-10	59.2497	cd06174	MFS	C	cl21472
+Q#591 - >Tb11.v5.1059	specific	279271	92	166	1.05463e-28	103.282	pfam00900	Ribosomal_S4e	 - 	cl03010
+Q#591 - >Tb11.v5.1059	specific	240511	175	226	4.29678e-23	87.9563	cd06087	KOW_RPS4	 - 	cl00354
+Q#591 - >Tb11.v5.1059	specific	292739	209	257	5.7522e-17	71.3956	pfam16121	40S_S4_C	 - 	cl24634
+Q#591 - >Tb11.v5.1059	specific	285333	3	36	2.04327e-15	67.2159	pfam08071	RS4NT	 - 	cl06900
+Q#591 - >Tb11.v5.1059	specific	279780	48	87	6.33299e-05	38.2559	pfam01479	S4	 - 	cl09940
+Q#591 - >Tb11.v5.1059	multi-dom	140250	1	273	0	546.519	PTZ00223	PTZ00223	 - 	 - 
+Q#592 - >Tb11.v5.0896	superfamily	279282	1	369	4.8802e-24	100.948	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#594 - >Tb11.v5.0164	superfamily	294671	130	156	0.000381983	35.7344	cl01066	Trm112p superfamily	N	 - 
+Q#595 - >Tb11.v5.0165	specific	276812	3	341	6.88875e-96	292.622	cd00106	KISc	 - 	cl22853
+Q#595 - >Tb11.v5.0165	multi-dom	278646	9	343	2.34853e-101	306.416	pfam00225	Kinesin	 - 	 - 
+Q#596 - >Tb11.v5.0141	superfamily	279282	12	312	0.0025776	37.7753	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#597 - >Tb11.v5.0704	specific	289949	1	292	8.85771e-34	125.735	pfam13206	VSG_B	 - 	cl20486
+Q#598 - >Tb11.v5.0344	multi-dom	293336	39	218	3.36879e-53	169.837	pfam16731	GARP	 - 	 - 
+Q#599 - >Tb11.v5.0778	superfamily	295354	49	95	3.93292e-09	51.3151	cl02542	DnaJ superfamily	N	 - 
+Q#599 - >Tb11.v5.0778	superfamily	301343	257	413	2.50964e-06	46.7396	cl14778	DnaJ-X superfamily	 - 	 - 
+Q#600 - >Tb11.v5.0652	superfamily	304357	40	301	2.77535e-44	157.294	cl21453	PKc_like superfamily	 - 	 - 
+Q#600 - >Tb11.v5.0652	multi-dom	278497	41	302	1.80125e-44	158.142	pfam00069	Pkinase	 - 	 - 
+Q#603 - >Tb11.v5.0137	multi-dom	173412	211	390	0.00602423	37.8131	PTZ00121	PTZ00121	NC	 - 
+Q#605 - >Tb11.1370	multi-dom	274008	76	224	0.0083109	37.3435	TIGR02168	SMC_prok_B	NC	 - 
+Q#608 - >Tb11.v5.0564	specific	271035	181	483	3.48955e-131	380.075	cd14133	PKc_DYRK_like	 - 	cl21453
+Q#608 - >Tb11.v5.0564	multi-dom	214567	181	483	2.26057e-65	210.849	smart00220	S_TKc	 - 	 - 
+Q#609 - >Tb11.v5.0510	superfamily	302875	31	411	4.04288e-112	337.596	cl19482	Peptidase_M8 superfamily	C	 - 
+Q#610 - >Tb11.v5.0846	superfamily	295170	2	48	0.000530242	39.0964	cl02098	14-3-3 superfamily	NC	 - 
+Q#611 - >Tb11.v5.0902	specific	214570	51	90	0.00183462	35.8176	smart00228	PDZ	N	cl00117
+Q#612 - >Tb11.v5.0686	specific	187579	30	323	1.56253e-100	297.62	cd05271	NDUFA9_like_SDR_a	 - 	cl21454
+Q#612 - >Tb11.v5.0686	multi-dom	223774	147	263	2.78113e-12	64.9258	COG0702	YbjT	NC	 - 
+Q#613 - >Tb11.v5.0954	superfamily	279282	4	172	1.41975e-08	52.0277	cl03014	Trypan_glycop superfamily	N	 - 
+Q#614 - >Tb11.v5.0245	superfamily	304357	5	260	1.62458e-153	444.789	cl21453	PKc_like superfamily	 - 	 - 
+Q#614 - >Tb11.v5.0245	multi-dom	214567	8	261	7.48435e-107	324.483	smart00220	S_TKc	 - 	 - 
+Q#615 - >Tb11.02.5100b	superfamily	302624	231	302	0.00116761	37.6639	cl17173	AdoMet_MTases superfamily	C	 - 
+Q#618 - >Tb11.v5.0947	specific	289949	28	377	3.11704e-58	195.456	pfam13206	VSG_B	 - 	cl20486
+Q#618 - >Tb11.v5.0947	specific	287612	422	486	4.06382e-10	55.4938	pfam10659	Trypan_glycop_C	C	cl11264
+Q#619 - >Tb11.v5.1017	superfamily	279282	25	380	3.38749e-34	129.068	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#620 - >Tb11.v5.0613	specific	99780	384	610	1.23301e-45	160.425	cd06183	cyt_b5_reduct_like	 - 	cl06868
+Q#620 - >Tb11.v5.0613	superfamily	304358	1	346	1.59321e-31	125.952	cl21454	NADB_Rossmann superfamily	N	 - 
+Q#621 - >Tb11.v5.0420	multi-dom	235501	92	153	0.00158198	39.3138	PRK05559	PRK05559	NC	 - 
+Q#623 - >Tb11.v5.0215	specific	290926	6	130	4.15783e-42	140.49	pfam14226	DIOX_N	 - 	cl21672
+Q#623 - >Tb11.v5.0215	specific	281202	174	275	9.26424e-29	105.272	pfam03171	2OG-FeII_Oxy	 - 	cl21496
+Q#623 - >Tb11.v5.0215	multi-dom	140299	1	320	0	660.683	PTZ00273	PTZ00273	 - 	 - 
+Q#624 - >Tb11.v5.0639	multi-dom	290579	129	461	2.75756e-21	93.4131	pfam13868	TPH	 - 	 - 
+Q#625 - >Tb11.v5.0414	specific	238167	39	245	1.19699e-72	225.827	cd00268	DEADc	 - 	cl21455
+Q#625 - >Tb11.v5.0414	specific	278689	269	378	3.43033e-33	119.643	pfam00271	Helicase_C	 - 	cl21455
+Q#625 - >Tb11.v5.0414	multi-dom	185609	39	421	1.00616e-72	232.795	PTZ00424	PTZ00424	 - 	 - 
+Q#626 - >Tb11.v5.0671	specific	270732	18	307	0	537.162	cd05580	STKc_PKA_like	 - 	cl21453
+Q#626 - >Tb11.v5.0671	multi-dom	140289	1	329	0	680.388	PTZ00263	PTZ00263	 - 	 - 
+Q#627 - >Tb11.v5.0516	specific	280894	155	312	2.30875e-93	273.315	pfam02800	Gp_dh_C	 - 	cl19935
+Q#627 - >Tb11.v5.0516	specific	278473	3	150	9.77216e-89	261.273	pfam00044	Gp_dh_N	 - 	cl23767
+Q#627 - >Tb11.v5.0516	multi-dom	185323	1	331	0	549.336	PRK15425	gapA	 - 	 - 
+Q#628 - >Tb11.v5.0712	superfamily	278548	209	403	2.59126e-30	118.047	cl02811	E1-E2_ATPase superfamily	 - 	 - 
+Q#628 - >Tb11.v5.0712	superfamily	289987	537	574	0.000206039	39.5468	cl16182	Cation_ATPase superfamily	N	 - 
+Q#628 - >Tb11.v5.0712	superfamily	295564	76	127	0.00843203	34.4807	cl02930	Cation_ATPase_N superfamily	N	 - 
+Q#628 - >Tb11.v5.0712	multi-dom	273668	44	742	3.86301e-134	421.495	TIGR01517	ATPase-IIB_Ca	C	 - 
+Q#630 - >Tb11.v5.0221	specific	119392	16	523	2.31199e-12	66.9537	cd06174	MFS	 - 	cl21472
+Q#630 - >Tb11.v5.0221	multi-dom	284993	53	490	2.86388e-12	66.6706	pfam07690	MFS_1	 - 	 - 
+Q#632 - >Tb11.v5.1046	specific	206670	9	227	1.04639e-157	443.471	cd01883	EF1_alpha	 - 	cl21455
+Q#632 - >Tb11.v5.1046	specific	294004	323	426	2.87567e-69	213.979	cd03705	EF1_alpha_III	 - 	cl02786
+Q#632 - >Tb11.v5.1046	specific	293894	230	320	5.28883e-61	192.018	cd03693	EF1_alpha_II	 - 	cl02787
+Q#632 - >Tb11.v5.1046	multi-dom	185474	1	449	0	944.949	PTZ00141	PTZ00141	 - 	 - 
+Q#633 - >Tb11.v5.0345	multi-dom	293336	39	222	7.61905e-51	163.288	pfam16731	GARP	 - 	 - 
+Q#634 - >Tb11.v5.0149	superfamily	294041	232	337	5.95566e-05	41.6175	cl00047	CAP_ED superfamily	 - 	 - 
+Q#634 - >Tb11.v5.0149	superfamily	294041	367	483	0.000215257	40.0018	cl00047	CAP_ED superfamily	 - 	 - 
+Q#639 - >Tb11.v5.0405	specific	206665	78	205	1.84198e-43	151.894	cd01876	YihA_EngB	C	cl21455
+Q#640 - >Tb11.v5.0589	superfamily	284512	180	252	0.000194504	40.3729	cl22909	TBPIP superfamily	N	 - 
+Q#640 - >Tb11.v5.0589	multi-dom	287236	19	275	6.70188e-124	358.803	pfam10234	Cluap1	 - 	 - 
+Q#641 - >Tb11.v5.0256	specific	239728	6	201	4.85052e-114	321.885	cd03759	proteasome_beta_type_3	 - 	cl00467
+Q#641 - >Tb11.v5.0256	multi-dom	223711	8	201	8.82042e-40	134.733	COG0638	PRE1	 - 	 - 
+Q#642 - >Tb11.v5.0541	superfamily	294310	1	172	7.60618e-100	296.008	cl00456	SLC5-6-like_sbd superfamily	C	 - 
+Q#643 - >Tb11.v5.0980	specific	279282	43	405	2.46422e-62	206.493	pfam00913	Trypan_glycop	 - 	cl03014
+Q#643 - >Tb11.v5.0980	superfamily	287612	440	494	1.10914e-05	42.7822	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#644 - >Tb11.v5.0892	multi-dom	179385	227	618	2.5693e-11	65.8318	PRK02224	PRK02224	NC	 - 
+Q#645 - >Tb11.v5.0943	specific	287612	239	332	1.58323e-17	75.5242	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#645 - >Tb11.v5.0943	superfamily	289949	1	192	6.06439e-15	73.348	cl20486	VSG_B superfamily	N	 - 
+Q#647 - >Tb11.v5.0997	specific	289563	235	277	0.000161924	38.4003	pfam12799	LRR_4	 - 	cl19302
+Q#647 - >Tb11.v5.0997	specific	289563	259	299	0.000532992	36.8595	pfam12799	LRR_4	 - 	cl19302
+Q#647 - >Tb11.v5.0997	specific	289563	211	252	0.000898463	36.0891	pfam12799	LRR_4	 - 	cl19302
+Q#647 - >Tb11.v5.0997	multi-dom	227223	211	358	9.38259e-10	59.9818	COG4886	LRR	NC	 - 
+Q#648 - >Tb11.v5.0850	specific	289949	30	357	1.78298e-26	108.786	pfam13206	VSG_B	 - 	cl20486
+Q#648 - >Tb11.v5.0850	specific	287612	380	463	1.06647e-19	82.8429	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#649 - >Tb11.v5.0722	specific	289949	31	328	3.05403e-38	138.062	pfam13206	VSG_B	 - 	cl20486
+Q#651 - >Tb11.v5.0576	specific	278633	324	536	1.75642e-59	196.696	pfam00211	Guanylate_cyc	 - 	cl11967
+Q#656 - >Tb11.v5.0601	superfamily	302875	42	553	2.09812e-163	476.7	cl19482	Peptidase_M8 superfamily	 - 	 - 
+Q#658 - >Tb11.v5.0684	specific	280114	12	135	1.0307e-40	138.399	pfam01873	eIF-5_eIF-2B	 - 	cl17014
+Q#658 - >Tb11.v5.0684	superfamily	302589	254	375	3.84781e-05	42.2182	cl17013	W2 superfamily	 - 	 - 
+Q#659 - >Tb11.v5.0832	specific	289607	120	254	5.3145e-05	40.3942	pfam12847	Methyltransf_18	 - 	cl17173
+Q#660 - >Tb11.v5.0930	specific	289949	18	370	5.00717e-47	164.255	pfam13206	VSG_B	 - 	cl20486
+Q#661 - >Tb11.v5.0598	specific	198402	5	81	6.26105e-43	145.838	cd10455	GIY-YIG_SLX1	 - 	cl15257
+Q#662 - >Tb11.v5.0851	superfamily	301345	33	307	4.5122e-18	79.3365	cl14782	RNase_H_like superfamily	C	 - 
+Q#663 - >Tb11.v5.0227	superfamily	303080	44	279	4.75059e-11	62.0593	cl19916	ISG65-75 superfamily	 - 	 - 
+Q#664 - >Tb11.v5.0206	specific	283969	42	322	1.68417e-89	267.874	pfam06432	GPI2	 - 	cl05768
+Q#665 - >Tb11.v5.0761	superfamily	280422	85	121	0.00662077	34.402	cl03502	PA28_beta superfamily	C	 - 
+Q#667 - >Tb11.v5.0629	specific	283364	251	456	5.78222e-127	365.224	pfam05683	Fumerase_C	 - 	cl00795
+Q#667 - >Tb11.v5.0629	specific	283363	43	243	6.83842e-74	231.895	pfam05681	Fumerase	N	cl00851
+Q#669 - >Tb11.v5.0580	specific	239583	139	390	1.27608e-48	163.196	cd03506	Delta6-FADS-like	 - 	cl00615
+Q#669 - >Tb11.v5.0580	multi-dom	278890	141	395	1.21392e-24	100.472	pfam00487	FA_desaturase	 - 	 - 
+Q#670 - >Tb11.v5.0679	superfamily	304621	66	206	8.91228e-06	45.747	cl22894	Mem_trans superfamily	C	 - 
+Q#671 - >Tb11.v5.0642	superfamily	238064	76	148	1.52355e-05	45.4242	cl23707	LRR_RI superfamily	NC	 - 
+Q#671 - >Tb11.v5.0642	multi-dom	290566	78	146	0.00159735	35.1959	pfam13855	LRR_8	 - 	 - 
+Q#672 - >Tb11.v5.0602	superfamily	238064	117	349	6.65785e-05	43.8834	cl23707	LRR_RI superfamily	 - 	 - 
+Q#673 - >Tb11.v5.0484	superfamily	299850	697	909	2.22493e-48	168.577	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#673 - >Tb11.v5.0484	superfamily	299141	7	229	0.000334391	42.5688	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	N	 - 
+Q#674 - >Tb11.v5.0822	specific	281249	5	340	4.35057e-72	229.85	pfam03224	V-ATPase_H_N	 - 	cl21727
+Q#674 - >Tb11.v5.0822	specific	288537	346	426	2.06134e-36	129.527	pfam11698	V-ATPase_H_C	C	cl19641
+Q#675 - >Tb11.v5.0599	superfamily	279282	25	390	4.67205e-32	125.216	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#675 - >Tb11.v5.0599	superfamily	287612	420	479	0.000205559	39.3154	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#676 - >Tb11.v5.0735	specific	214642	103	135	2.12512e-05	39.8398	smart00386	HAT	 - 	cl02592
+Q#676 - >Tb11.v5.0735	specific	214642	139	169	0.00378371	33.6766	smart00386	HAT	 - 	cl02592
+Q#677 - >Tb11.v5.1012	specific	132919	53	219	3.89438e-93	274.355	cd07036	TPP_PYR_E1-PDHc-beta_like	 - 	cl11410
+Q#677 - >Tb11.v5.1012	specific	280875	239	358	3.80806e-47	155.062	pfam02780	Transketolase_C	 - 	cl08363
+Q#677 - >Tb11.v5.1012	multi-dom	185502	15	366	0	591.956	PTZ00182	PTZ00182	 - 	 - 
+Q#678 - >Tb11.v5.0572	multi-dom	235175	10	361	1.20209e-07	53.1439	PRK03918	PRK03918	NC	 - 
+Q#679 - >Tb11.v5.0750	specific	284001	316	435	4.77196e-25	98.8801	pfam06470	SMC_hinge	 - 	cl05797
+Q#679 - >Tb11.v5.0750	multi-dom	290566	198	255	2.81127e-07	46.3667	pfam13855	LRR_8	 - 	 - 
+Q#680 - >Tb11.v5.0891	specific	289949	1	323	5.46191e-74	232.821	pfam13206	VSG_B	 - 	cl20486
+Q#681 - >Tb11.v5.0782	specific	273253	573	606	0.00117314	35.5087	TIGR00756	PPR	 - 	cl03252
+Q#681 - >Tb11.v5.0782	multi-dom	289786	397	445	0.000162974	38.5388	pfam13041	PPR_2	 - 	 - 
+Q#681 - >Tb11.v5.0782	multi-dom	289786	574	618	1.27806e-07	47.3984	pfam13041	PPR_2	 - 	 - 
+Q#681 - >Tb11.v5.0782	multi-dom	289786	432	474	0.00112345	36.2276	pfam13041	PPR_2	 - 	 - 
+Q#682 - >Tb11.v5.0878	superfamily	299870	1	182	2.35647e-27	106.452	cl12025	PolY superfamily	N	 - 
+Q#682 - >Tb11.v5.0878	superfamily	294345	197	262	0.0014591	36.5913	cl00509	hot_dog superfamily	N	 - 
+Q#685 - >Tb11.v5.0873	specific	289949	24	372	1.50843e-45	160.018	pfam13206	VSG_B	 - 	cl20486
+Q#687 - >Tb11.v5.0178	superfamily	278546	155	396	3.914e-18	83.771	cl08245	Gln-synt_C superfamily	C	 - 
+Q#687 - >Tb11.v5.0178	specific	281884	51	145	1.39409e-07	47.5107	pfam03951	Gln-synt_N	 - 	cl08409
+Q#687 - >Tb11.v5.0178	multi-dom	177922	43	391	9.86411e-131	379.036	PLN02284	PLN02284	 - 	 - 
+Q#688 - >Tb11.v5.0666	multi-dom	223021	103	189	0.000434542	41.0773	PHA03247	PHA03247	N	 - 
+Q#690 - >Tb11.v5.0635	specific	279287	52	131	5.31342e-26	98.7407	pfam00919	UPF0004	 - 	cl03017
+Q#690 - >Tb11.v5.0635	superfamily	302752	198	292	0.000883174	38.8538	cl18962	Radical_SAM superfamily	C	 - 
+Q#690 - >Tb11.v5.0635	multi-dom	281979	200	368	2.98832e-18	79.4931	pfam04055	Radical_SAM	 - 	 - 
+Q#691 - >Tb11.v5.0747	specific	289949	17	356	7.29967e-75	237.828	pfam13206	VSG_B	 - 	cl20486
+Q#691 - >Tb11.v5.0747	multi-dom	140295	1	473	0	723.235	PTZ00269	PTZ00269	 - 	 - 
+Q#692 - >Tb11.v5.0237	multi-dom	173156	207	355	0.00630734	37.4351	PRK14693	PRK14693	N	 - 
+Q#694 - >Tb11.v5.0651	superfamily	282020	26	388	4.08152e-55	191.124	cl20262	Vps53_N superfamily	 - 	 - 
+Q#696 - >Tb11.v5.0543	specific	278607	181	676	0	793.256	pfam00183	HSP90	 - 	cl20204
+Q#696 - >Tb11.v5.0543	specific	280651	30	178	3.77582e-14	67.7024	pfam02518	HATPase_c	 - 	cl00075
+Q#696 - >Tb11.v5.0543	multi-dom	240341	1	704	0	1302.34	PTZ00272	PTZ00272	 - 	 - 
+Q#701 - >Tb11.v5.0437	superfamily	304453	77	303	1.66734e-09	57.9984	cl21590	PMT_2 superfamily	C	 - 
+Q#703 - >Tb11.v5.1053	specific	214935	1	69	2.0678e-19	85.7817	smart00955	RNB	N	cl19762
+Q#704 - >Tb11.v5.0279	specific	238034	103	227	2.71589e-31	113.872	cd00079	HELICc	 - 	cl21455
+Q#704 - >Tb11.v5.0279	superfamily	304359	3	86	2.94165e-26	102.948	cl21455	P-loop_NTPase superfamily	N	 - 
+Q#704 - >Tb11.v5.0279	specific	290667	263	319	6.17996e-16	70.1128	pfam13959	DUF4217	 - 	cl16500
+Q#704 - >Tb11.v5.0279	multi-dom	223587	3	364	7.24778e-75	239.307	COG0513	SrmB	N	 - 
+Q#706 - >Tb11.v5.0880	superfamily	304462	1	355	0	706.272	cl21608	Galactosyl_T superfamily	 - 	 - 
+Q#708 - >Tb11.v5.0809	specific	278916	97	127	0.000237146	36.6268	pfam00515	TPR_1	 - 	cl22897
+Q#708 - >Tb11.v5.0809	multi-dom	290150	26	94	2.8143e-12	59.6478	pfam13414	TPR_11	 - 	 - 
+Q#708 - >Tb11.v5.0809	multi-dom	290168	79	126	0.00726447	33.428	pfam13432	TPR_16	 - 	 - 
+Q#710 - >Tb11.v5.0138	specific	289949	27	367	6.84894e-34	129.202	pfam13206	VSG_B	 - 	cl20486
+Q#713 - >Tb11.v5.0427	specific	282595	131	303	6.40278e-23	94.3478	pfam04757	Pex2_Pex12	N	cl04727
+Q#714 - >Tb11.v5.0477	multi-dom	290150	10	71	7.51244e-08	48.0918	pfam13414	TPR_11	 - 	 - 
+Q#715 - >Tb11.v5.0904	specific	239326	111	200	3.19396e-43	138.78	cd03028	GRX_PICOT_like	 - 	cl00388
+Q#716 - >Tb11.v5.0627	specific	238287	302	465	9.4336e-24	98.7026	cd00519	Lipase_3	 - 	cl21494
+Q#717 - >Tb11.v5.0250	specific	175973	152	258	9.61734e-17	72.4847	cd00030	C2	 - 	cl14603
+Q#718 - >Tb11.v5.0145	specific	289949	21	374	3.79146e-45	159.633	pfam13206	VSG_B	 - 	cl20486
+Q#718 - >Tb11.v5.0145	superfamily	287612	413	451	0.00066918	37.7746	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#719 - >Tb11.v5.0315	multi-dom	291907	321	525	0.00264935	39.3772	pfam15254	CCDC14	C	 - 
+Q#721 - >Tb11.v5.0127	specific	289949	31	370	1.05326e-39	146.151	pfam13206	VSG_B	 - 	cl20486
+Q#721 - >Tb11.v5.0127	specific	287612	412	519	4.39598e-23	92.4729	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#722 - >Tb11.v5.0743	superfamily	304359	145	179	6.05202e-09	52.6858	cl21455	P-loop_NTPase superfamily	C	 - 
+Q#723 - >Tb11.v5.0763	specific	214713	8	225	5.15885e-12	63.9187	smart00543	MIF4G	 - 	cl02652
+Q#724 - >Tb11.v5.0291	multi-dom	227416	30	194	5.41102e-24	96.8639	COG5084	YTH1	N	 - 
+Q#725 - >Tb11.v5.0299	specific	287612	397	474	3.13346e-10	55.879	pfam10659	Trypan_glycop_C	N	cl11264
+Q#725 - >Tb11.v5.0299	superfamily	279216	44	129	0.00754086	37.2266	cl09520	Arena_nucleocap superfamily	NC	 - 
+Q#726 - >Tb11.v5.0981	superfamily	289949	26	193	1.27386e-16	75.274	cl20486	VSG_B superfamily	C	 - 
+Q#727 - >Tb11.v5.0768	superfamily	301362	1	297	0	507.204	cl14876	Zinc_peptidase_like superfamily	N	 - 
+Q#729 - >Tb11.v5.0283	specific	289949	25	378	8.95291e-27	109.942	pfam13206	VSG_B	 - 	cl20486
+Q#729 - >Tb11.v5.0283	specific	287612	418	512	7.36807e-10	54.7234	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#730 - >Tb11.v5.0561	superfamily	302604	121	399	1.51448e-83	263.638	cl17068	AFD_class_I superfamily	C	 - 
+Q#732 - >Tb11.02.5060b	specific	238034	446	564	2.71867e-12	63.4108	cd00079	HELICc	 - 	cl21455
+Q#732 - >Tb11.02.5060b	specific	238005	204	338	3.41636e-12	63.5104	cd00046	DEXDc	 - 	cl21455
+Q#732 - >Tb11.02.5060b	specific	238038	872	910	2.21381e-05	41.6884	cd00085	HNHc	N	cl00083
+Q#732 - >Tb11.02.5060b	multi-dom	214692	175	365	7.97668e-16	75.6062	smart00487	DEXDc	 - 	 - 
+Q#733 - >Tb11.v5.0618	multi-dom	224117	162	487	8.19793e-09	57.4168	COG1196	Smc	N	 - 
+Q#733 - >Tb11.v5.0618	multi-dom	281520	434	602	0.00647895	38.2002	pfam03528	Rabaptin	C	 - 
+Q#734 - >Tb11.v5.0400	superfamily	289949	5	142	6.11831e-18	77.2	cl20486	VSG_B superfamily	N	 - 
+Q#735 - >Tb11.v5.0973	superfamily	289949	1	221	2.53002e-20	86.83	cl20486	VSG_B superfamily	N	 - 
+Q#737 - >Tb11.v5.1043	superfamily	301621	18	435	6.85606e-61	203.026	cl15430	Nucleoside_tran superfamily	 - 	 - 
+Q#738 - >Tb11.v5.0828	superfamily	284018	96	130	0.00201592	35.9575	cl05809	SAP18 superfamily	NC	 - 
+Q#740 - >Tb11.v5.0951	superfamily	289949	2	127	6.38052e-05	39.4504	cl20486	VSG_B superfamily	NC	 - 
+Q#741 - >Tb11.v5.0921	superfamily	289949	1	179	0.000106872	40.2208	cl20486	VSG_B superfamily	NC	 - 
+Q#742 - >Tb11.v5.0732	specific	281689	175	411	9.38807e-84	254.749	pfam03727	Hexokinase_2	 - 	cl08402
+Q#742 - >Tb11.v5.0732	specific	278764	1	169	2.21013e-74	229.249	pfam00349	Hexokinase_1	 - 	cl17037
+Q#742 - >Tb11.v5.0732	multi-dom	240270	1	416	0	610.91	PTZ00107	PTZ00107	 - 	 - 
+Q#744 - >Tb11.02.5440b	multi-dom	235906	20	166	0.0035128	38.6772	PRK07003	PRK07003	NC	 - 
+Q#745 - >Tb11.v5.0871	superfamily	301301	58	187	3.90269e-11	61.1285	cl13996	MPN superfamily	C	 - 
+Q#746 - >Tb11.v5.0268	specific	100102	28	182	1.03119e-25	94.5296	cd00387	Ribosomal_L7_L12	 - 	cl24010
+Q#746 - >Tb11.v5.0268	multi-dom	223300	115	182	4.92629e-13	61.5615	COG0222	RplL	N	 - 
+Q#747 - >Tb11.v5.0336	specific	289949	38	349	1.5618e-54	184.671	pfam13206	VSG_B	 - 	cl20486
+Q#747 - >Tb11.v5.0336	multi-dom	140295	22	466	0	693.96	PTZ00269	PTZ00269	 - 	 - 
+Q#749 - >Tb11.02.5080b	superfamily	285244	173	381	7.58843e-46	155.781	cl06835	COPIIcoated_ERV superfamily	 - 	 - 
+Q#749 - >Tb11.02.5080b	specific	290561	25	115	7.3078e-24	92.8854	pfam13850	ERGIC_N	 - 	cl16436
+Q#750 - >Tb11.1780	superfamily	302859	210	559	4.89451e-139	420.389	cl19421	RHSP superfamily	N	 - 
+Q#751 - >Tb11.v5.0325	superfamily	302859	1	318	7.49566e-156	453.516	cl19421	RHSP superfamily	C	 - 
+Q#752 - >Tb11.v5.0538	multi-dom	240364	19	600	0	967.122	PTZ00332	PTZ00332	 - 	 - 
+Q#753 - >Tb11.v5.0821	superfamily	299850	4	210	1.50104e-50	166.651	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#755 - >Tb11.v5.0112	superfamily	279282	43	306	1.79963e-10	60.5021	cl03014	Trypan_glycop superfamily	C	 - 
+Q#756 - >Tb11.v5.0900	multi-dom	236669	171	326	0.00181507	38.9127	PRK10263	PRK10263	NC	 - 
+Q#757 - >Tb11.v5.0228	superfamily	303080	139	267	4.2493e-08	53.1997	cl19916	ISG65-75 superfamily	N	 - 
+Q#758 - >Tb11.v5.0885	superfamily	294310	54	311	2.33643e-10	59.6271	cl00456	SLC5-6-like_sbd superfamily	N	 - 
+Q#759 - >Tb11.v5.0418	superfamily	304359	32	148	1.34329e-11	61.1455	cl21455	P-loop_NTPase superfamily	 - 	 - 
+Q#759 - >Tb11.v5.0418	superfamily	304359	492	577	1.33544e-09	55.3675	cl21455	P-loop_NTPase superfamily	N	 - 
+Q#759 - >Tb11.v5.0418	superfamily	304359	336	367	0.000173989	41.6133	cl21455	P-loop_NTPase superfamily	C	 - 
+Q#760 - >Tb11.v5.0571	specific	289949	15	283	1.39953e-23	96.8451	pfam13206	VSG_B	 - 	cl20486
+Q#761 - >Tb11.v5.0180	superfamily	302621	635	684	1.33189e-05	42.5979	cl17169	RRM_SF superfamily	N	 - 
+Q#761 - >Tb11.v5.0180	superfamily	304359	145	205	0.00273959	38.2346	cl21455	P-loop_NTPase superfamily	NC	 - 
+Q#761 - >Tb11.v5.0180	multi-dom	214692	144	241	0.00531759	37.4715	smart00487	DEXDc	N	 - 
+Q#762 - >Tb11.v5.0211	specific	278705	14	98	3.56137e-05	38.7238	pfam00288	GHMP_kinases_N	 - 	cl24127
+Q#763 - >Tb11.v5.1052	superfamily	301621	18	294	4.10544e-33	124.83	cl15430	Nucleoside_tran superfamily	C	 - 
+Q#767 - >Tb11.v5.1023	specific	289949	23	378	4.23366e-49	171.959	pfam13206	VSG_B	 - 	cl20486
+Q#767 - >Tb11.v5.1023	specific	287612	422	541	3.77001e-23	92.8581	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#770 - >Tb11.v5.0504	superfamily	277468	137	554	3.99204e-148	440.488	cl11429	RNAP_largest_subunit_C superfamily	 - 	 - 
+Q#770 - >Tb11.v5.0504	specific	282801	1	158	2.19185e-49	171.109	pfam04992	RNA_pol_Rpb1_6	N	cl04878
+Q#770 - >Tb11.v5.0504	multi-dom	274105	133	553	9.4661e-68	228.399	TIGR02389	RNA_pol_rpoA2	 - 	 - 
+Q#770 - >Tb11.v5.0504	multi-dom	293666	619	836	0.000362053	42.1231	pfam17061	PARM	C	 - 
+Q#771 - >Tb11.v5.1051	superfamily	301621	4	398	2.25023e-55	187.233	cl15430	Nucleoside_tran superfamily	 - 	 - 
+Q#773 - >Tb11.v5.0305	specific	239953	77	258	1.86872e-84	248.788	cd04517	TLF	 - 	cl08263
+Q#773 - >Tb11.v5.0305	multi-dom	177693	78	262	5.36177e-32	114.793	PLN00062	PLN00062	 - 	 - 
+Q#774 - >Tb11.v5.0143	superfamily	279282	341	404	0.0014823	39.3161	cl03014	Trypan_glycop superfamily	N	 - 
+Q#775 - >Tb11.v5.0667	superfamily	299849	38	155	2.74744e-11	58.3375	cl11966	NT_Pol-beta-like superfamily	 - 	 - 
+Q#775 - >Tb11.v5.0667	specific	281779	236	302	1.21308e-10	55.2596	pfam03828	PAP_assoc	 - 	cl04280
+Q#776 - >Tb11.v5.0378	multi-dom	274008	2	794	4.7279e-05	46.5883	TIGR02168	SMC_prok_B	N	 - 
+Q#778 - >Tb11.v5.0925	superfamily	289949	3	123	7.08284e-08	47.9248	cl20486	VSG_B superfamily	NC	 - 
+Q#779 - >Tb11.v5.0487	specific	282100	185	319	2.92006e-32	115.362	pfam04194	PDCD2_C	 - 	cl04443
+Q#779 - >Tb11.v5.0487	superfamily	295646	153	213	0.00603351	36.0509	cl03075	GrpE superfamily	C	 - 
+Q#780 - >Tb11.v5.0865	superfamily	299141	108	316	7.68427e-15	72.6143	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	NC	 - 
+Q#781 - >Tb11.v5.0349	superfamily	305168	63	212	5.63e-16	74.9123	cl24011	RNA_pol_B_RPB2 superfamily	NC	 - 
+Q#782 - >Tb11.v5.0253	specific	119392	35	407	1.40233e-21	94.688	cd06174	MFS	 - 	cl21472
+Q#782 - >Tb11.v5.0253	multi-dom	284993	80	397	6.18574e-20	89.7825	pfam07690	MFS_1	 - 	 - 
+Q#784 - >Tb11.v5.0376	superfamily	289949	2	93	8.39922e-06	41.7616	cl20486	VSG_B superfamily	N	 - 
+Q#786 - >Tb11.v5.0192	specific	279037	153	199	3.52032e-07	45.5439	pfam00643	zf-B_box	 - 	cl00034
+Q#786 - >Tb11.v5.0192	specific	279037	206	247	1.67546e-06	43.6179	pfam00643	zf-B_box	 - 	cl00034
+Q#787 - >Tb11.v5.0928	specific	289949	25	350	1.07693e-27	111.483	pfam13206	VSG_B	 - 	cl20486
+Q#788 - >Tb11.v5.0726	specific	285789	526	662	1.36678e-49	168.434	pfam08625	Utp13	 - 	cl23585
+Q#788 - >Tb11.v5.0726	specific	238121	232	501	8.20298e-39	144.015	cd00200	WD40	 - 	cl02567
+Q#788 - >Tb11.v5.0726	multi-dom	225201	138	501	2.22782e-27	114.801	COG2319	WD40	 - 	 - 
+Q#790 - >Tb11.v5.1040	superfamily	282973	125	258	5.10598e-05	41.1826	cl04975	MutS_II superfamily	 - 	 - 
+Q#791 - >Tb11.v5.0129	specific	289949	15	343	1.87931e-47	166.951	pfam13206	VSG_B	 - 	cl20486
+Q#791 - >Tb11.v5.0129	superfamily	287612	386	475	1.02202e-08	51.6418	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#792 - >Tb11.v5.0263	superfamily	295365	138	201	3.81758e-10	56.1048	cl02563	PX_domain superfamily	N	 - 
+Q#794 - >Tb11.v5.0481	superfamily	295201	20	227	8.26333e-29	110.33	cl02164	Utp11 superfamily	 - 	 - 
+Q#795 - >Tb11.v5.0241	specific	281078	1	558	0	869.889	pfam03028	Dynein_heavy	N	cl20241
+Q#797 - >Tb11.v5.0615	superfamily	260363	512	574	0.00562095	36.2922	cl00335	NDPk superfamily	N	 - 
+Q#798 - >Tb11.v5.0641	specific	279802	342	381	2.51687e-14	65.0976	pfam01505	Vault	 - 	cl03238
+Q#798 - >Tb11.v5.0641	specific	279802	112	169	1.74917e-10	54.312	pfam01505	Vault	 - 	cl03238
+Q#798 - >Tb11.v5.0641	specific	279802	184	222	3.70718e-09	50.46	pfam01505	Vault	 - 	cl03238
+Q#798 - >Tb11.v5.0641	specific	279802	236	269	4.82411e-08	47.3784	pfam01505	Vault	 - 	cl03238
+Q#799 - >Tb11.v5.0369	specific	293430	61	231	4.14833e-92	273.451	pfam16825	DUF5075	 - 	cl25136
+Q#800 - >Tb11.v5.0956	specific	289949	1	285	8.32154e-32	121.498	pfam13206	VSG_B	 - 	cl20486
+Q#803 - >Tb11.v5.0480	specific	132910	49	317	6.40828e-94	279.864	cd07032	RNAP_I_II_AC40	 - 	cl11409
+Q#805 - >Tb11.v5.0449	superfamily	279282	10	276	4.51965e-26	103.644	cl03014	Trypan_glycop superfamily	C	 - 
+Q#806 - >Tb11.v5.0812	specific	285665	237	299	9.65638e-09	49.6227	pfam08492	SRP72	 - 	cl07204
+Q#807 - >Tb11.v5.0569	superfamily	294310	56	458	1.72501e-106	322.587	cl00456	SLC5-6-like_sbd superfamily	 - 	 - 
+Q#807 - >Tb11.v5.0569	multi-dom	223884	63	447	1.70295e-23	100.804	COG0814	SdaC	 - 	 - 
+Q#808 - >Tb11.v5.0324	specific	289949	49	188	5.72882e-20	90.2968	pfam13206	VSG_B	C	cl20486
+Q#811 - >Tb11.v5.0626	specific	270824	4	290	0	511.694	cd07830	STKc_MAK_like	 - 	cl21453
+Q#811 - >Tb11.v5.0626	multi-dom	214567	4	290	1.07824e-98	292.512	smart00220	S_TKc	 - 	 - 
+Q#812 - >Tb11.v5.0751	superfamily	304357	157	418	2.15137e-11	62.5706	cl21453	PKc_like superfamily	 - 	 - 
+Q#812 - >Tb11.v5.0751	superfamily	304357	1	95	1.54164e-09	57.3288	cl21453	PKc_like superfamily	N	 - 
+Q#812 - >Tb11.v5.0751	multi-dom	278497	153	418	1.44311e-09	56.834	pfam00069	Pkinase	 - 	 - 
+Q#813 - >Tb11.v5.0908	superfamily	287612	2	64	4.72712e-06	38.9302	cl11264	Trypan_glycop_C superfamily	N	 - 
+Q#814 - >Tb11.v5.0225	specific	288563	7	285	1.28549e-79	244.259	pfam11727	ISG65-75	 - 	cl19916
+Q#815 - >Tb11.v5.0515	specific	270910	453	635	2.40492e-80	256.711	cd14008	STKc_LKB1_CaMKK	C	cl21453
+Q#815 - >Tb11.v5.0515	multi-dom	214567	453	631	1.35399e-44	159.618	smart00220	S_TKc	C	 - 
+Q#816 - >Tb11.v5.0922	superfamily	304462	1	184	1.04304e-41	143.88	cl21608	Galactosyl_T superfamily	N	 - 
+Q#817 - >Tb11.v5.0316	superfamily	289949	20	221	2.3529e-14	71.422	cl20486	VSG_B superfamily	N	 - 
+Q#818 - >Tb11.v5.0335	specific	289949	2	224	8.00318e-37	133.439	pfam13206	VSG_B	N	cl20486
+Q#818 - >Tb11.v5.0335	superfamily	287612	281	308	0.000191847	38.545	cl11264	Trypan_glycop_C superfamily	N	 - 
+Q#819 - >Tb11.v5.0201	superfamily	294089	336	501	2.08558e-20	87.3639	cl00130	PseudoU_synth superfamily	 - 	 - 
+Q#819 - >Tb11.v5.0201	specific	214638	283	323	0.000174087	38.343	smart00363	S4	 - 	cl09940
+Q#819 - >Tb11.v5.0201	multi-dom	224108	281	500	2.6568e-28	112.336	COG1187	RsuA	 - 	 - 
+Q#820 - >Tb11.v5.0692	superfamily	302624	288	472	7.87174e-13	66.2921	cl17173	AdoMet_MTases superfamily	 - 	 - 
+Q#823 - >Tb11.v5.1050	specific	176459	136	483	5.8445e-122	361.454	cd03586	PolY_Pol_IV_kappa	 - 	cl12025
+Q#823 - >Tb11.v5.1050	multi-dom	140232	1	570	0	1223.72	PTZ00205	PTZ00205	 - 	 - 
+Q#825 - >Tb11.v5.0527	superfamily	295369	161	376	9.97404e-12	63.508	cl02567	WD40 superfamily	N	 - 
+Q#825 - >Tb11.v5.0527	multi-dom	225201	39	376	1.84682e-07	51.2427	COG2319	WD40	N	 - 
+Q#827 - >Tb11.v5.0823	superfamily	304877	536	659	0.000115506	41.9246	cl23720	RILP-like superfamily	N	 - 
+Q#827 - >Tb11.v5.0823	multi-dom	289488	541	700	0.0096067	36.1159	pfam12718	Tropomyosin_1	 - 	 - 
+Q#828 - >Tb11.v5.0150	specific	289611	307	464	2.43305e-60	202.229	pfam12851	Tet_JBP	 - 	cl24253
+Q#828 - >Tb11.v5.0150	specific	238034	869	989	8.64512e-23	93.8416	cd00079	HELICc	 - 	cl21455
+Q#828 - >Tb11.v5.0150	specific	238005	539	688	1.31305e-12	65.0512	cd00046	DEXDc	 - 	cl21455
+Q#828 - >Tb11.v5.0150	multi-dom	214692	511	706	8.26878e-18	81.7694	smart00487	DEXDc	 - 	 - 
+Q#828 - >Tb11.v5.0150	multi-dom	223587	869	964	1.30446e-08	57.4926	COG0513	SrmB	NC	 - 
+Q#830 - >Tb11.v5.0261	specific	238608	3	106	4.14184e-51	156.613	cd01277	HINT_subgroup	 - 	cl00228
+Q#831 - >Tb11.v5.0454	specific	278964	120	290	5.70488e-57	181.305	pfam00566	RabGAP-TBC	 - 	cl02495
+Q#832 - >Tb11.v5.0355	multi-dom	290150	76	155	1.04951e-06	43.4694	pfam13414	TPR_11	 - 	 - 
+Q#832 - >Tb11.v5.0355	multi-dom	290150	127	188	0.000428291	36.1506	pfam13414	TPR_11	 - 	 - 
+Q#833 - >Tb11.v5.0464	specific	278434	241	381	3.3039e-38	136.956	pfam00004	AAA	 - 	cl21455
+Q#833 - >Tb11.v5.0464	specific	278434	521	650	1.7896e-10	57.9905	pfam00004	AAA	 - 	cl21455
+Q#833 - >Tb11.v5.0464	specific	215012	5	83	1.27006e-07	48.3744	smart01073	CDC48_N	 - 	cl21693
+Q#833 - >Tb11.v5.0464	multi-dom	214640	241	383	5.90077e-10	56.9981	smart00382	AAA	 - 	 - 
+Q#833 - >Tb11.v5.0464	multi-dom	214640	520	650	8.27916e-07	47.7533	smart00382	AAA	 - 	 - 
+Q#834 - >Tb11.v5.0132	specific	279282	50	402	2.38445e-47	168.743	pfam00913	Trypan_glycop	 - 	cl03014
+Q#834 - >Tb11.v5.0132	specific	287612	435	536	5.5573e-17	75.5242	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#835 - >Tb11.v5.0848	specific	282045	22	335	2.03558e-34	132.554	pfam04130	Spc97_Spc98	N	cl14957
+Q#836 - >Tb11.v5.0793	superfamily	304357	448	587	7.05608e-57	191.927	cl21453	PKc_like superfamily	C	 - 
+Q#836 - >Tb11.v5.0793	specific	285924	322	404	1.17335e-17	77.2245	pfam08771	Rapamycin_bind	 - 	cl07398
+Q#836 - >Tb11.v5.0793	multi-dom	280429	1	215	5.79092e-09	56.5965	pfam02259	FAT	N	 - 
+Q#837 - >Tb11.v5.1048	superfamily	304357	3	250	3.81085e-78	239.118	cl21453	PKc_like superfamily	 - 	 - 
+Q#837 - >Tb11.v5.1048	multi-dom	214567	4	249	1.73304e-56	183.115	smart00220	S_TKc	 - 	 - 
+Q#838 - >Tb11.v5.0632	specific	214772	226	266	2.0875e-05	39.4644	smart00671	SEL1	 - 	cl02723
+Q#838 - >Tb11.v5.0632	specific	214772	190	225	0.000274209	36.3828	smart00671	SEL1	 - 	cl02723
+Q#838 - >Tb11.v5.0632	multi-dom	223861	160	278	1.04506e-18	83.5551	COG0790	TPR	NC	 - 
+Q#839 - >Tb11.v5.0135	superfamily	279282	63	334	2.71117e-14	71.6729	cl03014	Trypan_glycop superfamily	N	 - 
+Q#840 - >Tb11.v5.0581	superfamily	281972	275	370	3.97195e-07	49.2004	cl23539	Sec8_exocyst superfamily	N	 - 
+Q#840 - >Tb11.v5.0581	superfamily	303080	1010	1080	0.00113842	40.8733	cl19916	ISG65-75 superfamily	N	 - 
+Q#840 - >Tb11.v5.0581	multi-dom	132023	616	692	0.00474154	36.8446	TIGR02978	phageshock_pspC	 - 	 - 
+Q#841 - >Tb11.v5.0575	superfamily	299863	79	180	0.0042841	37.3524	cl12013	BAR superfamily	N	 - 
+Q#843 - >Tb11.v5.0368	specific	293430	61	231	1.55613e-93	276.532	pfam16825	DUF5075	 - 	cl25136
+Q#844 - >Tb11.v5.0953	specific	289949	25	336	2.11969e-36	136.136	pfam13206	VSG_B	 - 	cl20486
+Q#847 - >Tb11.v5.0985	specific	289949	40	255	3.94319e-21	91.4524	pfam13206	VSG_B	N	cl20486
+Q#848 - >Tb11.v5.1016	superfamily	299141	129	404	8.49196e-12	65.7538	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	N	 - 
+Q#853 - >Tb11.v5.1055	multi-dom	240364	1	589	0	967.122	PTZ00332	PTZ00332	 - 	 - 
+Q#857 - >Tb11.v5.0903	superfamily	295755	25	261	2.92305e-101	296.722	cl03253	SAM_decarbox superfamily	C	 - 
+Q#858 - >Tb11.v5.0160	superfamily	294131	38	196	2.45694e-97	278.371	cl00197	cyclophilin superfamily	 - 	 - 
+Q#859 - >Tb11.v5.1049	superfamily	301621	1	410	5.98811e-59	196.863	cl15430	Nucleoside_tran superfamily	 - 	 - 
+Q#860 - >Tb11.v5.0223	specific	271234	82	427	3.32576e-21	94.445	cd15482	Sialidase_non-viral	 - 	cl21531
+Q#860 - >Tb11.v5.0223	superfamily	304605	567	674	0.00742894	36.5754	cl22861	LamG superfamily	N	 - 
+Q#860 - >Tb11.v5.0223	multi-dom	290570	82	412	5.34631e-20	89.9506	pfam13859	BNR_3	 - 	 - 
+Q#861 - >Tb11.v5.0570	specific	238093	16	57	1.3864e-07	46.2848	cd00162	RING	 - 	cl17238
+Q#861 - >Tb11.v5.0570	superfamily	304600	337	429	7.14393e-06	43.0772	cl22851	PHD_SF superfamily	 - 	 - 
+Q#862 - >Tb11.v5.0330	specific	119392	112	495	1.56329e-18	85.8285	cd06174	MFS	 - 	cl21472
+Q#862 - >Tb11.v5.0330	multi-dom	278511	39	500	3.49427e-112	339.245	pfam00083	Sugar_tr	 - 	 - 
+Q#863 - >Tb11.v5.0179	specific	214632	268	289	8.42382e-05	37.9941	smart00356	ZnF_C3H1	 - 	cl11592
+Q#864 - >Tb11.v5.0758	specific	128926	41	95	6.08322e-25	94.6228	smart00683	DM16	 - 	cl02732
+Q#864 - >Tb11.v5.0758	specific	128926	171	225	2.00913e-23	90.3856	smart00683	DM16	 - 	cl02732
+Q#864 - >Tb11.v5.0758	multi-dom	284657	18	367	1.25216e-170	477.439	pfam07289	DUF1448	 - 	 - 
+Q#865 - >Tb11.v5.0190	superfamily	304357	32	298	8.34245e-106	314.786	cl21453	PKc_like superfamily	 - 	 - 
+Q#865 - >Tb11.v5.0190	multi-dom	240344	1	494	0	1007.09	PTZ00283	PTZ00283	 - 	 - 
+Q#866 - >Tb11.v5.0547	superfamily	304359	28	247	2.05527e-141	397.132	cl21455	P-loop_NTPase superfamily	 - 	 - 
+Q#866 - >Tb11.v5.0547	multi-dom	223327	1	248	2.06877e-98	306.904	COG0249	MutS	N	 - 
+Q#867 - >Tb11.v5.0748	specific	213188	246	439	6.09102e-49	163.003	cd03221	ABCF_EF-3	 - 	cl21455
+Q#867 - >Tb11.v5.0748	specific	213188	79	152	1.95097e-34	124.483	cd03221	ABCF_EF-3	N	cl21455
+Q#867 - >Tb11.v5.0748	specific	289608	146	233	1.91622e-25	98.0389	pfam12848	ABC_tran_Xtn	 - 	cl14896
+Q#867 - >Tb11.v5.0748	superfamily	304359	30	107	4.12043e-13	65.3646	cl21455	P-loop_NTPase superfamily	N	 - 
+Q#867 - >Tb11.v5.0748	multi-dom	224047	244	455	5.21313e-31	118.127	COG1122	EcfA2	 - 	 - 
+Q#868 - >Tb11.v5.0380	superfamily	299141	2	285	9.62259e-14	70.6883	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	N	 - 
+Q#869 - >Tb11.v5.0952	superfamily	279282	12	381	3.41516e-29	115.2	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#870 - >Tb11.v5.0526	specific	176459	136	484	9.13824e-99	302.133	cd03586	PolY_Pol_IV_kappa	 - 	cl12025
+Q#870 - >Tb11.v5.0526	multi-dom	140232	1	571	0	1207.54	PTZ00205	PTZ00205	 - 	 - 
+Q#871 - >Tb11.v5.0244	specific	279030	197	275	2.00136e-06	45.3503	pfam00636	Ribonuclease_3	 - 	cl00258
+Q#872 - >Tb11.v5.0196	specific	239718	6	217	4.32934e-140	390.883	cd03749	proteasome_alpha_type_1	 - 	cl00467
+Q#872 - >Tb11.v5.0196	multi-dom	235192	1	235	3.39323e-67	207.379	PRK03996	PRK03996	 - 	 - 
+Q#874 - >Tb11.v5.0829	specific	289949	40	234	7.41419e-21	91.4524	pfam13206	VSG_B	N	cl20486
+Q#874 - >Tb11.v5.0829	specific	287612	274	386	8.80076e-16	71.287	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#875 - >Tb11.v5.0689	specific	282064	171	262	1.97078e-25	98.8412	pfam04153	NOT2_3_5	 - 	cl02384
+Q#877 - >Tb11.v5.0780	superfamily	304359	4	116	3.57709e-52	166.526	cl21455	P-loop_NTPase superfamily	N	 - 
+Q#880 - >Tb11.v5.0463	superfamily	294124	64	223	0.0070315	36.6016	cl00188	BPI superfamily	C	 - 
+Q#881 - >Tb11.v5.0424	superfamily	299141	132	432	1.10364e-09	59.1324	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	 - 	 - 
+Q#882 - >Tb11.v5.0148	superfamily	295354	50	85	0.00454879	34.0581	cl02542	DnaJ superfamily	 - 	 - 
+Q#883 - >Tb11.v5.0991	specific	214625	37	220	3.5495e-05	43.1325	smart00332	PP2Cc	 - 	cl00120
+Q#884 - >Tb11.v5.0156	superfamily	277559	169	418	7.43535e-49	167.769	cl21719	Pumilio superfamily	N	 - 
+Q#886 - >Tb11.v5.0681	multi-dom	215641	85	363	2.2374e-09	58.3351	PLN03237	PLN03237	N	 - 
+Q#888 - >Tb11.v5.0672	specific	197256	492	663	2.17996e-60	198.532	cd09159	PLDc_ybhO_like_2	 - 	cl15239
+Q#888 - >Tb11.v5.0672	specific	197209	148	308	7.05352e-49	166.882	cd09110	PLDc_CLS_1	 - 	cl15239
+Q#888 - >Tb11.v5.0672	multi-dom	224419	127	668	9.62016e-46	167.339	COG1502	Cls	 - 	 - 
+Q#889 - >Tb11.v5.0204	specific	286809	21	229	4.31183e-59	183.113	pfam09768	Peptidase_M76	 - 	cl10748
+Q#891 - >Tb11.v5.0470	superfamily	299850	514	725	5.29822e-45	158.561	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#891 - >Tb11.v5.0470	multi-dom	214485	493	703	6.6926e-34	127.374	smart00044	CYCc	 - 	 - 
+Q#891 - >Tb11.v5.0470	multi-dom	226488	110	398	0.00296745	39.3869	COG3980	SpsG	 - 	 - 
+Q#892 - >Tb11.v5.0998	specific	238519	127	364	2.66912e-127	364.892	cd01086	MetAP1	 - 	cl00279
+Q#892 - >Tb11.v5.0998	specific	292429	4	45	6.72e-20	80.716	pfam15801	zf-C6H2	 - 	cl20224
+Q#892 - >Tb11.v5.0998	multi-dom	215607	1	370	3.11557e-166	470.088	PLN03158	PLN03158	 - 	 - 
+Q#894 - >Tb11.v5.0567	superfamily	302859	2	593	0	537.875	cl19421	RHSP superfamily	N	 - 
+Q#895 - >Tb11.v5.0696	specific	132992	326	436	3.30091e-08	51.528	cd06974	TerD_like	C	cl18957
+Q#895 - >Tb11.v5.0696	superfamily	302750	17	56	0.000455301	39.5868	cl18957	TerD_like superfamily	C	 - 
+Q#895 - >Tb11.v5.0696	superfamily	302750	172	243	0.00455738	36.5052	cl18957	TerD_like superfamily	N	 - 
+Q#897 - >Tb11.v5.0759	superfamily	287612	229	278	1.4259e-05	42.0118	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#898 - >Tb11.v5.0675	superfamily	304554	73	237	8.59781e-29	110.82	cl22428	E1_enzyme_family superfamily	C	 - 
+Q#900 - >Tb11.v5.0739	multi-dom	227709	540	757	0.00769584	38.3335	COG5422	ROM1	C	 - 
+Q#901 - >Tb11.01.6241	specific	289949	51	389	2.52918e-20	90.682	pfam13206	VSG_B	 - 	cl20486
+Q#902 - >Tb11.v5.0255	specific	259793	76	126	2.50437e-15	63.8114	cd10508	Zn-ribbon_RPB9	 - 	cl02609
+Q#902 - >Tb11.v5.0255	superfamily	295446	14	65	5.72834e-05	36.9793	cl02717	RNA_POL_M_15KD superfamily	 - 	 - 
+Q#902 - >Tb11.v5.0255	multi-dom	224510	13	128	4.74995e-10	52.0731	COG1594	RPB9	 - 	 - 
+Q#903 - >Tb11.v5.0362	specific	279282	29	379	8.21596e-45	159.884	pfam00913	Trypan_glycop	 - 	cl03014
+Q#903 - >Tb11.v5.0362	specific	287612	413	490	8.6541e-12	60.5014	pfam10659	Trypan_glycop_C	C	cl11264
+Q#904 - >Tb11.v5.0926	specific	289949	47	382	7.20339e-34	129.202	pfam13206	VSG_B	 - 	cl20486
+Q#905 - >Tb11.v5.0949	superfamily	279282	103	281	0.00216893	38.1605	cl03014	Trypan_glycop superfamily	N	 - 
+Q#906 - >Tb11.v5.0456	specific	278633	895	1107	1.07091e-56	192.844	pfam00211	Guanylate_cyc	 - 	cl11967
+Q#906 - >Tb11.v5.0456	superfamily	299141	132	429	4.33154e-07	52.1988	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	 - 	 - 
+Q#907 - >Tb11.v5.0978	multi-dom	165099	15	251	0.00076565	40.5065	PHA02732	PHA02732	N	 - 
+Q#908 - >Tb11.v5.0191	specific	282570	171	347	4.94125e-32	117.351	pfam04727	ELMO_CED12	 - 	cl04708
+Q#909 - >Tb11.v5.0600	specific	282314	132	160	1.50052e-06	43.3901	pfam04438	zf-HIT	 - 	cl04519
+Q#910 - >Tb11.1450	superfamily	279282	10	375	2.22417e-26	108.652	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#910 - >Tb11.1450	superfamily	287612	408	438	0.00175261	36.619	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#911 - >Tb11.v4.0039b	specific	287612	223	300	3.75154e-10	55.1086	pfam10659	Trypan_glycop_C	N	cl11264
+Q#912 - >Tb11.v5.0682	specific	289949	22	356	8.25823e-37	137.291	pfam13206	VSG_B	 - 	cl20486
+Q#912 - >Tb11.v5.0682	superfamily	287612	398	446	2.08907e-05	42.0118	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#913 - >Tb11.v5.0341	specific	288970	2	139	2.58843e-16	70.6063	pfam12158	DUF3592	 - 	cl13576
+Q#914 - >Tb11.v5.0610	specific	289949	25	376	2.51574e-50	173.885	pfam13206	VSG_B	 - 	cl20486
+Q#914 - >Tb11.v5.0610	superfamily	287612	421	479	2.55086e-08	50.4862	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#916 - >Tb11.v5.0131	specific	289949	107	454	1.10071e-53	185.056	pfam13206	VSG_B	 - 	cl20486
+Q#916 - >Tb11.v5.0131	specific	287612	495	586	2.57055e-10	56.2642	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#917 - >Tb11.v5.0159	superfamily	286826	120	489	3.27089e-09	57.8713	cl24034	CytochromB561_N superfamily	N	 - 
+Q#918 - >Tb11.v5.1018	specific	289949	19	340	1.57447e-46	163.485	pfam13206	VSG_B	 - 	cl20486
+Q#918 - >Tb11.v5.1018	superfamily	287612	387	436	0.00176311	36.619	cl11264	Trypan_glycop_C superfamily	C	 - 
+Q#920 - >Tb11.v5.0518	superfamily	289949	25	236	1.37764e-16	76.8148	cl20486	VSG_B superfamily	N	 - 
+Q#921 - >Tb11.v5.1019	superfamily	279282	31	417	9.44787e-05	43.1681	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#924 - >Tb11.v5.0960	specific	239200	61	262	7.38107e-69	216.592	cd02801	DUS_like_FMN	 - 	cl21457
+Q#925 - >Tb11.v5.0757	specific	278916	75	107	8.31438e-05	37.3972	pfam00515	TPR_1	 - 	cl22897
+Q#925 - >Tb11.v5.0757	specific	278916	6	35	0.00736257	32.0045	pfam00515	TPR_1	 - 	cl22897
+Q#925 - >Tb11.v5.0757	multi-dom	290150	6	71	1.61927e-10	54.255	pfam13414	TPR_11	 - 	 - 
+Q#925 - >Tb11.v5.0757	multi-dom	290150	40	105	7.51726e-07	44.2398	pfam13414	TPR_11	 - 	 - 
+Q#925 - >Tb11.v5.0757	multi-dom	290150	136	205	1.20223e-05	40.773	pfam13414	TPR_11	 - 	 - 
+Q#925 - >Tb11.v5.0757	multi-dom	290150	174	239	1.4221e-05	40.773	pfam13414	TPR_11	 - 	 - 
+Q#928 - >Tb11.v5.0189	superfamily	303063	57	344	1.35213e-11	66.5904	cl19886	Cnd2 superfamily	C	 - 
+Q#929 - >Tb11.v5.0663	multi-dom	215196	33	270	0.000922632	39.8052	PLN02346	PLN02346	C	 - 
+Q#930 - >Tb11.v5.0573	superfamily	304359	56	75	0.00223627	37.2016	cl21455	P-loop_NTPase superfamily	NC	 - 
+Q#931 - >Tb11.v5.0646	superfamily	294043	82	200	1.3399e-44	152.217	cl00050	CYCLIN superfamily	N	 - 
+Q#932 - >Tb11.v5.0708	superfamily	279282	2	222	0.000115002	40.8569	cl03014	Trypan_glycop superfamily	N	 - 
+Q#933 - >Tb11.v5.0562	specific	293183	430	599	4.15017e-27	107.711	pfam16575	CLP1_P	 - 	cl21455
+Q#934 - >Tb11.v5.1011	superfamily	294044	2184	2450	1.57608e-14	75.8312	cl00051	CysPc superfamily	 - 	 - 
+Q#935 - >Tb11.v5.0714	superfamily	302621	6	65	9.90623e-15	66.8915	cl17169	RRM_SF superfamily	 - 	 - 
+Q#935 - >Tb11.v5.0714	specific	240668	97	170	7.04741e-10	53.4629	cd00590	RRM_SF	 - 	cl17169
+Q#936 - >Tb11.v5.0259	specific	279823	99	218	6.90837e-18	76.2519	pfam01529	zf-DHHC	 - 	cl19890
+Q#937 - >Tb11.v5.0869	superfamily	302748	61	222	2.89617e-48	162.002	cl18945	AAT_I superfamily	C	 - 
+Q#940 - >Tb11.v5.0497	specific	214577	432	528	1.60606e-09	54.4158	smart00239	C2	 - 	cl14603
+Q#940 - >Tb11.v5.0497	specific	214577	636	687	0.00016024	40.1634	smart00239	C2	C	cl14603
+Q#941 - >Tb11.v5.0889	specific	289949	16	196	7.85081e-28	108.786	pfam13206	VSG_B	C	cl20486
+Q#943 - >Tb11.v5.0289	specific	280386	165	233	1.20823e-25	100.043	pfam02207	zf-UBR	 - 	cl19744
+Q#944 - >Tb11.v5.0374	superfamily	295467	169	253	5.46369e-05	39.9168	cl02776	GST_C_family superfamily	 - 	 - 
+Q#944 - >Tb11.v5.0374	superfamily	294274	15	48	0.0013773	35.6662	cl00388	Thioredoxin_like superfamily	C	 - 
+Q#945 - >Tb11.v5.0298	superfamily	289949	1	140	1.90625e-15	71.8072	cl20486	VSG_B superfamily	N	 - 
+Q#946 - >Tb11.v5.0638	specific	240429	1	463	0	879.539	PTZ00472	PTZ00472	 - 	cl08270
+Q#947 - >Tb11.v5.0818	specific	282595	50	261	2.44697e-33	122.082	pfam04757	Pex2_Pex12	 - 	cl04727
+Q#947 - >Tb11.v5.0818	specific	214546	278	320	0.000365288	36.333	smart00184	RING	 - 	cl17238
+Q#948 - >Tb11.v5.0587	specific	237999	363	475	4.39237e-29	109.338	cd00038	CAP_ED	 - 	cl00047
+Q#948 - >Tb11.v5.0587	specific	237999	243	354	5.93858e-16	72.3586	cd00038	CAP_ED	 - 	cl00047
+Q#948 - >Tb11.v5.0587	multi-dom	223736	357	466	4.02179e-16	76.0235	COG0664	Crp	C	 - 
+Q#950 - >Tb11.v5.0539	specific	278916	303	334	0.00402575	33.5453	pfam00515	TPR_1	 - 	cl22897
+Q#950 - >Tb11.v5.0539	specific	290167	117	150	0.00849353	32.5071	pfam13431	TPR_17	 - 	cl23636
+Q#950 - >Tb11.v5.0539	multi-dom	290150	302	367	1.90526e-08	49.6326	pfam13414	TPR_11	 - 	 - 
+Q#950 - >Tb11.v5.0539	multi-dom	290150	338	400	6.76239e-06	42.3138	pfam13414	TPR_11	 - 	 - 
+Q#950 - >Tb11.v5.0539	multi-dom	290150	268	334	1.26749e-05	41.5434	pfam13414	TPR_11	 - 	 - 
+Q#950 - >Tb11.v5.0539	multi-dom	291240	211	278	0.0027217	34.8858	pfam14559	TPR_19	 - 	 - 
+Q#950 - >Tb11.v5.0539	multi-dom	290150	371	435	0.00453733	34.2246	pfam13414	TPR_11	 - 	 - 
+Q#950 - >Tb11.v5.0539	multi-dom	290150	96	155	1.00143e-05	41.9286	pfam13414	TPR_11	 - 	 - 
+Q#951 - >Tb927.9.15420	specific	240297	1	132	1.29937e-76	221.798	PTZ00159	PTZ00159	 - 	cl00748
+Q#952 - >Tb927.9.15480	multi-dom	215196	33	147	0.00278032	38.2644	PLN02346	PLN02346	C	 - 
+Q#954 - >Tb927.9.10440	specific	99918	503	1202	0	1050.35	cd05535	POLBc_epsilon	 - 	cl10023
+Q#954 - >Tb927.9.10440	specific	99822	241	444	1.34726e-135	420.513	cd05779	DNA_polB_epsilon_exo	 - 	cl10012
+Q#954 - >Tb927.9.10440	superfamily	285663	1611	1936	1.05185e-34	137.284	cl07203	DUF1744 superfamily	 - 	 - 
+Q#954 - >Tb927.9.10440	multi-dom	223494	95	1214	1.78922e-87	303.962	COG0417	PolB	 - 	 - 
+Q#955 - >Tb927.9.9320	specific	270825	4	288	1.81892e-180	500.261	cd07831	STKc_MOK	 - 	cl21453
+Q#955 - >Tb927.9.9320	multi-dom	214567	4	288	2.82384e-89	267.859	smart00220	S_TKc	 - 	 - 
+Q#956 - >Tb927.9.7690	superfamily	299849	672	704	5.0725e-07	48.7075	cl11966	NT_Pol-beta-like superfamily	N	 - 
+Q#956 - >Tb927.9.7690	superfamily	299849	475	538	1.88902e-05	44.0852	cl11966	NT_Pol-beta-like superfamily	C	 - 
+Q#958 - >Tb927.11.4510	specific	289591	1345	1556	6.51786e-27	107.977	pfam12830	Nipped-B_C	 - 	cl15115
+Q#959 - >Tb927.4.1470	specific	291009	54	108	3.81247e-17	68.8487	pfam14311	DUF4379	 - 	cl16790
+Q#961 - >Tb927.11.12460	multi-dom	129705	447	847	6.20219e-05	45.7302	TIGR00618	sbcc	NC	 - 
+Q#962 - >Tb927.10.15290	superfamily	285260	1182	1284	3.41548e-11	60.6888	cl24204	TBCC superfamily	 - 	 - 
+Q#962 - >Tb927.10.15290	superfamily	285260	936	1026	7.47189e-08	51.0588	cl24204	TBCC superfamily	 - 	 - 
+Q#962 - >Tb927.10.15290	superfamily	285260	695	804	3.42072e-07	49.1328	cl24204	TBCC superfamily	 - 	 - 
+Q#962 - >Tb927.10.15290	superfamily	304357	254	355	6.49581e-06	48.4948	cl21453	PKc_like superfamily	NC	 - 
+Q#963 - >Tb927.4.4510	specific	238083	998	1380	3.84931e-29	116.657	cd00143	PP2Cc	 - 	cl00120
+Q#964 - >Tb927.4.1330	specific	239571	108	319	2.88351e-144	418.126	cd03489	Topoisomer_IB_N_LdtopoI_like	 - 	cl02774
+Q#964 - >Tb927.4.1330	specific	279380	321	517	1.64702e-114	341.385	pfam01028	Topoisom_I	 - 	cl00213
+Q#964 - >Tb927.4.1330	multi-dom	226099	105	479	9.49004e-47	168.06	COG3569	Top1	 - 	 - 
+Q#967 - >Tb927.10.12120	superfamily	302800	1855	1955	0.000147654	44.6411	cl19248	CHAT superfamily	C	 - 
+Q#967 - >Tb927.10.12120	multi-dom	290160	1178	1247	0.00115402	38.5497	pfam13424	TPR_12	 - 	 - 
+Q#969 - >Tb927.9.14180	specific	278647	16	77	1.79271e-23	90.2203	pfam00226	DnaJ	 - 	cl02542
+Q#971 - >Tb927.10.14270	specific	281081	424	643	4.75995e-36	131.578	pfam03031	NIF	 - 	cl21460
+Q#976 - >Tb927.9.6450	superfamily	285774	9	170	1.5205e-07	51.4085	cl07288	Pex16 superfamily	C	 - 
+Q#978 - >Tb927.11.3300	superfamily	284589	824	930	1.98805e-36	134.263	cl06299	Tcp10_C superfamily	C	 - 
+Q#978 - >Tb927.11.3300	superfamily	285090	438	532	0.000264015	41.3094	cl06708	DUF1640 superfamily	C	 - 
+Q#979 - >Tb927.4.4400	superfamily	238064	1623	1731	8.7435e-07	51.5874	cl23707	LRR_RI superfamily	N	 - 
+Q#979 - >Tb927.4.4400	superfamily	294093	376	484	0.00889892	39.0536	cl00137	SERPIN superfamily	N	 - 
+Q#980 - >Tb927.4.4480	superfamily	285263	629	685	0.00974903	34.4085	cl06846	Cnn_1N superfamily	N	 - 
+Q#982 - >Tb927.10.5590	superfamily	294085	282	441	8.29557e-16	76.211	cl00120	PP2Cc superfamily	N	 - 
+Q#983 - >Tb927.10.13290	specific	279415	114	163	4.96659e-07	45.2386	pfam01066	CDP-OH_P_transf	N	cl00453
+Q#984 - >Tb927.10.13300	specific	278821	152	281	1.48119e-24	93.9613	pfam00410	Ribosomal_S8	 - 	cl00330
+Q#985 - >Tb927.9.12090	specific	287339	1140	1403	1.65351e-40	149.74	pfam10350	DUF2428	 - 	cl19897
+Q#986 - >Tb927.9.11830	superfamily	304877	130	216	0.0029569	37.3022	cl23720	RILP-like superfamily	N	 - 
+Q#986 - >Tb927.9.11830	superfamily	298582	226	320	0.00690002	35.5258	cl07863	Phasin superfamily	 - 	 - 
+Q#986 - >Tb927.9.11830	multi-dom	279749	97	257	0.000345813	40.3513	pfam01442	Apolipoprotein	 - 	 - 
+Q#987 - >Tb927.9.11820	specific	279044	140	267	1.24528e-20	85.3943	pfam00650	CRAL_TRIO	 - 	cl15787
+Q#987 - >Tb927.9.11820	specific	215024	66	110	1.0757e-06	43.6923	smart01100	CRAL_TRIO_N	 - 	cl16919
+Q#988 - >Tb927.9.11800	superfamily	298879	37	465	4.60064e-80	254.805	cl09326	MATE_like superfamily	 - 	 - 
+Q#988 - >Tb927.9.11800	multi-dom	223608	29	458	6.0925e-37	140.437	COG0534	NorM	 - 	 - 
+Q#989 - >Tb927.10.9400	superfamily	294072	133	227	2.43709e-06	44.157	cl00098	KH-I superfamily	 - 	 - 
+Q#989 - >Tb927.10.9400	superfamily	292892	6	96	0.000928107	36.7723	cl24748	SF1-HH superfamily	 - 	 - 
+Q#990 - >Tb927.9.12530	specific	278647	24	73	1.86734e-14	66.3379	pfam00226	DnaJ	 - 	cl02542
+Q#991 - >Tb927.9.13650	specific	173423	1	182	9.21152e-138	380.347	PTZ00133	PTZ00133	 - 	cl21455
+Q#991 - >Tb927.9.13650	multi-dom	197556	4	174	6.4059e-38	127.359	smart00178	SAR	 - 	 - 
+Q#992 - >Tb927.9.13680	specific	173423	1	182	5.03706e-138	381.117	PTZ00133	PTZ00133	 - 	cl21455
+Q#992 - >Tb927.9.13680	multi-dom	197556	4	177	4.67906e-38	127.744	smart00178	SAR	 - 	 - 
+Q#997 - >Tb927.9.12470	superfamily	299948	126	342	6.56604e-17	76.4347	cl12283	IPK superfamily	 - 	 - 
+Q#998 - >Tb927.9.12490	superfamily	295369	231	515	9.76611e-10	59.656	cl02567	WD40 superfamily	 - 	 - 
+Q#998 - >Tb927.9.12490	superfamily	295369	411	733	1.34716e-06	50.026	cl02567	WD40 superfamily	 - 	 - 
+Q#998 - >Tb927.9.12490	specific	197651	898	932	0.000569613	37.2918	smart00320	WD40	 - 	cl02567
+Q#998 - >Tb927.9.12490	multi-dom	225201	388	768	1.29578e-10	63.9543	COG2319	WD40	 - 	 - 
+Q#998 - >Tb927.9.12490	multi-dom	225201	164	523	6.12588e-09	58.5615	COG2319	WD40	 - 	 - 
+Q#999 - >Tb927.9.12480	specific	279552	49	152	1.21585e-17	71.3666	pfam01221	Dynein_light	 - 	cl03131
+Q#1000 - >Tb927.5.1630	specific	278597	53	104	5.29074e-06	41.0562	pfam00173	Cyt-b5	C	cl02041
+Q#1001 - >Tb927.9.10690	specific	286501	30	484	0	717.792	pfam09418	DUF2009	 - 	cl12361
+Q#1003 - >Tb927.4.3850	superfamily	295369	106	441	2.8128e-37	136.696	cl02567	WD40 superfamily	 - 	 - 
+Q#1003 - >Tb927.4.3850	specific	285380	16	77	1.86625e-14	66.3869	pfam08154	NLE	 - 	cl06962
+Q#1003 - >Tb927.4.3850	multi-dom	225201	76	453	1.94394e-24	104.015	COG2319	WD40	C	 - 
+Q#1004 - >Tb927.4.3840	superfamily	302624	249	453	3.32952e-81	250.418	cl17173	AdoMet_MTases superfamily	 - 	 - 
+Q#1004 - >Tb927.4.3840	superfamily	293730	166	243	1.42508e-06	45.1594	cl25344	Methyltr_RsmF_N superfamily	 - 	 - 
+Q#1004 - >Tb927.4.3840	multi-dom	188051	184	454	4.14035e-110	327.116	TIGR00446	nop2p	 - 	 - 
+Q#1005 - >Tb927.4.3860	superfamily	299850	883	1095	2.62584e-47	165.88	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#1005 - >Tb927.4.3860	superfamily	299141	114	414	1.17738e-19	90.3335	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	 - 	 - 
+Q#1006 - >Tb927.4.3830	multi-dom	274761	35	102	0.00168105	36.5579	TIGR03744	traC_PFL_4706	NC	 - 
+Q#1007 - >Tb927.4.3880	superfamily	299850	885	1097	9.16658e-48	167.421	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#1007 - >Tb927.4.3880	superfamily	299141	121	416	1.73012e-20	93.0299	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	N	 - 
+Q#1008 - >Tb927.4.3870	superfamily	299850	883	1095	1.0376e-47	167.036	cl11967	Nucleotidyl_cyc_III superfamily	 - 	 - 
+Q#1008 - >Tb927.4.3870	superfamily	299141	114	414	1.70537e-19	89.9483	cl10011	Periplasmic_Binding_Protein_Type_1 superfamily	 - 	 - 
+Q#1011 - >Tb927.9.9600	specific	99707	346	483	0.000601669	39.8219	cd00009	AAA	 - 	cl21455
+Q#1011 - >Tb927.9.9600	multi-dom	278895	305	606	1.04306e-93	294.435	pfam00493	MCM	 - 	 - 
+Q#1012 - >Tb927.9.9580	specific	281171	238	539	3.79843e-79	252.255	pfam03133	TTL	 - 	cl17255
+Q#1013 - >Tb927.9.9630	specific	278916	72	104	0.000184383	37.012	pfam00515	TPR_1	 - 	cl22897
+Q#1013 - >Tb927.9.9630	specific	278916	4	34	0.00130577	34.7009	pfam00515	TPR_1	 - 	cl22897
+Q#1013 - >Tb927.9.9630	multi-dom	290150	4	65	1.57968e-11	58.107	pfam13414	TPR_11	 - 	 - 
+Q#1013 - >Tb927.9.9630	multi-dom	290168	44	105	0.00427452	34.1984	pfam13432	TPR_16	 - 	 - 
+Q#1015 - >Tb927.10.11100	specific	281440	315	562	1.14639e-89	274.707	pfam03441	FAD_binding_7	 - 	cl20252
+Q#1015 - >Tb927.10.11100	specific	279247	23	192	2.55133e-40	142.74	pfam00875	DNA_photolyase	 - 	cl02999
+Q#1015 - >Tb927.10.11100	multi-dom	223492	24	562	2.60758e-119	359.327	COG0415	PhrB	 - 	 - 
+Q#1020 - >Tb927.11.20080	specific	289949	16	363	3.7419e-20	90.682	pfam13206	VSG_B	 - 	cl20486
+Q#1020 - >Tb927.11.20080	specific	287612	425	519	1.21536e-09	54.3382	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#1021 - >Tb927.4.2380	specific	206740	66	306	6.5788e-132	385.088	cd09913	EHD	 - 	cl21455
+Q#1022 - >Tb927.4.2350	specific	200440	173	310	4.14096e-37	128.118	cd11284	ADF_Twf-C_like	 - 	cl15697
+Q#1022 - >Tb927.4.2350	superfamily	301701	15	104	0.000362297	38.3004	cl15697	ADF_gelsolin superfamily	C	 - 
+Q#1024 - >Tb927.11.14780	superfamily	304367	4	327	1.90354e-98	297.737	cl21464	cupin_like superfamily	 - 	 - 
+Q#1024 - >Tb927.11.14780	multi-dom	224399	2	398	3.14991e-56	186.351	COG1482	ManA	 - 	 - 
+Q#1026 - >Tb927.9.11050	multi-dom	237863	266	405	0.00443276	38.5528	PRK14949	PRK14949	NC	 - 
+Q#1029 - >Tb927.9.7520	multi-dom	291526	275	346	0.00224134	36.2992	pfam14863	Alkyl_sulf_dimr	N	 - 
+Q#1031 - >Tb927.4.1610	superfamily	295739	140	272	6.29714e-05	42.5845	cl03224	Porin3 superfamily	NC	 - 
+Q#1033 - >Tb927.9.11470	specific	185489	1	145	8.71271e-84	241.079	PTZ00160	PTZ00160	 - 	cl12022
+Q#1036 - >Tb927.10.2460	specific	278647	210	261	1.71919e-15	69.8047	pfam00226	DnaJ	 - 	cl02542
+Q#1038 - >Tb927.9.17280	specific	289949	20	371	8.61675e-28	112.638	pfam13206	VSG_B	 - 	cl20486
+Q#1038 - >Tb927.9.17280	specific	287612	429	506	2.15477e-10	56.2642	pfam10659	Trypan_glycop_C	 - 	cl11264
+Q#1040 - >Tb927.11.6910	specific	176851	682	888	1.02314e-16	78.1489	cd00177	START	 - 	cl14643
+Q#1044 - >Tb927.6.4630	specific	277368	26	280	4.40928e-79	240.278	cd07425	MPP_Shelphs	 - 	cl13995
+Q#1045 - >Tb927.11.1190	specific	276995	104	148	5.25349e-12	59.1535	cd15520	PHD3_Lid2p_like	 - 	cl22851
+Q#1045 - >Tb927.11.1190	specific	290367	8	53	1.41114e-08	49.3993	pfam13639	zf-RING_2	 - 	cl17238
+Q#1046 - >Tb927.11.1200	superfamily	295369	275	451	5.10567e-14	71.5972	cl02567	WD40 superfamily	C	 - 
+Q#1046 - >Tb927.11.1200	specific	128913	6	38	0.00703175	33.1768	smart00667	LisH	 - 	cl23059
+Q#1046 - >Tb927.11.1200	multi-dom	225201	275	495	6.02687e-10	60.4875	COG2319	WD40	C	 - 
+Q#1047 - >Tb927.10.1150	multi-dom	293650	909	999	0.00755936	37.8542	pfam17045	CEP63	N	 - 
+Q#1048 - >Tb927.10.1120	multi-dom	290579	241	357	2.77245e-06	48.3447	pfam13868	TPH	N	 - 
+Q#1049 - >Tb927.4.5510	superfamily	289949	30	364	1.8314e-18	85.2892	cl20486	VSG_B superfamily	 - 	 - 
+Q#1050 - >Tb927.4.5500	superfamily	279282	4	368	5.81443e-17	80.9177	cl03014	Trypan_glycop superfamily	 - 	 - 
+Q#1051 - >Tb927.10.15260	specific	289563	235	277	0.000173473	38.4003	pfam12799	LRR_4	 - 	cl19302
+Q#1051 - >Tb927.10.15260	specific	289563	259	299	0.000565443	36.8595	pfam12799	LRR_4	 - 	cl19302
+Q#1051 - >Tb927.10.15260	specific	289563	211	252	0.000953189	36.0891	pfam12799	LRR_4	 - 	cl19302
+Q#1051 - >Tb927.10.15260	multi-dom	227223	211	358	6.7725e-10	60.367	COG4886	LRR	NC	 - 
+Q#1052 - >Tb927.9.12040	superfamily	295716	61	184	5.1022e-10	58.9773	cl03179	PARP_regulatory superfamily	C	 - 
+Q#1054 - >Tb927.10.6810	superfamily	302627	23	248	1.1548e-54	173.062	cl17190	NK superfamily	 - 	 - 
+Q#1054 - >Tb927.10.6810	multi-dom	279019	24	253	2.45699e-41	139.053	pfam00625	Guanylate_kin	 - 	 - 
+Q#1055 - >Tb927.10.6870	superfamily	304358	32	317	3.88275e-47	158.945	cl21454	NADB_Rossmann superfamily	 - 	 - 
+Q#1055 - >Tb927.10.6870	multi-dom	278532	31	230	8.34205e-25	98.4464	pfam00106	adh_short	 - 	 - 
+Q#1057 - >Tb927.10.13640	multi-dom	211680	277	440	0.00460139	36.6614	TIGR01664	DNA-3'-Pase	 - 	 - 
+Q#1059 - >Tb927.10.12950	superfamily	304375	103	223	0.0013914	39.2379	cl21478	ATP-synt_B superfamily	N	 - 
+Q#1059 - >Tb927.10.12950	multi-dom	223496	79	640	2.53293e-12	69.7891	COG0419	SbcC	N	 - 
+Q#1060 - >Tb927.10.13020	superfamily	252829	35	446	2.97196e-38	146.493	cl20276	Vps16_N superfamily	 - 	 - 
+Q#1060 - >Tb927.10.13020	superfamily	282668	543	892	1.00738e-18	86.8089	cl04794	Vps16_C superfamily	 - 	 - 
+Q#1061 - >Tb927.9.12780	specific	290351	781	1024	1.71246e-52	183.319	pfam13621	Cupin_8	 - 	cl21464
+Q#1061 - >Tb927.9.12780	superfamily	302624	15	228	1.40751e-19	86.5024	cl17173	AdoMet_MTases superfamily	 - 	 - 
+Q#1061 - >Tb927.9.12780	specific	290154	513	575	0.00140089	36.424	pfam13418	Kelch_4	 - 	cl02701
+Q#1063 - >Tb927.9.12770	specific	273253	758	789	0.00281398	35.1235	TIGR00756	PPR	 - 	cl03252
+Q#1063 - >Tb927.9.12770	multi-dom	289786	755	804	5.64125e-07	45.8576	pfam13041	PPR_2	 - 	 - 
+Q#1063 - >Tb927.9.12770	multi-dom	289786	719	769	0.000163501	38.924	pfam13041	PPR_2	 - 	 - 
+Q#1063 - >Tb927.9.12770	multi-dom	291240	155	219	0.00882853	34.5006	pfam14559	TPR_19	 - 	 - 
+Q#1063 - >Tb927.9.12770	multi-dom	289786	791	835	0.00284665	35.4572	pfam13041	PPR_2	 - 	 - 
+Q#1064 - >Tb927.10.3020	superfamily	289044	98	184	0.00200569	38.943	cl13649	Angiomotin_C superfamily	C	 - 
+Q#1064 - >Tb927.10.3020	superfamily	304603	152	276	0.00749069	37.2134	cl22856	SNARE superfamily	C	 - 
+Q#1066 - >Tb927.4.3930	superfamily	294310	51	453	8.0672e-106	321.046	cl00456	SLC5-6-like_sbd superfamily	 - 	 - 
+Q#1066 - >Tb927.4.3930	multi-dom	223884	58	449	1.49956e-24	103.885	COG0814	SdaC	 - 	 - 
+Q#1067 - >Tb927.6.650	superfamily	287414	571	700	0.00754885	39.17	cl20399	MMS1_N superfamily	N	 - 

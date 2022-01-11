@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>SB Admin V2 - Bootstrap Admin Theme</title>
+    <!-- Data Table -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/t/dt/jq-2.2.0,jszip-2.5.0,pdfmake-0.1.18,dt-1.10.11,af-2.1.1,b-1.1.2,b-colvis-1.1.2,b-flash-1.1.2,b-html5-1.1.2,b-print-1.1.2,cr-1.3.1,fc-3.2.1,fh-3.1.1,kt-2.1.1,r-2.0.2,rr-1.1.1,sc-1.4.1,se-1.1.2/datatables.min.css"/>
+
+
+    <!-- bootstrap Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- MetisMenu CSS -->
+    <link href="static/metisMenu/metisMenu.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="static/dist/css/sb-admin-2.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="static/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+<style>
+
+    div#proteinFeatureConteiner {
+        height: 400px;
+        overflow: auto;
+        scrollbar-base-color:#ffeaff
+    }
+
+    #scrollable-dropdown-menu .tt-dropdown-menu {
+        max-height: 150px;
+        overflow-y: auto;
+    }
+
+    .tt-query, /* UPDATE: newer versions use tt-input instead of tt-query */
+    .tt-hint {
+        width: 396px;
+        height: 30px;
+        padding: 8px 12px;
+        font-size: 14px;
+        line-height: 30px;
+        border: 2px solid #ccc;
+        border-radius: 8px;
+        outline: none;
+    }
+
+    .tt-query { /* UPDATE: newer versions use tt-input instead of tt-query */
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    }
+
+    .tt-hint {
+        color: #999;
+    }
+
+    .tt-menu { /* UPDATE: newer versions use tt-menu instead of tt-dropdown-menu */
+        width: 200px;
+        margin-top: 12px;
+        padding: 8px 0;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+        box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    }
+
+    .tt-suggestion {
+        padding: 3px 20px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .tt-suggestion.tt-is-under-cursor { /* UPDATE: newer versions use .tt-suggestion.tt-cursor */
+        color: #fff;
+        background-color: #0097cf;
+
+    }
+
+    .tt-suggestion p {
+        margin: 0;
+    }
+
+    tr {
+        font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+        font-size: 14px;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        line-height: 20px;
+        word-wrap: break-word;
+
+    }
+
+
+
+
+</style>
+
+    <div id="wrapper">
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="">ModTryp</a>
+            </div>
+            <!-- /.navbar-header -->
+            <ul class="nav navbar-top-links navbar-right">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <i class="fa fa-envelope fa-fw"></i> <i class="fa fa-caret-down"></i>
+                    </a>
+                    <ul class="dropdown-menu dropdown-messages">
+                        <li>
+                            <a href="#">
+                                <div>
+                                    <strong>John Smith</strong>
+                                    <span class="pull-right text-muted">
+
+                                    </span>
+                                </div>
+                                <div>mail</div>
+                            </a>
+                        </li>
+                        <li class="divider"></li>
+                        <li>
+                            <a href="#">
+                                <div>
+                                    <strong>John Smith</strong>
+                                    <span class="pull-right text-muted">
+                                    </span>
+                                </div>
+                                <div>mail</div>
+                            </a>
+                        </li>
+                        <li class="divider"></li>
+                        <li>
+                            <a href="#">
+                                <div>
+                                    <strong>John Smith</strong>
+                                    <span class="pull-right text-muted">
+                                    </span>
+                                </div>
+                                <div>mail</div>
+                            </a>
+                        </li>
+                        <li class="divider"></li>
+                        <li>
+                            <a class="text-center" href="#">
+                                <strong>Contacts</strong>
+
+                            </a>
+                        </li>
+                    </ul>
+                    <!-- /.dropdown-messages -->
+                </li>
+
+            </ul>
+            <!-- /.navbar-top-links -->
+            <div class="navbar-default sidebar" role="navigation">
+                <div class="sidebar-nav navbar-collapse">
+                    <ul class="nav" id="side-menu">
+                        <li class="sidebar-search">
+                            <div class="input-group custom-search-form">
+
+                                <div class="row">
+                                    <div class="col-lg-8">
+                                        <div id="the-basic">
+                                            <input  class="form-control typeahead" type="text" id="form_prot_id" placeholder="Type Protein ID" value='Tb927.10.3210'>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-2">
+                                        <button class="btn btn-default" type="button" onclick="get_id();">
+                                            <i class="fa fa-search"></i>
+                                        </button>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <!-- /input-group -->
+                        </li>
+
+                    </ul>
+                </div>
+                <!-- /.sidebar-collapse -->
+            </div>
+            <!-- /.navbar-static-side -->
+        </nav>
+
+        <div id="page-wrapper">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header" id="proteinName">Protein Name</h1>
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            <!-- /.row -->
+            <div class="row">
+                <div class="col-lg-4">
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Protein Description
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <ul>
+                            <li> <div id="proteinDescription"> description </div> </li>
+
+                            </ul>
+
+                        </div>
+                        <!-- /.panel-body -->
+                    </div><!-- protein description -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Comments
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <ul id="allert list">
+
+                                <li> <div id="alert_1"> alert 1 </div> </li>
+                                <li> <div id="alert_2"> alert 2 </div> </li>
+
+                            </ul>
+
+                        </div>
+                        <!-- /.panel-body -->
+                    </div><!-- protein description -->
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-6 -->
+                <div class="col-lg-8">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Peptide list
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+
+                            <div id="main_html_table">
+
+                                <table id="data_table" class="stripe" cellspacing="0" width="100%">
+                                    <thead>
+                                    <tr>
+                                        <th>Peptide</th>
+                                        <th>Site</th>
+                                        <th>MS_D</th>
+                                        <th>MS_H</th>
+                                        <th>Prediction</th>
+                                    </tr>
+                                    </thead>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+                        <!-- /.panel-body -->
+                    </div><!-- peptide list -->
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-6 -->
+
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Feature Visualization
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div id="proteinFeatureConteiner">
+                            <div id="proteinFeature"></div>
+                            </div>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-6 -->
+
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Predicted Proteins
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div id="predictedProteinsConteiner">
+                                <div id="predictedProteins">
+
+                                    <table id="data_table_predictedProteins" class="stripe" cellspacing="0" width="100%">
+                                        <thead>
+                                        <tr>
+                                            <th>Id</th>
+                                            <th>Description</th>
+                                            <th>Comments</th>
+                                            <th>GO terms</th>
+                                        </tr>
+                                        </thead>
+
+                                    </table>
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-6 -->
+
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /#page-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+    <!-- Protein Feature Visualization  -->
+    <script src="https://cdn.jsdelivr.net/gh/calipho-sib/feature-viewer@v1.1.0/dist/feature-viewer.bundle.js"></script>
+
+    <!-- jQuery -->
+
+
+    <!-- Date Table -->
+    <script type="text/javascript" src="https://cdn.datatables.net/t/dt/jq-2.2.0,jszip-2.5.0,pdfmake-0.1.18,dt-1.10.11,af-2.1.1,b-1.1.2,b-colvis-1.1.2,b-flash-1.1.2,b-html5-1.1.2,b-print-1.1.2,cr-1.3.1,fc-3.2.1,fh-3.1.1,kt-2.1.1,r-2.0.2,rr-1.1.1,sc-1.4.1,se-1.1.2/datatables.min.js"></script>
+
+    <!-- bootstrap     -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <!-- typeahead -->
+    <script src="static/twitter/typeahead/typeahead.bundle.min.js"></script>
+    <script src="static/twitter/typeahead/typeahead.jquery.min.js"></script>
+    <script src="static/twitter/typeahead/bloodhound.min.js"></script>
+
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="static/metisMenu/metisMenu.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="static/dist/js/sb-admin-2.js"></script>
+
+    <!-- typeahead JavaScript -->
+    <script>
+
+        var substringMatcher = function(strs) {
+            return function findMatches(q, cb) {
+                var matches, substringRegex;
+
+                // an array that will be populated with substring matches
+                matches = [];
+
+                // regex used to determine if a string contains the substring `q`
+                substrRegex = new RegExp(q, 'i');
+
+                // iterate through the pool of strings and for any string that
+                // contains the substring `q`, add it to the `matches` array
+                $.each(strs, function(i, str) {
+                    if (substrRegex.test(str)) {
+                        matches.push(str);
+                    }
+                });
+
+                cb(matches);
+            };
+        };
+
+        var trip_ids = new Bloodhound({
+            datumTokenizer: Bloodhound.tokenizers.whitespace,
+            queryTokenizer: Bloodhound.tokenizers.whitespace,
+            // url points to a json file that contains an array of country names, see
+            // https://github.com/twitter/typeahead.js/blob/gh-pages/data/countries.json
+            prefetch: '/data/trip_ids',
+            limit: 20
+        });
+
+        $('#the-basic .typeahead').typeahead(null, {
+            name: 'trip_ids',
+            source: trip_ids
+        });
+
+    </script>
+
+
+
+
+<script>
+
+
+
+    function loadProtein(prot_id){
+
+        var string = prot_id //$('#form_prot_id').val();
+        console.log('selection', string);
+        $("#proteinName").text(string);
+        //console.log('address',  "dumpProtein/"+string);
+        var request = $.getJSON( "dumpProtein/"+string, function( data ) {
+
+            //console.log('description', data['description']);
+
+            $("#proteinDescription").text(data['description']);
+            if (data['SignalPeptide'].length == 0) {$("#alert_1").text('This protein might not have a signal peptide.');}
+            else {$("#alert_1").text('This protein has a signal peptide.'); }
+
+            if (data['Deamidated'].length == 0 && data['HexNAc'].length == 0) {$("#alert_2").text('This protein does not have experimental verified glycosylated sites, only predictions are reported.');}
+            else {$("#alert_2").text('This protein has experimental verified glycosylated sites.'); }
+
+
+
+            $( "#proteinFeature" ).empty();
+            //console.log();
+            var seq = data['seq'];
+            var ft = new FeatureViewer(seq,
+                    '#proteinFeature',
+                    {
+                        showAxis: true,
+                        showSequence: true,
+                        brushActive: true, //zoom
+                        toolbar:true, //current zoom & mouse position
+                        bubbleHelp:true,
+                        zoomMax:10 //define the maximum range of the zoom
+                    });
+
+            var topology = [];
+
+            var temp_data = data['SignalPeptide'];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][1]+1;
+
+                temp['id']='Signal_Peptide';
+                temp['color']="red";
+                temp['description']="Signal Peptide";
+                topology.push(temp)
+            };
+
+            var temp_data = data['ExtraCellular'];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][1]+1;
+
+                temp['id']='ExtraCellularDomain'+temp['x'].toString();
+                temp['color']="#7FFF00";
+                temp['description']="Extra Cellular Domain";
+                topology.push(temp)
+            };
+
+            var temp_data = data['TransMembrane'];
+            
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][1]+1;
+
+                temp['id']='TransMembrane'+temp['x'].toString();
+                temp['color']="#00FFFF";
+                temp['description']="Trans Membrane";
+                topology.push(temp)
+            };
+
+
+            ft.addFeature({
+                data: topology,
+                name: "Topology",
+                className: "Topology", //can be used for styling
+                color: "#9932CC",
+                type: "rect" // ['rect', 'path', 'line']
+            });
+
+            var GPI = [];
+            var temp_data = data['GPI'];
+            
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]-1;
+                temp['y']=temp_data[i][0]+2;
+                console.log(temp_data)
+                temp['id']='GPI_'+temp['x'].toString();
+                temp['color']="Red";
+                temp['description']="GPI";
+                GPI.push(temp)
+            };
+            
+            ft.addFeature({
+                data: GPI,
+                name: "GPI",
+                className: "GPI", //can be used for styling
+                color: "#9932CC",
+                type: "rect" // ['rect', 'path', 'line']
+            });
+
+
+            var temp_data = data['Deamidated'];
+            var deamidated = [];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][0]+1;
+                var site = temp_data[i][0]+1;
+                temp['id']='Deamidation_'+site.toString();
+                temp['color']="red";
+                temp['description']="Found "+temp_data[i][2].toString();
+                deamidated.push(temp)
+
+            };
+            ft.addFeature({
+                data: deamidated,
+                name: "MS Deamidation",
+                className: "Glycosilation_Deamidation",
+                color: "#006588",
+                type: "rect",
+            });
+
+            var temp_data = data['HexNAc'];
+            var hexnac = [];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][0]+1;
+                var site = temp_data[i][0]+1;
+                temp['id']='HexNAc_'+site.toString();
+                temp['color']="Blue";
+                temp['description']="Found "+temp_data[i][2].toString();
+                hexnac.push(temp)
+
+            };
+            ft.addFeature({
+                data: hexnac,
+                name: "MS HexNAc",
+                className: "Glycosilation_HexNAc",
+                color: "#006588",
+                type: "rect",
+            });
+            
+
+            var temp_data = data['Prediction'];
+            var prediction = [];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][0]+1;
+                var site = temp_data[i][0]+1;
+                temp['id']='prediction_'+site.toString();
+                var score = temp_data[i][2];
+                temp['color']="Blue";
+                temp['description']="ML pred: HexNAc"
+                if (score > 0.5){
+                    temp['color']="Red";
+                    temp['description']="ML pred: Deamidation"
+                }
+                
+
+                //temp['description']="ML pred: "//+temp_data[i][2].toString();
+                prediction.push(temp)
+
+            };
+            ft.addFeature({
+                data: prediction,
+                name: "Prediction",
+                className: "Glycosilation_Prediction",
+                color: "#006588",
+                type: "rect",
+            });
+
+            var temp_data = data['Domains'];
+            //console.log('temp_data', temp_data)
+            var domains = [];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0];
+                temp['y']=temp_data[i][1];
+                temp['color']="#7FFF00";
+                temp['description']=temp_data[i][3] + ' ' +temp_data[i][2].toString();
+                domains.push(temp)
+
+            };
+            ft.addFeature({
+                data: domains,
+                name: "Domains",
+                className: "Domains",
+                color: "#006588",
+                type: "rect",
+            });
+
+            if (data['Coverage'].length > 0){
+            ft.addFeature({
+                data: data['Coverage'],
+                name: "MS coverage",
+                className: "test4",
+                color: "Red",
+                type: "line",
+                filter: "type2",
+                height: "3"
+            });}
+            console.log('coverage2', data['Coverage2']);
+            if (data['Coverage2'].length > 0){
+                ft.addFeature({
+                    data: data['Coverage2'],
+                    name: "MS coverage2",
+                    className: "test4",
+                    color: "Blue",
+                    type: "line",
+                    filter: "type2",
+                    height: "3"
+                });}
+
+
+            zoomIn = function(input){
+                var length_seq = data['seq'].length;
+
+                var position = input.value;
+                var start = position-20;
+                var end = start+40;
+                if (start < 20) {start = 0}
+                if (end > length_seq) {end = length_seq}
+                console.log('zoom on', position, start, end, length_seq);
+                ft.zoom(start,end);
+
+            }
+
+            var dataTable = data['dataTable'];
+            //console.log(data);
+            //console.log(dataTable);
+            //console.log('Domains', data['Domains']);
+            var table = $('#data_table').DataTable(
+                    {
+                        destroy: true,
+                        data: dataTable,
+                        "dom": 'Bfrtip',
+                        "order": [],
+                        "lengthMenu": [
+                            [ 5, 10, 25, 50, -1 ],
+                            [ '5 rows', '10 rows', '25 rows', '50 rows', 'Show all' ]
+                        ],
+                        "buttons": [ 'pageLength','copy', 'excel', 'csv' ],
+                        "columns": [
+                            { "title": "Peptide" ,  "fnCreatedCell": function (nTd, sData, oData, iRow, iCol) {
+                                var pep = sData;
+
+                                var limit = Math.floor(pep.length/2);
+                                var left_pep = pep.slice(0,limit);
+                                var right_pep = pep.slice(limit+1,pep.length);
+                                var central = pep.slice(limit,limit+1);
+                                var pep_html = left_pep+"<span style='font-size: 16pt; color:blue'>"+central+"</span>"+right_pep
+                                //$(nTd).html(left_pep+"<span style='font-size: 16pt; color:blue'>"+central+"</span>"+right_pep);
+                                $(nTd).html('<button data-toggle="tooltip" data-placement="top" title="zoom to features panel" onclick="zoomIn(this)" id="longTableId" value="'+oData[1]+'">'+pep_html+'</button>')
+                            }},
+                            { "title": "Site"},
+                            { "title": "MS_D" },
+                            { "title": "MS_H" },
+                            { "title": "Prediction" }
+                        ]
+                    }
+            );
+
+
+
+        });
+
+        request.complete(function() {
+            console.log( "protein is loaded" );
+        });
+
+    };
+
+    function get_id(){
+        var string = $('#form_prot_id').val();
+        loadProtein(string);
+    }
+
+    function get_id2(objButton){
+        var string = objButton.value;
+        loadProtein(string);
+    }
+
+
+    var request = $.getJSON( "/dumpPredictedProteins", function( data ) {
+        //console.log('predictions', data['dataTable']);
+        var dataTable = data['dataTable'];
+        //console.log(dataTable,'dataTable prot')
+        var table2 = $('#data_table_predictedProteins').DataTable(
+                {
+
+                    "destroy": true,
+                    "data": dataTable,
+                    "dom": 'Bfrtip',
+                    "order": [],
+
+                    "lengthMenu": [
+                        [ 5, 10, 25, 50, -1 ],
+                        [ '5 rows', '10 rows', '25 rows', '50 rows', 'Show all' ]
+                    ],
+                    "buttons": [ 'pageLength','copy', 'excel', 'csv' ],
+                    "columns": [
+
+                        { "title": "Id" ,  "fnCreatedCell": function (nTd, sData, oData, iRow, iCol) {
+                            var temp_id = sData;
+                            $(nTd).html('<button data-toggle="tooltip" data-placement="top" title="Load Data" onclick="get_id2(this)" id="longTableId" value="'+temp_id+'">'+temp_id+'</button>');
+
+                        }},
+                        { "title": "Description" ,  "fnCreatedCell": function (nTd, sData, oData, iRow, iCol) {
+                            var temp_id = sData;
+
+                            $(nTd).html(  '<div data-toggle="tooltip" data-placement="top" title="'+temp_id+'">'+temp_id.slice(0,20)+'</div>'      );
+
+                        }},
+                        { "title": "Comments" ,  "fnCreatedCell": function (nTd, sData, oData, iRow, iCol) {
+                            var temp_id = sData;
+
+                            $(nTd).html('<div data-toggle="tooltip" data-placement="top" title="'+temp_id+'">'+temp_id.slice(0,20)+'</div>');
+                        }},
+                        { "title": "GO terms" ,  "fnCreatedCell": function (nTd, sData, oData, iRow, iCol) {
+                            var temp_id = sData;
+                            //console.log('nTd',nTd);
+                            //console.log('oData',oData);
+                            //console.log('sData',oData);
+                            $(nTd).html('<div data-toggle="tooltip" data-placement="top" title="'+temp_id+'">'+temp_id.slice(0,20)+'</div>');
+
+
+
+                        }},
+                    ],
+
+
+
+
+
+                }
+        );
+
+    });
+
+
+    $( document ).ready(function() {
+        console.log( "ready!" );
+        loadProtein('Tb927.1.5100');
+    });
+
+
+    $("body").tooltip({
+        selector: '[data-toggle="tooltip"]'
+    });
+
+
+
+    //$('#data_table_predictedProteins tbody').on('click', 'tr', function () {
+    //var data = table2.row( this ).data();
+    //alert( 'I will load '+data[0]+'\'s data' );
+    //loadProtein(data[0])
+    //} );
+    //table.$("a[rel=popover]").popover().click(function(e) {e.preventDefault();});
+    //$(function () {
+    //$('[data-toggle="tooltip"]').tooltip();
+    //console.log('inittttttttttttttttttttttttt')
+    //})
+</script>
+
+</body>
+
+</html>

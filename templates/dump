@@ -1,0 +1,170 @@
+
+            dataTable = data['dataTable'];
+            console.log(data);
+            console.log(dataTable);
+            var table = $('#data_table').DataTable(
+                    {
+                        destroy: true,
+                        data: dataTable,
+                        "dom": 'Bfrtip',
+                        "order": [],
+                        "lengthMenu": [
+                            [ 5, 10, 25, 50, -1 ],
+                            [ '5 rows', '10 rows', '25 rows', '50 rows', 'Show all' ]
+                        ],
+                        "buttons": [ 'pageLength','copy', 'excel', 'csv' ],
+                        "columns": [
+                            { "title": "Peptide" ,  "fnCreatedCell": function (nTd, sData, oData, iRow, iCol) {
+                                var pep = sData;
+                                var limit = Math.floor(pep.length/2);
+                                var left_pep = pep.slice(0,limit);
+                                var right_pep = pep.slice(limit+1,pep.length);
+                                var central = pep.slice(limit,limit+1);
+                                //console.log('pep',left_pep, right_pep, central, limit );
+                                //var left = pep.slice(1,5);
+                                ///consloe.log('left',left);
+                                //var left = pep.slice(0,5);
+                                //var right = pep.slice(6,13);
+                                $(nTd).html(left_pep+"<span style='font-size: 16pt; color:blue'>"+central+"</span>"+right_pep);
+                            }},
+                            { "title": "Site"},
+                            { "title": "MS_D" },
+                            { "title": "MS_H" },
+                            { "title": "Prediction" }
+                        ]
+                    }
+            );
+            
+            $( "#proteinFeature" ).empty();
+
+            var seq = data['seq'];
+            var ft = new FeatureViewer(seq,
+                    '#proteinFeature',
+                    {
+                        showAxis: true,
+                        showSequence: true,
+                        brushActive: true, //zoom
+                        toolbar:true, //current zoom & mouse position
+                        bubbleHelp:true,
+                        zoomMax:10 //define the maximum range of the zoom
+                    });
+
+            var topology = [];
+            var temp_data = data['SignalPeptide'];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][1]+1;
+
+                temp['id']='Signal_Peptide';
+                temp['color']="red";
+                temp['description']="Signal Peptide";
+                topology.push(temp)
+            };
+
+            var temp_data = data['ExtraCellular'];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][1]+1;
+
+                temp['id']='ExtraCellularDomain'+temp['x'].toString();
+                temp['color']="#7FFF00";
+                temp['description']="Extra Cellular Domain";
+                topology.push(temp)
+            };
+
+            var temp_data = data['TransMembrane'];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][1]+1;
+
+                temp['id']='TransMembrane'+temp['x'].toString();
+                temp['color']="#00FFFF";
+                temp['description']="Trans Membrane";
+                topology.push(temp)
+            };
+
+
+            ft.addFeature({
+                data: topology,
+                name: "Topology",
+                className: "Topology", //can be used for styling
+                color: "#9932CC",
+                type: "rect" // ['rect', 'path', 'line']
+            });
+
+
+            var temp_data = data['Deamidated'];
+            var deamidated = [];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][0]+1;
+                var site = temp_data[i][0]+1;
+                temp['id']='Deamidation_'+site.toString();
+                temp['color']="red";
+                temp['description']="Found "+temp_data[i][2].toString();
+                deamidated.push(temp)
+
+            };
+            ft.addFeature({
+                data: deamidated,
+                name: "MS Deamidation",
+                className: "Glycosilation_Deamidation",
+                color: "#006588",
+                type: "rect",
+            });
+
+            var temp_data = data['HexNAc'];
+            var hexnac = [];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][0]+1;
+                var site = temp_data[i][0]+1;
+                temp['id']='HexNAc_'+site.toString();
+                temp['color']="red";
+                temp['description']="Found "+temp_data[i][2].toString();
+                hexnac.push(temp)
+
+            };
+            ft.addFeature({
+                data: hexnac,
+                name: "MS HexNAc",
+                className: "Glycosilation_HexNAc",
+                color: "#006588",
+                type: "rect",
+            });
+
+
+            var temp_data = data['Prediction'];
+            var prediction = [];
+            for (var i = 0; i < temp_data.length; i++) {
+                var temp = {};
+                temp['x']=temp_data[i][0]+1;
+                temp['y']=temp_data[i][0]+1;
+                var site = temp_data[i][0]+1;
+                temp['id']='prediction_'+site.toString();
+                temp['color']="Blue";
+                temp['description']="score "+temp_data[i][2].toString();
+                prediction.push(temp)
+
+            };
+            ft.addFeature({
+                data: prediction,
+                name: "Prediction",
+                className: "Glycosilation_Prediction",
+                color: "#006588",
+                type: "rect",
+            });
+
+
+
+
+        });
+
+        request.complete(function() {
+            console.log( "second complete" );
+        });
