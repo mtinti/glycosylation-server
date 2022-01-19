@@ -10,4 +10,5 @@
     School of Life Sciences, University of Dundee.
 
 ## Description
-	The repo contains the code to run the web server. Use requirment.txt to create a new enviroment then "python glyc_web_server.py"
+	The repo contains the code to run the web server. 
+	Use requirment.txt to create a new enviroment then "python glyc_web_server.py"
